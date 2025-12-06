@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Transportation one wor
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar                                      | Created          | Expires          |
-| --------------- | --------- | -------- | ------ | ------ | ---------------------------------------------- | ---------------- | ---------------- |
-| transport.at    | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.co    | resell    | 84       | 84%    | 9      | Hello Internet Corp.                           | 25/02/2010 01:17 | 24/02/2026 23:59 |
-| transport.me    | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 29/07/2008 06:35 | 29/07/2026 06:35 |
-| transport.site  | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.space | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.store | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.tech  | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.us    | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 12/07/2020 00:01 | 12/07/2026 00:01 |
-| transport.xyz   | resell    | 84       | 84%    | 9      | Go Daddy, LLC                                  | 02/06/2014 17:34 | 02/06/2026 23:59 |
-| delivery.app    | resell    | 72       | 84%    | 8      | Squarespace Domains II LLC.                    | 03/05/2018 23:45 | 03/05/2026 23:45 |
-| delivery.at     | sold      | 72       | 84%    | 8      | easyname GmbH ( https://nic.at/registrar/414 ) |                  |                  |
-| delivery.cloud  | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.co     | resell    | 72       | 84%    | 8      | Hello Internet Corp.                           | 24/02/2010 23:58 | 23/02/2026 23:59 |
-| delivery.dev    | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.io     | expiring  | 72       | 84%    | 8      | Porkbun LLC                                    | 17/07/2015 00:30 | 17/07/2025 00:30 |
-| delivery.online | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.pro    | resell    | 72       | 84%    | 8      | Sav.com, LLC - 3                               | 28/11/2023 15:15 | 28/11/2025 15:15 |
-| delivery.site   | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.so     | resell    | 72       | 84%    | 8      | Dynadot LLC                                    | 13/09/2021 03:55 | 13/09/2025 03:55 |
-| delivery.space  | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.store  | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.tech   | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.xyz    | resell    | 72       | 84%    | 8      | Spaceship, Inc.                                | 07/05/2025 00:52 | 07/05/2026 23:59 |
-| service.space   | premium   | 70       | 36%    | 7      |                                                |                  |                  |
-| service.spot    | available | 70       | 36%    | 7      |                                                |                  |                  |
-| service.srl     | available | 70       | 36%    | 7      |                                                |                  |                  |
-| service.storage | available | 70       | 36%    | 7      |                                                |                  |                  |
-| service.store   | premium   | 70       | 36%    | 7      |                                                |                  |                  |
-| service.stream  | available | 70       | 36%    | 7      |                                                |                  |                  |
-| service.study   | available | 70       | 36%    | 7      |                                                |                  |                  |
+| Domain           | Status    | Attract. | Demand | Length | Registrar                                      | Created          | Expires          |
+| ---------------- | --------- | -------- | ------ | ------ | ---------------------------------------------- | ---------------- | ---------------- |
+| transport.at     | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.co     | resell    | 84       | 84%    | 9      | Hello Internet Corp.                           | 25/02/2010 01:17 | 24/02/2026 23:59 |
+| transport.me     | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 29/07/2008 06:35 | 29/07/2026 06:35 |
+| transport.site   | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.space  | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.store  | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.tech   | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.us     | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 12/07/2020 00:01 | 12/07/2026 00:01 |
+| transport.xyz    | resell    | 84       | 84%    | 9      | Go Daddy, LLC                                  | 02/06/2014 17:34 | 02/06/2026 23:59 |
+| delivery.app     | resell    | 72       | 84%    | 8      | Squarespace Domains II LLC.                    | 03/05/2018 23:45 | 03/05/2026 23:45 |
+| delivery.at      | sold      | 72       | 84%    | 8      | easyname GmbH ( https://nic.at/registrar/414 ) |                  |                  |
+| delivery.cloud   | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.co      | resell    | 72       | 84%    | 8      | Hello Internet Corp.                           | 24/02/2010 23:58 | 23/02/2026 23:59 |
+| delivery.dev     | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.io      | expiring  | 72       | 84%    | 8      | Porkbun LLC                                    | 17/07/2015 00:30 | 17/07/2025 00:30 |
+| delivery.online  | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.pro     | resell    | 72       | 84%    | 8      | Sav.com, LLC - 3                               | 28/11/2023 15:15 | 28/11/2025 15:15 |
+| delivery.site    | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.so      | resell    | 72       | 84%    | 8      | Dynadot LLC                                    | 13/09/2021 03:55 | 13/09/2025 03:55 |
+| delivery.space   | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.store   | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.tech    | premium   | 72       | 84%    | 8      |                                                |                  |                  |
+| delivery.xyz     | resell    | 72       | 84%    | 8      | Spaceship, Inc.                                | 07/05/2025 00:52 | 07/05/2026 23:59 |
+| service.democrat | available | 70       | 36%    | 7      |                                                |                  |                  |
+| service.dental   | resell    | 70       | 36%    | 7      | united-domains GmbH                            | 13/08/2014 16:00 | 13/08/2026 16:00 |
+| service.dentist  | available | 70       | 36%    | 7      |                                                |                  |                  |
+| service.diamonds | premium   | 70       | 36%    | 7      |                                                |                  |                  |
+| service.diet     | available | 70       | 36%    | 7      |                                                |                  |                  |
+| service.digital  | resell    | 70       | 36%    | 7      | GoDaddy.com, LLC                               | 15/01/2019 11:16 | 15/01/2026 11:16 |
+| service.direct   | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                | 10/01/2024 15:15 | 10/01/2026 15:15 |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Transportation-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
