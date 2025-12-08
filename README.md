@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Transportation one wor
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar                                      | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ---------------------------------------------- | ---------------- | ---------------- |
-| transport.at        | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.co        | resell    | 84       | 84%    | 9      | Hello Internet Corp.                           | 25/02/2010 01:17 | 24/02/2026 23:59 |
-| transport.me        | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 29/07/2008 06:35 | 29/07/2026 06:35 |
-| transport.site      | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.space     | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.store     | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.tech      | premium   | 84       | 84%    | 9      |                                                |                  |                  |
-| transport.us        | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 12/07/2020 00:01 | 12/07/2026 00:01 |
-| transport.xyz       | resell    | 84       | 84%    | 9      | Go Daddy, LLC                                  | 02/06/2014 17:34 | 02/06/2026 23:59 |
-| delivery.app        | resell    | 72       | 84%    | 8      | Squarespace Domains II LLC.                    | 03/05/2018 23:45 | 03/05/2026 23:45 |
-| delivery.at         | sold      | 72       | 84%    | 8      | easyname GmbH ( https://nic.at/registrar/414 ) |                  |                  |
-| delivery.cloud      | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.co         | resell    | 72       | 84%    | 8      | Hello Internet Corp.                           | 24/02/2010 23:58 | 23/02/2026 23:59 |
-| delivery.dev        | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.io         | expiring  | 72       | 84%    | 8      | Porkbun LLC                                    | 17/07/2015 00:30 | 17/07/2025 00:30 |
-| delivery.online     | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.pro        | resell    | 72       | 84%    | 8      | Sav.com, LLC - 3                               | 28/11/2023 15:15 | 28/11/2025 15:15 |
-| delivery.site       | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.so         | resell    | 72       | 84%    | 8      | Dynadot LLC                                    | 13/09/2021 03:55 | 13/09/2025 03:55 |
-| delivery.space      | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.store      | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.tech       | premium   | 72       | 84%    | 8      |                                                |                  |                  |
-| delivery.xyz        | resell    | 72       | 84%    | 8      | Spaceship, Inc.                                | 07/05/2025 00:52 | 07/05/2026 23:59 |
-| service.academy     | resell    | 70       | 36%    | 7      | Spaceship, Inc.                                | 07/07/2022 13:15 | 07/07/2026 13:15 |
-| service.accountant  | premium   | 70       | 36%    | 7      |                                                |                  |                  |
-| service.accountants | available | 70       | 36%    | 7      |                                                |                  |                  |
-| service.actor       | available | 70       | 36%    | 7      |                                                |                  |                  |
-| service.adult       | premium   | 70       | 36%    | 7      |                                                |                  |                  |
-| service.airforce    | resell    | 70       | 36%    | 7      | Cronon GmbH                                    | 19/05/2024 23:31 | 19/05/2026 23:31 |
-| service.art         | premium   | 70       | 36%    | 7      |                                                |                  |                  |
+| Domain               | Status    | Attract. | Demand | Length | Registrar                                      | Created          | Expires          |
+| -------------------- | --------- | -------- | ------ | ------ | ---------------------------------------------- | ---------------- | ---------------- |
+| transport.at         | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.co         | resell    | 84       | 84%    | 9      | Hello Internet Corp.                           | 25/02/2010 01:17 | 24/02/2026 23:59 |
+| transport.me         | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 29/07/2008 06:35 | 29/07/2026 06:35 |
+| transport.site       | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.space      | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.store      | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.tech       | premium   | 84       | 84%    | 9      |                                                |                  |                  |
+| transport.us         | resell    | 84       | 84%    | 9      | GoDaddy.com, LLC                               | 12/07/2020 00:01 | 12/07/2026 00:01 |
+| transport.xyz        | resell    | 84       | 84%    | 9      | Go Daddy, LLC                                  | 02/06/2014 17:34 | 02/06/2026 23:59 |
+| delivery.ac          | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.academy     | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.accountant  | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.accountants | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.actor       | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.adult       | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.agency      | resell    | 72       | 27%    | 8      | Netregistry Wholesale Pty Ltd                  | 26/12/2024 15:16 | 26/12/2026 15:16 |
+| delivery.airforce    | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.apartments  | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.app         | resell    | 72       | 27%    | 8      | Squarespace Domains II LLC.                    | 03/05/2018 23:45 | 03/05/2026 23:45 |
+| delivery.archi       | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.army        | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.art         | premium   | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.asia        | resell    | 72       | 27%    | 8      | GoDaddy.com, LLC                               | 24/07/2008 05:02 | 24/07/2026 05:02 |
+| delivery.at          | sold      | 72       | 27%    | 8      | easyname GmbH ( https://nic.at/registrar/414 ) |                  |                  |
+| delivery.attorney    | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.auction     | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.audio       | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.auto        | available | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.baby        | premium   | 72       | 27%    | 8      |                                                |                  |                  |
+| delivery.band        | available | 72       | 27%    | 8      |                                                |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Transportation-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Transportation one wor
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
