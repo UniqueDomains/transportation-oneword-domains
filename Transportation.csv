@@ -712,6 +712,7 @@ c4207b40-37c2-4b94-bba5-9ce71077c16e,shipping.pro,expiring,64,80,8,"NameSilo, LL
 55f893fa-f15b-48f9-8291-d59fa8ba325a,transportation.actor,available,,17,14,,,
 96eb95b7-aa8b-4008-98db-2aea21fe6005,transportation.adult,available,,17,14,,,
 2101f82b-577a-487c-b4a3-2ef9a3ce66f8,transportation.ag,available,,17,14,,,
+e5c44bf2-33f1-4e7c-98e1-8a7ccc8cdd5a,transportation.ai,resell,,17,14,Zenaida.cate.ai,15/06/2018 16:05,15/06/2026 16:05
 8ff800de-1ea2-4e86-b1d2-9583d04ba5a5,transportation.airforce,available,,17,14,,,
 2107b862-28ff-4074-9d54-df4b89d150f4,transportation.apartments,available,,17,14,,,
 e74401fe-efbf-49cb-89cc-489ab6455c73,transportation.app,sold,,17,14,"GoDaddy.com, LLC",20/07/2024 00:20,20/07/2026 00:20
@@ -818,7 +819,7 @@ ce5abac1-dec4-4d0c-ad4a-e0733a1c388e,transportation.dog,available,,17,14,,,
 277b714b-4ff7-4002-b099-59f14c5d256e,transportation.domains,available,,17,14,,,
 5cb510ae-028d-4887-805c-124f7d3d9d7c,transportation.earth,expiring,,17,14,"GoDaddy.com, LLC",01/01/2020 22:53,01/01/2026 22:53
 08bdf09c-35e0-495b-9559-ba1c7ee17a82,transportation.education,available,,17,14,,,
-f0757ccf-5a62-49a4-bab3-c17474088c9c,transportation.email,expiring,,17,14,Squarespace Domains II LLC,01/01/2023 17:20,01/01/2026 17:20
+f0757ccf-5a62-49a4-bab3-c17474088c9c,transportation.email,sold,,17,14,Squarespace Domains II LLC,01/01/2023 17:20,01/01/2027 17:20
 bb667187-c6f3-40d3-b520-71a617bd8291,transportation.energy,available,,17,14,,,
 f19e7edf-7592-4ead-8afe-180f7aadddd0,transportation.engineer,premium,,17,14,,,
 b834d0bf-fe98-40e3-b4a8-b947deadc6fe,transportation.equipment,available,,17,14,,,
@@ -876,7 +877,7 @@ de199e69-9368-48b9-a574-3327c035481a,transportation.gold,available,,17,14,,,
 2906cef0-e873-411f-91dc-17e6e1332c5b,transportation.golf,available,,17,14,,,
 3c568b32-f6a3-454d-9bcd-07b6bcf65879,transportation.graphics,available,,17,14,,,
 efd863f2-04ac-4677-96c8-913c4d63df77,transportation.gratis,available,,17,14,,,
-226362db-b015-4db6-92b5-1f317881014a,transportation.green,premium,,17,14,,,
+226362db-b015-4db6-92b5-1f317881014a,transportation.green,sold,,17,14,Dynadot Inc,16/12/2025 19:40,16/12/2026 19:40
 69feb63d-f2c3-49a8-91a5-305d8bd9cd64,transportation.gripe,available,,17,14,,,
 07e430d5-2cf7-460b-9c37-c94dc8d05807,transportation.group,resell,,17,14,Porkbun LLC,24/06/2016 21:23,24/06/2026 21:23
 a5003f3c-b4af-45f1-88ac-f3db96937dc0,transportation.guide,expired,,17,14,Porkbun LLC,16/10/2024 07:41,16/10/2025 07:41
@@ -948,7 +949,7 @@ e49e5199-afb4-4075-b0c4-babb151bc187,transportation.meme,premium,,17,14,,,
 b80280bf-97b5-4a97-8c32-1c670081481a,transportation.memorial,available,,17,14,,,
 6ff97cb0-409e-4583-81cf-49cb017cd639,transportation.men,resell,,17,14,Dynadot Inc,08/05/2017 18:35,08/05/2028 18:35
 2f55a525-624e-4213-bf96-a0f19cfe2adc,transportation.menu,available,,17,14,,,
-4a89b318-07f5-4409-aacd-3d8a82b5896f,transportation.miami,expiring,,17,14,"GoDaddy.com, LLC",15/12/2017 16:32,15/12/2025 16:32
+4a89b318-07f5-4409-aacd-3d8a82b5896f,transportation.miami,expired,,17,14,"GoDaddy.com, LLC",15/12/2017 16:32,15/12/2025 16:32
 6b24ff3e-a3ce-4b0c-96f4-e836c4962180,transportation.moda,available,,17,14,,,
 87c8309b-0223-4efa-8530-f8653a00bb1f,transportation.moe,premium,,17,14,,,
 23acb446-5e0f-4b02-bdcf-0f67e39abbf2,transportation.mom,available,,17,14,,,
@@ -998,4 +999,3 @@ f8e950f3-4ccc-4540-9e3a-2f717fcb320b,transportation.pro,resell,,17,14,Unstoppabl
 6159ba60-dd9c-4131-96ff-615e562d754e,transportation.productions,available,,17,14,,,
 026790c2-945f-4dc9-875a-6dd46cd879a7,transportation.prof,premium,,17,14,,,
 f9fbc33d-7bc0-4b65-b269-6be863e32c4f,transportation.promo,resell,,17,14,IONOS SE,27/11/2025 23:28,27/11/2026 23:28
-4aec6d60-7b20-4e96-b44e-1f4a9286ad4c,transportation.properties,available,,17,14,,,
