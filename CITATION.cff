@@ -4,9 +4,9 @@ title: "Transportation One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-04-13"
-date-released: "2026-04-13"
-url: "https://unique.domains/domains/sector/transportation"
+version: "2026-04-26"
+date-released: "2026-04-26"
+url: "https://unique.domains/domains/sector/Transportation"
 repository-code: "https://github.com/UniqueDomains/transportation-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of transportation one-word domains from Unique Domains."

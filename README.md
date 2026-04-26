@@ -1,29 +1,29 @@
-# Transportation One-Word Domains (19,823)
+# Transportation One-Word Domains (15,095)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C823%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C095%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of transportation one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,823 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **15,095 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 19,823 domains
+**Public extract:** 1,000 rows · **Live catalog:** 15,095 domains
 
-**Last updated:** 2026-04-13  
-**Canonical page:** `https://unique.domains/domains/sector/transportation`  
+**Last updated:** 2026-04-26  
+**Canonical page:** `https://unique.domains/domains/sector/Transportation`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/transportation?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/Transportation?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./transportation.csv">CSV</a> / <a href="./transportation.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,20 +31,20 @@ Daily-updated public extract of transportation one-word domains from Unique Doma
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/transportation?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/transportation?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Transportation?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Transportation?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/transportation`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Transportation`.
 
 ### Files
 
-- `transportation.csv` — public CSV extract (10,000 rows)
-- `transportation.json` — public JSON extract (10,000 rows)
+- `transportation.csv` — public CSV extract (1,000 rows)
+- `transportation.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| passenger.zone   | available | $51.98      | —             | 86             | 88     | 9      | namecheap        |
-| haulage.xyz      | resell    | $17,121.20  | $20.99        | 62             | 84     | 7      | Dynadot LLC      |
-| supply.tech      | premium   | $812.50     | $3,250        | 100            | 88     | 6      | namecheap        |
-| passenger.ninja  | available | $42.98      | —             | 86             | 88     | 9      | namecheap        |
-| logistics.co     | resell    | $23,000     | $48.99        | 62             | 84     | 9      | InternetX GmbH   |
-| supply.store     | premium   | $781.25     | $3,125        | 100            | 88     | 6      | name.com         |
-| passenger.gg     | available | $82.98      | —             | 86             | 88     | 9      | namecheap        |
-| car.co           | resell    | $75,900     | $48.99        | 94             | 49     | 3      | Dynadot Inc      |
-| supply.space     | premium   | $1,625      | $6,500        | 100            | 88     | 6      | namecheap        |
-| passenger.expert | available | $82.48      | —             | 86             | 88     | 9      | namecheap        |
-| car.diamonds     | resell    | $72.98      | —             | 94             | 46     | 3      | OVH SAS          |
-| supply.site      | premium   | $312.50     | $1,250        | 100            | 88     | 6      | name.com         |
-| Vehicles.expert  | available | $82.48      | —             | —              | 88     | 8      | namecheap        |
-| car.bingo        | resell    | $68.98      | —             | 94             | 46     | 3      | OVH SAS          |
-| supply.online    | premium   | $3,125      | $12,500       | 100            | 88     | 6      | name.com         |
-| haulage.zone     | available | $51.98      | —             | 62             | 84     | 7      | namecheap        |
-| service.pics     | resell    | $40.98      | —             | 70             | 41     | 7      | Porkbun, LLC     |
-| supply.me        | premium   | $18,125     | $27.99        | 100            | 88     | 6      | name.com         |
-| haulage.site     | available | $2.99       | $46.99        | 62             | 84     | 7      | name.com         |
-| service.io       | resell    | $740,720.75 | $59.99        | 70             | 41     | 7      | Key-Systems GmbH |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| train.xxx       | available | $154.98   | —             | 69             | 33     | 5      | namecheap            |
+| transit.com     | resell    | —         | —             | 68             | 96     | 7      | Tucows Domains Inc.  |
+| transport.tech  | premium   | $1,625    | $6,500        | 84             | 84     | 9      | namecheap            |
+| train.markets   | available | $9.99     | —             | 69             | 33     | 5      | name.com             |
+| transit.co      | resell    | —         | —             | 68             | 96     | 7      | GoDaddy.com, LLC     |
+| transport.store | premium   | $312.50   | $1,250        | 84             | 84     | 9      | name.com             |
+| train.hamburg   | available | $59.99    | —             | 69             | 33     | 5      | name.com             |
+| transport.xyz   | resell    | —         | —             | 84             | 84     | 9      | Go Daddy, LLC        |
+| transport.space | premium   | $812.50   | $3,250        | 84             | 84     | 9      | namecheap            |
+| train.forex     | available | $19.99    | —             | 69             | 33     | 5      | name.com             |
+| transport.us    | resell    | —         | —             | 84             | 84     | 9      | GoDaddy.com, LLC     |
+| transport.site  | premium   | $781.25   | $3,125        | 84             | 84     | 9      | name.com             |
+| train.broker    | available | $19.99    | —             | 69             | 33     | 5      | name.com             |
+| transport.me    | resell    | —         | —             | 84             | 84     | 9      | GoDaddy.com, LLC     |
+| train.moi       | premium   | $125      | —             | 69             | 33     | 5      | name.com             |
+| train.barcelona | available | $38.98    | —             | 69             | 33     | 5      | namecheap            |
+| transport.co    | resell    | —         | —             | 84             | 84     | 9      | Hello Internet Corp. |
+| train.mobile    | premium   | $375      | —             | 69             | 33     | 5      | name.com             |
+| train.desi      | available | $22.98    | —             | 69             | 31     | 5      | namecheap            |
+| conveyance.me   | resell    | —         | —             | 76             | 84     | 10     | Dynadot Inc          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 19,823 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 15,095 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/transportation?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/transportation?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/Transportation?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Transportation?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -143,14 +143,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Transportation One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Transportation One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/transportation?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/Transportation?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_transportation_oneword_domains&utm_content=top_api_docs)
