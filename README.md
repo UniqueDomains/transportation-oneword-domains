@@ -1,22 +1,22 @@
-# Transportation One-Word Domains (15,095)
+# Transportation Keyword Domains (22,092)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C095%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C092%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of transportation one-word domains from Unique Domains.
+These domains are transportation keyword domain names spanning 505 TLDs, including examples like travel.channel, road.exposed, vehicle.ngo, and rail.life. Updated daily. This selection includes 22,092 domains with a median ask of $1,587, so comparisons should focus on extension fit, price discipline, and renewal risk.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,095 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,092 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,095 domains
+**Public extract:** 1,000 rows · **Live catalog:** 22,092 domains · **Median ask:** $1,586.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Transportation`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| train.xxx       | available | $154.98   | —             | 69             | 33     | 5      | namecheap            |
-| transit.com     | resell    | —         | —             | 68             | 96     | 7      | Tucows Domains Inc.  |
-| transport.tech  | premium   | $1,625    | $6,500        | 84             | 84     | 9      | namecheap            |
-| train.markets   | available | $9.99     | —             | 69             | 33     | 5      | name.com             |
-| transit.co      | resell    | —         | —             | 68             | 96     | 7      | GoDaddy.com, LLC     |
-| transport.store | premium   | $312.50   | $1,250        | 84             | 84     | 9      | name.com             |
-| train.hamburg   | available | $59.99    | —             | 69             | 33     | 5      | name.com             |
-| transport.xyz   | resell    | —         | —             | 84             | 84     | 9      | Go Daddy, LLC        |
-| transport.space | premium   | $812.50   | $3,250        | 84             | 84     | 9      | namecheap            |
-| train.forex     | available | $19.99    | —             | 69             | 33     | 5      | name.com             |
-| transport.us    | resell    | —         | —             | 84             | 84     | 9      | GoDaddy.com, LLC     |
-| transport.site  | premium   | $781.25   | $3,125        | 84             | 84     | 9      | name.com             |
-| train.broker    | available | $19.99    | —             | 69             | 33     | 5      | name.com             |
-| transport.me    | resell    | —         | —             | 84             | 84     | 9      | GoDaddy.com, LLC     |
-| train.moi       | premium   | $125      | —             | 69             | 33     | 5      | name.com             |
-| train.barcelona | available | $38.98    | —             | 69             | 33     | 5      | namecheap            |
-| transport.co    | resell    | —         | —             | 84             | 84     | 9      | Hello Internet Corp. |
-| train.mobile    | premium   | $375      | —             | 69             | 33     | 5      | name.com             |
-| train.desi      | available | $22.98    | —             | 69             | 31     | 5      | namecheap            |
-| conveyance.me   | resell    | —         | —             | 76             | 84     | 10     | Dynadot Inc          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| vehicle.ngo     | available | $24.98    | —             | 94             | 21     | 7      | namecheap           |
+| vehicle.yoga    | available | $42.98    | —             | 94             | 21     | 7      | namecheap           |
+| logistics.co    | resell    | $23,000   | $48.99        | 62             | 84     | 9      | InternetX GmbH      |
+| transport.tech  | premium   | $1,625    | $6,500        | 84             | 84     | 9      | namecheap           |
+| vehicle.wine    | available | $75.98    | —             | 94             | 21     | 7      | namecheap           |
+| vehicle.me      | resell    | $7,738.35 | $27.99        | 94             | 21     | 7      | Edomains LLC        |
+| transport.store | premium   | $312.50   | $1,250        | 84             | 84     | 9      | name.com            |
+| vehicle.webcam  | available | $17.98    | —             | 94             | 21     | 7      | namecheap           |
+| vehicle.info    | resell    | $40,250   | $35.99        | 94             | 21     | 7      | GoDaddy.com, LLC    |
+| transport.space | premium   | $812.50   | $3,250        | 84             | 84     | 9      | namecheap           |
+| vehicle.voyage  | available | $73.98    | —             | 94             | 21     | 7      | namecheap           |
+| vehicle.co      | resell    | $172,500  | $48.99        | 94             | 21     | 7      | GoDaddy.com, LLC    |
+| transport.site  | premium   | $781.25   | $3,125        | 84             | 84     | 9      | name.com            |
+| vehicle.voto    | available | $86.98    | —             | 94             | 21     | 7      | namecheap           |
+| transit.com     | resell    | —         | —             | 68             | 96     | 7      | Tucows Domains Inc. |
+| logistics.store | premium   | $781.25   | $3,125        | 62             | 84     | 9      | name.com            |
+| vehicle.voting  | available | $1,448    | —             | 94             | 21     | 7      | namecheap           |
+| transit.co      | resell    | —         | —             | 68             | 96     | 7      | GoDaddy.com, LLC    |
+| logistics.space | premium   | $162.50   | $650          | 62             | 84     | 9      | namecheap           |
+| vehicle.vote    | available | $119.98   | —             | 94             | 21     | 7      | namecheap           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 15,095 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 22,092 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is built around transportation-related keyword domains, not a single extension or naming style. The sample shows a wide spread of niche and non-mainstream TLDs, such as travel.channel, track.community, road.exposed, airplane.hosting, and flight.fit. That makes evaluation less about broad category demand and more about exact phrase fit, extension credibility, and holding cost. For investors, the median ask of $1,587 helps frame entry price discipline across a very large set of 22,092 names. For founders, the main question is whether the full domain reads clearly, feels credible in context, and remains easy to remember when paired with its specific TLD.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- 22,092 transportation keyword domains in this selection
+- Median ask is $1,587 across 505 TLDs
+- Many names rely heavily on extension-context fit
+- Check renewal risk before paying for novelty
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Transportation One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Transportation Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
