@@ -16,7 +16,7 @@ This selection covers 90,797 one-word transportation domain names across 506 TLD
 
 **Public extract:** 1,000 rows · **Live catalog:** 93,709 domains · **Median ask:** $729.85 · **High-demand under $2,500:** 401
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| travel.sh          | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| airplane.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 8      | namesilo         |
-| ship.auto          | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo         |
-| traffic.apartments | available | $19.99    | —             | high           | low    | 7      | name.com         |
-| air.auto           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
-| bus.io             | resell    | $533,025  | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| air.fast           | premium   | $650      | $650          | high           | medium | 3      | namecheap        |
-| air.car            | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
-| car.co             | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc      |
-| bus.app            | premium   | $1,998.75 | $1,998.75     | high           | low    | 3      | name.com         |
-| bus.airforce       | available | $103.99   | $103.99       | high           | low    | 3      | namesilo         |
-| move.melbourne     | resell    | $53.98    | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| bus.cab            | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| bus.army           | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| move.sydney        | resell    | $54.98    | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| bus.dealer         | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap        |
-| bus.auto           | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
-| flight.money       | resell    | $38.98    | —             | high           | low    | 6      | NameCheap, Inc.  |
-| bus.fast           | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| bus.boats          | available | $1.99     | $15.75        | high           | low    | 3      | namesilo         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| air.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                  |
+| car.delivery   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| air.fast       | premium   | $650      | $650          | high           | medium | 3      | namecheap                                                 |
+| bus.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com                                                  |
+| car.express    | resell    | —         | —             | high           | medium | 3      | Go Australia Domains, LLC                                 |
+| bus.fast       | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| bus.hamburg    | available | $59.99    | —             | high           | low    | 3      | name.com                                                  |
+| car.furniture  | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| boat.shop      | premium   | $6,250    | —             | high           | low    | 4      | name.com                                                  |
+| car.ryukyu     | available | $22.98    | —             | high           | medium | 3      | namecheap                                                 |
+| car.trading    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| cars.trade     | premium   | $12,500   | —             | medium         | medium | 4      | name.com                                                  |
+| cars.car       | available | $2,400    | —             | medium         | medium | 4      | namecheap                                                 |
+| cars.express   | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 22                                         |
+| line.fast      | premium   | $302.50   | $302.50       | high           | medium | 4      | namesilo                                                  |
+| mass.express   | available | $16.99    | $50.99        | high           | low    | 4      | name.com                                                  |
+| home.directory | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| load.fast      | premium   | $312.50   | $312.50       | high           | low    | 4      | name.com                                                  |
+| move.auto      | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| load.delivery  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Transportation Domains Across 506 TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Transportation Domains Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
