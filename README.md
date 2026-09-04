@@ -1,10 +1,10 @@
-# One-Word Transportation Domains Across 506 TLDs (97,058)
+# One-Word Transportation Domains Across 506 TLDs (99,277)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-97%2C058%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-99%2C277%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 90,797 one-word transportation domain names across 506 TLDs, from .com to niche extensions like .express and .tours. Median ask is $760. Updated daily with fresh pricing and TLD coverage for evaluating brandable, transportation-themed names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **97,058 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **99,277 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 97,058 domains · **Median ask:** $705.74 · **High-demand under $2,500:** 401
+**Public extract:** 1,000 rows · **Live catalog:** 99,277 domains · **Median ask:** $691.75 · **High-demand under $2,500:** 401
 
 **Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| air.realty    | available | $109.99   | $299          | high           | medium | 3      | namesilo                  |
-| bus.taxi      | resell    | —         | —             | high           | low    | 3      | Dynadot Inc               |
-| air.fast      | premium   | $650      | $650          | high           | medium | 3      | namecheap                 |
-| bus.delivery  | available | $8.99     | —             | high           | low    | 3      | name.com                  |
-| car.delivery  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC          |
-| bus.cab       | premium   | $242      | $242          | high           | low    | 3      | namesilo                  |
-| bus.flights   | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                  |
-| car.express   | resell    | —         | —             | high           | medium | 3      | Go Australia Domains, LLC |
-| bus.fast      | premium   | $625      | —             | high           | low    | 3      | name.com                  |
-| bus.hamburg   | available | $59.99    | —             | high           | low    | 3      | name.com                  |
-| car.trading   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC               |
-| car.meme      | premium   | $812.50   | —             | high           | medium | 3      | name.com                  |
-| car.ryukyu    | available | $22.98    | —             | high           | medium | 3      | namecheap                 |
-| cars.express  | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC - 22         |
-| line.fast     | premium   | $302.50   | $302.50       | high           | medium | 4      | namesilo                  |
-| mass.express  | available | $16.99    | $50.99        | high           | low    | 4      | name.com                  |
-| load.delivery | resell    | —         | —             | high           | low    | 4      | Dynadot Inc               |
-| load.fast     | premium   | $312.50   | $312.50       | high           | low    | 4      | name.com                  |
-| move.airforce | available | $103.99   | $103.99       | high           | medium | 4      | namesilo                  |
-| mass.delivery | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC          |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| travel.sh      | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                        |
+| ship.auto      | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                                |
+| air.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                |
+| car.co         | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc                                             |
+| air.fast       | premium   | $650      | $650          | high           | medium | 3      | namecheap                                               |
+| bus.airforce   | available | $103.99   | $103.99       | high           | low    | 3      | namesilo                                                |
+| vehicle.co     | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| bus.cab        | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                |
+| bus.auto       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
+| bus.cloud      | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                            |
+| bus.fast       | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| bus.boats      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                                |
+| bus.co         | resell    | —         | —             | high           | low    | 3      | Hello Internet Corp.                                    |
+| bus.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
+| bus.car        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
+| bus.company    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| bus.industries | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                |
+| bus.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com                                                |
+| bus.ltd        | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| bus.limo       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 97,058 live domains                        |
+| 1,000-row public sample | 99,277 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 401 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
