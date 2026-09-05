@@ -1,10 +1,10 @@
-# One-Word Transportation Domains Across 506 TLDs (99,277)
+# One-Word Transportation Domains Across 506 TLDs (99,338)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-99%2C277%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-99%2C338%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 90,797 one-word transportation domain names across 506 TLDs, from .com to niche extensions like .express and .tours. Median ask is $760. Updated daily with fresh pricing and TLD coverage for evaluating brandable, transportation-themed names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **99,277 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **99,338 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 99,277 domains · **Median ask:** $691.75 · **High-demand under $2,500:** 401
+**Public extract:** 1,000 rows · **Live catalog:** 99,338 domains · **Median ask:** $691.85 · **High-demand under $2,500:** 401
 
-**Last updated:** 2026-09-03
+**Last updated:** 2026-09-05
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| travel.sh      | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                        |
-| ship.auto      | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                                |
-| air.realty     | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                |
-| car.co         | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc                                             |
-| air.fast       | premium   | $650      | $650          | high           | medium | 3      | namecheap                                               |
-| bus.airforce   | available | $103.99   | $103.99       | high           | low    | 3      | namesilo                                                |
-| vehicle.co     | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC                                        |
-| bus.cab        | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                |
-| bus.auto       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
-| bus.cloud      | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                            |
-| bus.fast       | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
-| bus.boats      | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                                |
-| bus.co         | resell    | —         | —             | high           | low    | 3      | Hello Internet Corp.                                    |
-| bus.inc        | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
-| bus.car        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
-| bus.company    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
-| bus.industries | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                |
-| bus.delivery   | available | $8.99     | —             | high           | low    | 3      | name.com                                                |
-| bus.ltd        | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| bus.limo       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| travel.sh          | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
+| airplane.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 8      | namesilo         |
+| ship.auto          | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo         |
+| traffic.apartments | available | $19.99    | —             | high           | low    | 7      | name.com         |
+| air.auto           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| bus.io             | resell    | $533,025  | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| air.fast           | premium   | $650      | $650          | high           | medium | 3      | namecheap        |
+| air.car            | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
+| car.co             | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc      |
+| bus.app            | premium   | $1,998.75 | $1,998.75     | high           | low    | 3      | name.com         |
+| bus.airforce       | available | $103.99   | $103.99       | high           | low    | 3      | namesilo         |
+| move.sydney        | resell    | $54.98    | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| bus.cab            | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| bus.auto           | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| flight.money       | resell    | $38.98    | —             | high           | low    | 6      | NameCheap, Inc.  |
+| bus.dealer         | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap        |
+| bus.boats          | available | $1.99     | $15.75        | high           | low    | 3      | namesilo         |
+| vehicle.co         | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| bus.fast           | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| bus.car            | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 99,277 live domains                        |
+| 1,000-row public sample | 99,338 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 401 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Transportation Domains Across 506 TLDs*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Transportation Domains Across 506 TLDs*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
