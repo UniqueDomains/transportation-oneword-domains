@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| travel.sh          | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| airplane.inc       | premium   | $2,061.50 | $2,660        | high           | low    | 8      | namesilo         |
-| ship.auto          | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo         |
-| traffic.apartments | available | $19.99    | —             | high           | low    | 7      | name.com         |
-| air.auto           | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
-| bus.io             | resell    | $533,025  | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| air.fast           | premium   | $650      | $650          | high           | medium | 3      | namecheap        |
-| air.car            | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo         |
-| car.co             | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc      |
-| bus.app            | premium   | $1,998.75 | $1,998.75     | high           | low    | 3      | name.com         |
-| bus.airforce       | available | $103.99   | $103.99       | high           | low    | 3      | namesilo         |
-| move.sydney        | resell    | $54.98    | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| bus.cab            | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| bus.auto           | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
-| flight.money       | resell    | $38.98    | —             | high           | low    | 6      | NameCheap, Inc.  |
-| bus.dealer         | premium   | $2,170    | $2,800        | high           | low    | 3      | namecheap        |
-| bus.boats          | available | $1.99     | $15.75        | high           | low    | 3      | namesilo         |
-| vehicle.co         | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| bus.fast           | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| bus.car            | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| travel.sh       | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                                        |
+| ship.auto       | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                                |
+| air.realty      | available | $109.99   | $299          | high           | medium | 3      | namesilo                                                |
+| car.co          | resell    | $75,900   | $48.99        | high           | medium | 3      | Dynadot Inc                                             |
+| air.fast        | premium   | $650      | $650          | high           | medium | 3      | namecheap                                               |
+| bus.airforce    | available | $103.99   | $103.99       | high           | low    | 3      | namesilo                                                |
+| vehicle.co      | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC                                        |
+| bus.cab         | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                |
+| bus.auto        | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
+| bus.cloud       | resell    | —         | —             | high           | low    | 3      | Dynadot, LLC                                            |
+| bus.fast        | premium   | $625      | —             | high           | low    | 3      | name.com                                                |
+| bus.car         | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                |
+| bus.co          | resell    | —         | —             | high           | low    | 3      | Hello Internet Corp.                                    |
+| bus.inc         | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
+| bus.delivery    | available | $8.99     | —             | high           | low    | 3      | name.com                                                |
+| bus.company     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| bus.industries  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                |
+| bus.enterprises | available | $5.99     | —             | high           | low    | 3      | name.com                                                |
+| bus.ltd         | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| bus.limo        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
