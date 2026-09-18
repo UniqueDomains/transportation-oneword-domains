@@ -1,85 +1,533 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 86e858c1-d680-4633-b940-6c5435a97ab4,transport.store,premium,312.5,1250,high,high,9,name.com,,,
 74e79d95-d80e-470b-be37-0fc35c7cfb9d,transport.at,available,,,high,high,9,,,,
-e554335b-5a49-41c1-aeda-b32a06fbb1e4,transport.us,resell,,,high,high,9,"GoDaddy.com, LLC",12/07/2020 00:01,12/07/2026 00:01,
+0089bc25-7bec-43b1-bab0-1f212a7f4031,transportation.kiwi,available,31.98,35.68,medium,low,14,namecheap,,,13/09/2026 03:39
+86b922ee-d408-4a60-a6fc-570ae31e769e,movement.shop,premium,312.5,,high,low,8,name.com,,,
+e554335b-5a49-41c1-aeda-b32a06fbb1e4,transport.us,resell,,,high,high,9,"GoDaddy.com, LLC",12/07/2020 00:01,12/07/2027 00:01,18/09/2026 04:00
 63beaba2-caf9-4570-9b25-9154ef96b096,transport.co,resell,,,high,high,9,Hello Internet Corp.,25/02/2010 01:17,24/02/2026 23:59,
 23793e9f-f8e7-4b78-9709-d7f9fa8cd1e8,transport.tech,premium,1625,6500,high,high,9,namecheap,,,
 731a4a0d-8d0a-4667-abe3-46affa6a0717,transport.site,premium,781.25,3125,high,high,9,name.com,,,
 e1de3255-59b7-4aa7-9ed9-05617e5aa50e,transport.space,premium,812.5,3250,high,high,9,namecheap,,,
 842386da-9b01-4325-a0c9-9653c65a1049,transport.xyz,resell,,,high,high,9,"Go Daddy, LLC",02/06/2014 17:34,02/06/2026 23:59,
 f6d0bbdc-8792-4d2f-aba6-41274008d7d1,transport.me,resell,,,high,high,9,"GoDaddy.com, LLC",29/07/2008 06:35,29/07/2026 06:35,
+2db75515-e4a2-4ad7-ab9b-1c63d7aa194e,network.business,resell,,,high,medium,7,Porkbun LLC,29/10/2015 08:20,29/10/2026 08:20,
+1fea6970-32c6-497e-9bff-dda5498c01ff,rideshare.broker,available,19.99,,high,low,9,name.com,,,
+619a5a99-39e8-4e99-b220-35802b0bbd38,transports.voyage,available,9.99,,medium,low,10,name.com,,,
+41c1bfa5-7931-4474-a8d7-b354a50f0ec8,transports.education,available,39.99,,medium,low,10,name.com,,,
+db6df481-f862-48f7-9e79-14438b4edf45,rideshare.mobile,premium,750,,high,low,9,name.com,,,
+466f6cb9-79d5-45d9-b8bc-acedf281aafa,rideshare.ryukyu,available,22.98,,high,low,9,namecheap,,,
+472a6b2d-c9b9-4fab-be51-5a103a98e1e3,rail.ryukyu,available,22.98,,high,low,4,namecheap,,,
+929b5593-bc3c-4d6f-8431-889815b58d03,publictransit.soccer,available,19.99,,medium,low,14,name.com,,,
+1208dafd-6766-4928-aec9-7bc6f2cb7e3e,transports.associates,available,21.99,,medium,low,10,name.com,,,
+c2c986d6-f587-47da-a9e0-b02505136a50,publictransit.cash,available,17.99,,medium,low,14,name.com,,,
+51c81a19-85e1-4846-8921-b4d3f282d981,transports.discount,available,7.99,,medium,low,10,name.com,,,
+cdd385df-ce90-48b9-bf8e-c3eb00521505,publictransit.game,available,349.99,,medium,low,14,name.com,,,
+d7c8b432-72ae-41d8-b4fd-b2e99ba373d5,publictransit.mom,available,1.99,,medium,low,14,name.com,,,
+60d1ef1a-8616-4f4a-9cb4-d763e3aadafd,publictransit.miami,available,30.98,,medium,low,14,namecheap,,,
+b08ea5f5-806d-4fed-8c5d-87382cabd209,publictransit.vegas,available,29.99,,medium,low,14,name.com,,,
+2d32060a-9908-4353-9ecd-4af812d346a8,transports.bingo,available,14.99,,medium,low,10,name.com,,,
+472bf785-999c-4d4b-9425-2c8d755a6395,transports.immo,available,14.99,,medium,low,10,name.com,,,
+3c64c438-9a71-476a-a1dc-d6e6cea7401e,transports.men,available,9.48,,medium,low,10,namecheap,,,
+2019ab76-2e72-4515-9d5b-d51694e3c86c,publictransit.locker,available,19.99,,medium,low,14,name.com,,,
+a7081501-040b-4b62-88c3-5a700931a89b,publictransit.capital,available,9.99,,medium,low,14,name.com,,,
 55089d39-69e4-4f1e-805f-15922934b938,transportation.cc,resell,,,medium,low,14,"Global Domains International, Inc. DBA DomainCostClub.com",14/10/2011 15:52,14/10/2026 15:52,13/09/2026 03:39
+bf5307fb-5fde-48bd-89f7-bd37bbdcaf20,ship.run,resell,,,high,low,4,"Global Domains International, Inc. DBA DomainCostClub.com",13/02/2026 15:15,13/02/2027 15:15,
+de39df4a-237e-4260-a544-f88c809c9223,publictransit.republican,available,5.99,,medium,low,14,name.com,,,
+04440170-7076-4cd1-a202-b846e20ebc80,transports.capital,available,9.99,,medium,low,10,name.com,,,
+f508549f-2d25-476d-8901-58c5a6adc0a2,publictransit.voto,available,19.99,,medium,low,14,name.com,,,
+2bbb138f-d392-4779-9e4d-45cf1e8ba160,journey.quest,premium,11712.34,,high,low,7,InterNetX GmbH,02/03/2021 14:00,02/03/2027 23:59,
+b8cb1945-1ec2-436b-91c2-0ae1ac4fc426,publictransit.furniture,available,39.99,,medium,low,14,name.com,,,
+1668e1ca-f823-4290-9ace-e403ee275c2e,publictransit.recipes,available,11.99,,medium,low,14,name.com,,,
+245ccbdc-5d0f-4106-a9f8-97e3c7b02ead,transports.academy,available,21.99,,medium,low,10,name.com,,,
+f51e93c6-2a66-47b7-b749-8a4a5da85466,publictransit.bingo,available,14.99,,medium,low,14,name.com,,,
+6c668a94-63e2-4bdc-8ae5-bdb3610eb1c0,transports.estate,available,14.99,,medium,low,10,name.com,,,
+3a1de24c-7131-432e-b90e-615cc218a44c,publictransit.tires,available,14.99,,medium,low,14,name.com,,,
+18de416f-b52e-43c9-a3bb-0723a2f1baab,transports.kim,available,14.99,,medium,low,10,name.com,,,
+00b8c087-981b-4ab0-9470-ba49d1085f9f,publictransit.melbourne,available,53.98,,medium,low,14,namecheap,,,
+0eb16ecd-e0e0-4586-b139-981330fb47bd,transports.social,available,11.99,,medium,low,10,name.com,,,
+98b834b6-d0c7-4a72-9c07-07ac4ec041a2,rideshare.forex,available,19.99,,high,low,9,name.com,,,
 a97bb932-902a-442f-a4ad-7db2d884fe9c,transportation.forex,available,11.98,133.98,medium,low,14,namecheap,,,13/09/2026 03:39
+fefaad3f-b686-48c0-a4a1-4dfe8205bae5,publictransit.luxe,available,27.99,,medium,low,14,name.com,,,
+b0eb4d9f-968e-4a14-ba58-195f4d879df5,rideshare.school,available,9.99,,high,low,9,name.com,,,
+668be2b5-f039-4d6a-8e42-b228847a1d74,transports.diet,available,159.98,,medium,low,10,namecheap,,,
+bb5d056d-e0a9-4ed9-b7e3-da8651d2338e,transports.trade,available,9.98,,medium,low,10,namecheap,,,
+935ded0e-b571-4bc0-a47b-839c6cb2101c,publictransit.holiday,available,9.99,,medium,low,14,name.com,,,
+f57143ad-1b34-4082-add0-8d68a4856b44,transports.loan,available,9.98,,medium,low,10,namecheap,,,
+ddad2e1b-8a5b-42a6-8740-0c6b831c116e,transports.sex,available,154.98,,medium,low,10,namecheap,,,
+5accf5b3-227a-42a0-985e-751f280b5ffe,transports.broker,available,19.99,,medium,low,10,name.com,,,
+d41e5844-3a81-4eea-8dde-9d39a260de4e,publictransit.men,available,9.48,,medium,low,14,namecheap,,,
+b5beb40b-36f2-4037-a70d-395a9d46dccb,transports.apartments,available,19.99,,medium,low,10,name.com,,,
+abd457ed-5d4c-45e9-a2c3-bd6c3c71082a,publictransit.tel,available,10.99,,medium,low,14,name.com,,,
+906be8e6-bd62-41da-916a-5de2f9521403,publictransit.mba,available,19.99,,medium,low,14,name.com,,,
+b9d74df2-bc88-4374-ad14-8798bb29cdb8,publictransit.meme,available,15.98,,medium,low,14,namecheap,,,
+f20ed83f-11b4-4411-b36b-cf49cf58116e,publictransit.webcam,available,17.98,,medium,low,14,namecheap,,,
+f378c32c-fd02-4c1b-8b76-abb4dffff3c3,publictransit.bayern,available,47.99,,medium,low,14,name.com,,,
+7c6c832a-0e77-4acb-addf-55485816bb78,publictransit.salon,available,14.99,,medium,low,14,name.com,,,
+a0894612-4b39-454a-b35c-ae9590564123,publictransit.sarl,available,8.98,,medium,low,14,namecheap,,,
+f4287927-9e19-4362-a364-928ce5fdcf2d,transports.bar,available,39.99,,medium,low,10,name.com,,,
+aa7ea644-090a-4f32-90ed-614f35ea529b,publictransit.motorcycles,available,1.99,,medium,low,14,name.com,,,
+0001ff82-d456-4719-aefe-f06ed35d2623,publictransit.shopping,available,14.99,,medium,low,14,name.com,,,
+2fc804be-a34a-4b8b-90b0-d8c18a0d1243,publictransit.vin,available,11.99,,medium,low,14,name.com,,,
+949c4ebc-9c1b-461f-8b13-0454c4c881e7,transports.courses,available,49.99,,medium,low,10,name.com,,,
+a713499a-ee81-4b1f-9eb5-c947045cd5c5,transports.casino,available,17.99,,medium,low,10,name.com,,,
+9257f69f-81cc-4cc3-a7dc-fd72939be990,publictransit.party,available,9.98,,medium,low,14,namecheap,,,
+f5fadc0f-0fad-42c6-8ffb-538bf9c32bd7,transports.zip,available,15.88,,medium,low,10,namecheap,,,
+dfb2a686-2d88-48ec-bbc7-1298a5032b12,transports.gives,available,5.99,,medium,low,10,name.com,,,
+5f0a1e6f-893d-4ab2-b4ea-8d7200383c6e,transports.pictures,available,9.99,,medium,low,10,name.com,,,
 c1b1fe00-b580-418b-9a6f-e9664de35f61,transportation.delivery,available,2.98,79.98,medium,low,14,namecheap,,,13/09/2026 03:39
+a5390650-da4f-4679-8d67-349e168400bd,hub.hamburg,available,59.99,,high,medium,3,name.com,,,
+0a298cac-6e58-469e-aa08-2181457aaf47,publictransit.promo,available,19.99,,medium,low,14,name.com,,,
+388ef27c-e633-4ed1-881c-031289a57e05,deliver.shop,premium,6250,,high,low,7,name.com,,,
+3c6663d0-b9c0-49e1-aaf1-b1ce16702843,publictransit.healthcare,available,91.99,,medium,low,14,name.com,,,
+7444deb1-c472-49bd-9438-097dcf6fe841,publictransit.observer,available,15.99,,medium,low,14,name.com,,,
+72f39296-f582-4927-9cbd-3ecebeb55698,carrying.it,resell,,,high,low,8,,09/03/2026 23:56,09/03/2027 00:00,
+69ccc541-d59e-4d4b-957d-5a4a4b5e1c32,publictransit.name,available,9.98,,medium,low,14,namecheap,,,
+e4004952-0ba5-4eef-b917-f19a52ca47a8,publictransit.vision,available,9.99,,medium,low,14,name.com,,,
+2a6815e0-590b-48e3-a382-cdbdbc5c6a95,publictransit.agency,available,7.99,,medium,low,14,name.com,,,
+1b4d9099-2c6d-4c3c-9c43-5276a5b57af7,transports.guitars,available,159.98,,medium,low,10,namecheap,,,
+3c1582d1-5177-4e94-b7a0-1c52cc80ba17,distribution.channel,premium,161.25,161.25,medium,low,12,name.com,,,04/09/2026 05:50
+95adc918-b7fc-4965-84bb-e1be20221130,transports.poker,available,14.99,,medium,low,10,name.com,,,
 b05d1fb7-e233-4e3b-96e8-e1f94dbb05e5,transportation.cfd,premium,68.43,147.2,medium,low,14,namesilo,,,13/09/2026 03:39
+5cbe42fb-a958-40f8-827d-9b77d3177838,transports.cam,resell,,,medium,low,10,"Spaceship, Inc.",13/10/2025 00:42,13/10/2026 23:59,
+5a48b770-4899-4f2d-9cb1-053444879133,distribution.cfd,premium,68.43,147.2,medium,low,12,namesilo,,,14/09/2026 02:25
+1674086e-d0da-4867-af0a-26028e58ae08,publictransit.de,available,19.99,,medium,low,14,name.com,,,
+7c7ce1fd-e9ca-489f-8cc6-ae2bdbe5fbe1,publictransit.moda,available,19.99,,medium,low,14,name.com,,,
+33402fb7-8229-409d-bfd4-3503443461af,publictransit.delivery,available,8.99,,medium,low,14,name.com,,,
+8749c24c-afde-478f-9d4b-af2474bd5e55,transports.careers,available,49.99,,medium,low,10,name.com,,,
 d8f03585-0cf6-4e21-97e2-57f504cb2b2c,transportation.fast,premium,53.92,53.92,medium,low,14,namesilo,,,13/09/2026 03:39
 adde13fe-02a6-4a91-ae7c-68a0f9db39bf,transportation.express,available,9.98,49.98,medium,low,14,namecheap,,,13/09/2026 03:39
-f86a501b-8d1b-4013-b7a7-52edd5c3d4c3,ship.domains,resell,,,high,low,4,"Spaceship, Inc.",11/07/2020 20:45,11/07/2026 20:45,
+dff6c99a-b938-4044-bf9a-1f1bd59448af,transports.ing,available,16.98,,medium,low,10,namecheap,,,
+e8210996-312b-407b-86a8-549fbf80109f,carrying.paris,available,51.98,,high,low,8,namecheap,,,
+f0d2b12a-eccc-40b1-850d-1f4e90f241a8,transports.engineer,available,13.99,,medium,low,10,name.com,,,
+35fef8d8-8ca6-4184-bb85-2672bb863495,publictransit.click,available,1.99,,medium,low,14,name.com,,,
+9118d5f6-b9bb-4b36-8346-8ff8b86ebabb,publictransit.catering,available,46.99,,medium,low,14,name.com,,,
+21cb279b-2019-4ee6-b104-a102bae7c040,transports.blue,available,23.99,,medium,low,10,name.com,,,
+985295a0-e52d-4eb9-85e8-e45dd804e7d1,transports.esq,available,26.99,,medium,low,10,name.com,,,
+562d9575-903e-4151-9d48-72d08853fdc9,distribution.golf,available,6.98,83.98,medium,low,12,namecheap,,,14/09/2026 02:25
+694071d9-62b7-410c-b68a-3ed3fb5efc10,publictransit.juegos,available,478.98,,medium,low,14,namecheap,,,
+6089cdca-48f0-49ab-adc7-ccbb3400d286,publictransit.land,available,19.99,,medium,low,14,name.com,,,
+2943b182-3323-4c02-a8b5-7c4f52e2ce86,publictransit.photography,available,9.99,,medium,low,14,name.com,,,
+336c3c21-1ff1-43b3-bd00-2f188979018f,publictransit.care,available,29.99,,medium,low,14,name.com,,,
+e6b24ec2-5048-457d-b772-fd76e42c146f,publictransit.pub,available,47.99,,medium,low,14,name.com,,,
+3f233996-4e17-4ec1-a714-3a509f60c6c8,transports.vacations,available,9.99,,medium,low,10,name.com,,,
+72b66a78-3574-46b4-a267-4dcb6fa74e1c,publictransit.gold,available,9.99,,medium,low,14,name.com,,,
+cd988faf-34cb-4549-9fac-9d071d94b477,transports.id,available,25.98,,medium,low,10,namecheap,,,
+1ccbbb62-4d9d-4fef-87c4-ffb01fd325dc,home.bio,premium,3136.56,,high,medium,4,Vautron Rechenzentrum AG,24/08/2014 10:05,24/08/2026 10:05,
+f7438b4e-ec93-4a73-8042-c8e0c65ba220,publictransit.cards,available,3.99,,medium,low,14,name.com,,,
+ecec46b3-6696-42f1-bfa3-8798b29f8ce0,publictransit.insure,available,9.99,,medium,low,14,name.com,,,
+baf23839-00a8-46e0-aecf-87dcee7d75ad,supply.cloud,resell,,,medium,low,6,"Dynadot, LLC",28/04/2018 00:47,28/04/2027 00:47,14/09/2026 05:32
+137ff795-d163-482c-8f87-9983e1cf2ca8,transports.tube,available,33.98,,medium,low,10,namecheap,,,
+059e3926-f781-42d0-aaf9-78c8e2cf964d,transports.racing,available,16.98,,medium,low,10,namecheap,,,
+ac81ab40-b80b-463d-959e-03a584b909f7,distribution.tools,available,8.48,47.48,medium,low,12,namecheap,,,14/09/2026 02:25
+5e95bd9c-8620-4ec7-ac00-b0edc1df24c7,publictransit.storage,available,799,,medium,low,14,name.com,,,
+73596115-6b41-4eee-b3ce-ff95664a96f0,transports.guide,available,10.99,,medium,low,10,name.com,,,
+42c48bfd-c415-4563-a1b1-4c90f1216c75,publictransit.support,available,11.99,,medium,low,14,name.com,,,
+0d32da81-b3f9-44bc-b64f-62f5370dd969,carry.pics,available,1.99,32.49,medium,low,5,namesilo,,,
+ad2e86bc-0271-4d45-af67-b13a6772c3f0,transports.wine,available,9.99,,medium,low,10,name.com,,,
+4206dff3-ddd7-406e-ba92-3b3215a1e66f,transports.srl,available,49.99,,medium,low,10,name.com,,,
+3ec96253-7b20-440b-a00d-ca36eb0fd15f,transports.red,available,14.99,,medium,low,10,name.com,,,
+cf7d11e5-aac1-4fc0-9770-20d1f5ec4640,organization.casa,available,2.19,12.99,high,low,12,namesilo,,,
+cdae44ed-3c3a-4624-8036-b655c8eaf261,transports.graphics,available,31.98,,medium,low,10,namecheap,,,
+bec741f8-cf47-40a9-9680-e47f938331ee,transports.charity,available,5.99,,medium,low,10,name.com,,,
+6252e540-fc38-49e9-8129-989fbfb9daba,transports.lat,available,1.99,,medium,low,10,name.com,,,
+d1d99919-965c-4291-a092-1a77c71e0c00,transports.name,available,9.98,,medium,low,10,namecheap,,,
+d5d63fa0-a0b9-4b25-8dbe-e6e60369e38a,publictransit.design,available,19.99,,medium,low,14,name.com,,,
+7400fcce-11dc-4c8a-afe5-b0460634cec2,distribution.cat,available,26.98,38.98,medium,low,12,namecheap,,,14/09/2026 02:25
 988da585-908d-465d-b772-8960f9434748,travel.delivery,available,,,high,low,6,,,,
+384d5765-83e2-4205-8e44-48548e1fab9e,publictransit.osaka,available,39.99,,medium,low,14,name.com,,,
+987d12e5-83b9-46b5-828d-f281c6991ee4,transports.deals,available,5.99,,medium,low,10,name.com,,,
+c22b5306-a6d1-4399-ae5a-7881fee6a194,motion.ryukyu,available,22.98,,high,low,6,namecheap,,,
+89b24c47-48cd-4742-b3e9-65ff2dd5e5a5,transports.com,premium,225055,,medium,low,10,GoDaddy Online Services Cayman Islands Ltd.,03/09/2003 18:06,03/09/2030 18:06,
 eaaf45b6-d8e5-4fcd-a3c8-3d96b736412a,transportation.desi,available,19.98,22.98,medium,low,14,namecheap,,,13/09/2026 03:39
+2db3d63c-6c5f-4aba-875a-a5d3ef860a24,publictransit.claims,available,19.99,,medium,low,14,name.com,,,
+26086329-eb05-48c4-80ad-d4f664b272b8,transports.foundation,available,5.99,,medium,low,10,name.com,,,
+8119dd22-ce53-45fa-8803-afcf47fe6a98,publictransit.direct,available,19.99,,medium,low,14,name.com,,,
+2eae3287-3f5b-4ec6-9ca1-765a0942de45,publictransit.ac,available,49.99,,medium,low,14,name.com,,,
+be0be263-11f8-405b-9b21-3e6914e37642,transports.one,available,3.99,,medium,low,10,name.com,,,
+81bb9e2e-4183-4d2e-adc5-b53a756afd84,publictransit.archi,available,24.99,,medium,low,14,name.com,,,
+1b550282-a242-4807-ae3f-c87d7ac0ae80,distribution.trading,available,21.98,27.98,medium,low,12,namecheap,,,14/09/2026 02:25
+f9ac0dc8-251a-42a2-a4b7-af8ed78fefe9,transports.church,available,11.99,,medium,low,10,name.com,,,
 7ae50d37-50b1-48a6-bcec-301a5d7ea743,travel.express,resell,,,high,medium,6,Dynadot Inc,12/07/2015 22:12,12/07/2026 22:12,
+daf3eb25-6cc6-4b8d-917a-7ad5b1e1430a,transports.rent,available,29.99,,medium,low,10,name.com,,,
+f1a137b3-7cb6-40c8-bb38-a9b77e689536,transports.claims,available,19.99,,medium,low,10,name.com,,,
+f31ac3c7-2441-49f7-ad73-51460e54bcaf,publictransit.codes,available,11.99,,medium,low,14,name.com,,,
+9090ff94-4f0d-4e06-8613-0b8e102729a1,publictransit.country,available,2450,,medium,low,14,namecheap,,,
+0cbc6203-695b-4b97-a7cd-ec8058c6faf2,publictransit.forex,available,19.99,,medium,low,14,name.com,,,
+8e2e523c-d3ab-40de-a747-ae3ce1f13d7c,publictransit.money,available,19.99,,medium,low,14,name.com,,,
+e50e97b5-567c-48cb-96ee-9a5c562150a0,transports.you,available,27.98,,medium,low,10,namecheap,,,
+89deae1a-6f61-4991-b0c6-e2c59277b863,transports.free,available,44.98,,medium,low,10,namecheap,,,
+b2bcdc96-2222-4072-9b9f-d336f985c301,publictransit.taxi,available,10.99,,medium,low,14,name.com,,,
+38796518-7959-47f5-b7c2-866868f4eca2,publictransit.investments,available,14.99,,medium,low,14,name.com,,,
+f2e57918-d65b-40d8-9894-a308a7853564,publictransit.plus,available,21.99,,medium,low,14,name.com,,,
+6cbb545e-19a8-48fc-8b7c-b4063838b1d1,transports.company,available,3.99,,medium,low,10,name.com,,,
+804ae49d-30ee-428d-8aa3-d459e5ff79dd,publictransit.monster,available,1.99,,medium,low,14,name.com,,,
 222d0eb4-72ef-44c0-bf6b-f51c4d6b10d7,freight.store,premium,781.25,3125,high,high,7,name.com,,,
+f6d6caea-0149-476c-b14b-f3f457254b2b,publictransit.academy,available,21.99,,medium,low,14,name.com,,,
+54bc24d9-d1bf-4da1-a5f5-281f248b5ac9,ships.loans,available,19.99,,medium,low,5,name.com,,,
+5b21997a-97f5-4bc8-a8a5-9f9de43f1de8,ships.shopping,available,14.99,,medium,low,5,name.com,,,
+9085ba14-f13f-4321-8dd0-f72e87acfdd4,ships.help,premium,87.5,,medium,low,5,name.com,,,
+0f0d449c-9b1f-4fd1-b669-d36e9f3703ef,transports.bz,available,25,,medium,low,10,name.com,,,
+a5bdcdf1-d815-4e45-aac0-c2cf76d7653e,publictransit.engineering,available,11.99,,medium,low,14,name.com,,,
 4ae4ae2d-e9fe-4423-bad6-acf6d09a360a,freight.at,available,,,high,high,7,,,,
+1cdd4e64-2aca-420f-a523-827dc9b49fd5,bus.hamburg,available,59.99,,high,low,3,name.com,,,
+ddcdabe9-9790-4a58-9717-3e5aeda40312,trucks.hiphop,available,33.98,,medium,low,6,namecheap,,,
+d27be20c-e391-4357-89ad-23af629d983e,publictransit.town,available,9.99,,medium,low,14,name.com,,,
+974ba873-d7b4-473c-af07-4a80739300e0,publictransit.singles,available,12.99,,medium,low,14,name.com,,,
+5b3b292a-0171-4652-822a-a33c14443830,transports.download,available,9.98,,medium,low,10,namecheap,,,
+64b7deb3-a642-4283-9cc6-5be75c8bdd35,logistic.trade,premium,437.5,62.5,medium,low,8,name.com,,,24/08/2026 08:52
+853b83c9-db18-4c0c-b473-2b3d5f28bcc7,publictransit.qpon,available,1.99,,medium,low,14,name.com,,,
+3ada9a1f-2b31-462e-873a-45425b8db927,publictransit.rip,available,7.99,,medium,low,14,name.com,,,
+9a1b44b3-8e02-4f24-a490-11d9b6cce288,publictransit.how,available,34.99,,medium,low,14,name.com,,,
+4353d3e8-5567-4a85-ae75-1d81e36e8eba,organization.kitchen,available,14.99,,high,low,12,name.com,,,
+75bd420e-732a-48c3-b04f-d79292e675d8,ships.band,available,29.99,,medium,low,5,name.com,,,
+61c65570-2d13-46e0-bbf6-4acc5177d90d,transports.melbourne,available,53.98,,medium,low,10,namecheap,,,
+06df13b8-693a-43f1-8878-6030c2fc36ee,publictransit.army,available,19.99,,medium,low,14,name.com,,,
+5816cf1b-30bb-4fb2-a8e1-8c00decaea65,ships.creditcard,available,9.99,,medium,low,5,name.com,,,
+927e36c5-9227-490e-be8c-31f4abe09b9b,transports.press,available,43.48,,medium,low,10,namecheap,,,
+03ebe83f-41ec-4236-af87-4a392527ffc8,trucks.pink,premium,82.5,,medium,low,6,name.com,,,
+19206876-e148-46ec-a133-6c16866d9617,network.direct,resell,,,high,medium,7,Porkbun LLC,21/10/2017 20:02,21/10/2026 20:02,
+60d9551c-a3df-4479-8e8d-e9a24b8aff25,presentation.coach,resell,,,high,low,12,"Blue Razor Domains, LLC",11/03/2015 16:00,11/03/2027 16:00,
+3dcadc17-37c8-43e7-afff-d37c96d4429c,ships.solar,available,9.99,,medium,low,5,name.com,,,
+54728ebe-0e81-48c0-8a55-3f4aa4274a9b,publictransit.solutions,available,5.99,,medium,low,14,name.com,,,
+109629f7-6f63-426d-afe7-2be6a0e92195,publictransit.mx,available,49.99,,medium,low,14,name.com,,,
+1552f8f0-220d-43c4-96de-5869fac2a6f8,carrying.new,available,549.99,,high,low,8,name.com,,,
+2e10f23d-2d3e-48dc-993b-f2341161d0ee,ships.marketing,available,9.99,,medium,low,5,name.com,,,
+03e04dcb-f1cf-4066-9abc-0b634a1e0288,railways.fm,available,88.99,88.99,medium,low,8,namesilo,,,
+b2e34c75-5791-4282-b95e-1f1842e218f8,sea.quest,premium,11712.34,,medium,low,3,InterNetX GmbH,02/03/2021 14:00,02/03/2027 23:59,
+7cfe3032-dcc7-4a69-8739-b5afab930f44,trucks.luxe,premium,500,,medium,low,6,name.com,,,
+cf2ddf45-c547-4e2c-91e6-fe38bb88d75d,publictransit.ltda,available,46.98,,medium,low,14,namecheap,,,
 0834f7e6-6684-4a08-9a94-df3ced4738fb,freight.co,resell,,,high,high,7,Hello Internet Corp.,25/02/2010 00:49,24/02/2026 23:59,
+129daedf-aed2-4d9e-b9a3-cb39211a8702,ships.sexy,premium,12500,,medium,low,5,name.com,,,
+6bebf6f2-eaa2-450a-9304-4978838c761b,dispatch.cab,available,32.99,32.99,medium,low,8,namesilo,,,04/09/2026 00:56
+0ba48b4f-8916-49b3-9e0e-ef8d6e3ff505,logistic.coffee,available,6.98,47.98,low,low,8,namecheap,,,24/08/2026 08:52
+0cd6caf0-90c8-4284-89c7-4c5555ed9c2a,supply.football,available,25.99,25.99,medium,low,6,namesilo,,,14/09/2026 05:32
+366667a1-92e3-4bc8-9c09-0f2c4f37a2a8,aviation.boats,available,1.99,17.29,medium,low,8,namesilo,,,17/09/2026 22:43
+0f2ad559-0e86-4054-9a89-40fc2113108f,publictransit.one,available,3.99,,medium,low,14,name.com,,,
+c1804c66-531b-45da-bc9e-564baec06524,ships.org,resell,,,medium,low,5,"GoDaddy.com, LLC",13/10/1998 04:00,12/10/2031 04:00,
+22a6cc2f-3882-4c19-8b25-9952519c6f98,railways.life,available,2.99,,medium,low,8,name.com,,,
+4fcf2e30-f3db-44b1-ad58-46b7e8ee4ea3,publictransit.org,resell,,,medium,low,14,"Sav.com, LLC",26/01/2022 14:34,26/01/2027 14:34,
+8dccd19b-e6e0-459b-8e3b-4bbdc9993fb4,transports.school,available,9.99,,medium,low,10,name.com,,,
+2dd71b3e-2830-42a7-acf5-9ea7d445b7bb,transports.sbs,premium,38.5,77,medium,low,10,namecheap,,,
+387592a9-9dae-4d1e-9906-11c7bb28a0a7,ships.immobilien,available,14.99,,medium,low,5,name.com,,,
+5dc2e53f-cec7-4c02-a445-76103d612ffc,ships.sarl,available,8.98,,medium,low,5,namecheap,,,
+c7ce9cf3-eaf7-4666-824d-43e4759e27fe,logistic.esq,premium,61.25,61.25,low,low,8,name.com,,,24/08/2026 08:52
+bd7680af-b5d6-4d93-87b5-f0894eac884e,trucks.services,premium,46.2,92.4,medium,low,6,namecheap,,,
+b48e135a-6e33-44b6-a5c5-04fd3532370b,trucks.pet,available,19.99,,medium,low,6,name.com,,,
+434816ce-bea5-4110-9cf9-78e055d11109,trucks.voyage,available,9.99,,medium,low,6,name.com,,,
+ea3749a1-c892-41ba-8e4b-7fe23df030a3,railways.kitchen,available,14.99,,medium,low,8,name.com,,,
+97e3e77c-cff7-43e3-9d9f-214dcd9ccb72,transports.prof,available,26.99,,medium,low,10,name.com,,,
+e5aa1df3-8e76-4d46-b2b9-ed36736e8d49,carrying.trading,available,19.99,,high,low,8,name.com,,,
+e2d599f8-46de-43e7-8b1c-5964d532d803,transports.xxx,available,154.98,,medium,low,10,namecheap,,,
+2e6c94f2-834d-4c27-83ed-3131592fa957,transports.voting,available,1448,,medium,low,10,namecheap,,,
+b4bcb859-2ca7-4774-987e-43ea35fcbdcb,transports.realty,available,179.99,,medium,low,10,name.com,,,
+0b3d2822-2066-483c-a306-1b21b2db8aa3,publictransit.realty,available,179.99,,medium,low,14,name.com,,,
+22545736-88a3-40e9-a655-6d1f1448c489,railways.my,available,3.49,29.99,medium,low,8,namesilo,,,
+ac415a5a-5e28-42f5-9777-060725c077dc,trucks.camp,available,11.99,,medium,low,6,name.com,,,
+43661bc0-06ff-45d2-9902-bb9faeef12ce,ships.law,available,119.99,,medium,low,5,name.com,,,
 655aa9ed-7d1c-4fcb-a4f9-357cfc6cf191,freight.space,premium,812.5,3250,high,high,7,namecheap,,,
 444c6f53-a5f4-43ac-924e-c9ac78f06022,transportation.cab,available,32.99,32.99,medium,low,14,namesilo,,,13/09/2026 03:39
 153be16c-fe2e-48c1-8a66-cceefc54a94b,transportation.taxi,available,8.98,69.98,medium,low,14,namecheap,,,13/09/2026 03:39
+fb166694-f82f-4b29-9ec7-6a24a3b22d99,trucks.hiv,available,184.99,,medium,low,6,name.com,,,
+e6f16d74-552e-4553-9fa4-2bc275d0bf4e,trucks.motorcycles,available,1.99,,medium,low,6,name.com,,,
+fae8c356-63a6-46f2-af6d-89c331a9797e,trucks.zip,premium,311.25,,medium,low,6,name.com,,,
+a5b8a426-cff4-4b9b-a755-b4c5bdfe66f4,transports.cx,available,26.98,,medium,low,10,namecheap,,,
+0239992e-4ae1-4a2e-9f79-29816078da4c,publictransit.lighting,available,14.99,,medium,low,14,name.com,,,
+86c27d1a-10eb-4177-9d8b-894bc48ff32c,transports.flowers,available,159.98,,medium,low,10,namecheap,,,
+a30e9edf-108b-497c-b2da-bd4b8899218b,publictransit.builders,available,7.99,,medium,low,14,name.com,,,
+b46ad08d-2ca5-467c-a5b7-0f78cab817dc,ships.show,available,17.99,,medium,low,5,name.com,,,
+27d93f27-2cda-4ae0-aae9-3684a81d3e7b,railways.team,available,7.99,,medium,low,8,name.com,,,
+47f876f2-50ad-4d78-a2a1-f6fbcf82818f,dispatch.mobile,premium,390,390,medium,low,8,namecheap,,,04/09/2026 00:56
+bf3f4a10-72c5-46a6-b235-fe29f92da402,publictransit.glass,available,77.99,,medium,low,14,name.com,,,
+0705afeb-d58d-4fce-af4d-e03099afc1fa,ships.voyage,available,9.99,,medium,low,5,name.com,,,
+bd0d5d48-944a-47de-94ff-681d8d9f42d3,supply.watch,premium,242,242,medium,low,6,namesilo,,,14/09/2026 05:32
+f32fbfe7-2598-4e88-b534-c607d76e7203,ships.shoes,available,39.99,,medium,low,5,name.com,,,
+d7a41704-4f69-4de6-99b0-58709037dca4,logistic.hosting,available,309.99,329.99,low,low,8,namesilo,,,24/08/2026 08:52
+0df3f7fb-a294-4b73-95e2-b3e2ed47c139,moved.trading,available,19.99,,high,low,5,name.com,,,
+6dd6a8c1-a6e8-4d9e-a3ac-0c27cddd3c4a,supply.repair,available,5.98,47.48,medium,low,6,namecheap,,,14/09/2026 05:32
+704bafec-01bf-44e2-9cd7-08e2c4d7f58b,publictransit.wtf,available,5.99,,medium,low,14,name.com,,,
+2e515faa-12a9-4c35-bc0f-5c9403e0a297,railways.moda,available,19.99,,medium,low,8,name.com,,,
+d7d59d9d-4bbe-4f2d-86e7-0c240e3f9b1d,transports.miami,available,30.98,,medium,low,10,namecheap,,,
+c5942351-e12c-4269-bfce-6edbc59f5bd1,railways.coffee,available,23.99,,medium,low,8,name.com,,,
+7ead2c41-c078-48e1-9233-2ec70cf33ad4,transports.show,available,17.99,,medium,low,10,name.com,,,
+3efca3bb-4f38-4a90-920b-5661da06702a,logistic.maison,available,24.99,83.99,low,low,8,name.com,,,24/08/2026 08:52
 86bc36c7-15b0-4cd6-a24e-40d9ddde5727,freight.xyz,resell,,,high,high,7,"Go Daddy, LLC",02/06/2014 17:09,02/06/2026 23:59,
+51c5d9e7-7688-4e5b-9bf4-fea43d329a7a,aviation.reisen,available,3.99,20.99,medium,low,8,namesilo,,,17/09/2026 22:43
+26d816da-948a-4dca-b2ea-11e1d42a72d6,ships.beer,available,43.98,,medium,low,5,namecheap,,,
 7757f9ee-ec43-4df0-84b0-b6d02c434a3f,transportation.limo,available,54.99,54.99,medium,low,14,namesilo,,,13/09/2026 03:39
+14daa236-5293-41ec-bb76-dcf0063d454e,logistic.deals,available,5.99,50.99,low,low,8,name.com,,,24/08/2026 08:52
+c4a7751b-d830-448f-9bef-ff1064b92d46,ships.beauty,available,1.99,,medium,low,5,name.com,,,
+210bd6f0-c600-418b-9016-2afaee351aed,logistic.melbourne,available,44.98,53.98,low,low,8,namecheap,,,24/08/2026 08:52
+bef8a888-f2ae-4186-9e45-3ccc88714b8d,ships.clinic,available,19.99,,medium,low,5,name.com,,,
+7f1bfb7c-3ee4-4b60-96de-d31c62ef02a9,trucks.talk,premium,75,,medium,low,6,name.com,,,
+8a4376bf-fcd5-4bbd-a026-8ddad1900465,moved.kiwi,available,35.68,,high,low,5,namecheap,,,
 8acd88f4-e8e5-4a2e-ae66-7704f7c20c48,freight.gg,resell,,,high,high,7,Dynadot Inc. (https://www.dynadot.com),,,
+4f68366b-b08a-48ae-97d3-e6d952465bbf,railways.surgery,available,54.99,54.99,medium,low,8,namesilo,,,
+3aec0a1b-89f9-4960-b6d2-6272d64b970f,transports.plus,available,21.99,,medium,low,10,name.com,,,
+1d020ff4-7793-4cd3-b341-01fad48fced9,logistic.spot,available,25.98,31.98,low,low,8,namecheap,,,24/08/2026 08:52
+c4d448ec-a9e1-4d0d-860b-bc9e5b36ae45,publictransit.training,available,21.99,,medium,low,14,name.com,,,
+e8c650ac-20a4-4b4d-b1f9-d9e1eeb02146,publictransit.consulting,available,26.99,,medium,low,14,name.com,,,
+b74d1cb6-0ef3-44b1-914e-237e1320053d,trucks.holiday,available,9.99,,medium,low,6,name.com,,,
+f26795d4-b2e7-4b64-8d4d-946653ae7376,ships.rip,available,7.99,,medium,low,5,name.com,,,
+5c4052e9-b938-405b-84be-718cbfdb0a62,transports.yachts,available,1.99,,medium,low,10,name.com,,,
+0682ab77-b336-464c-ad99-9b7469769c85,railways.cruises,available,14.99,,medium,low,8,name.com,,,
+90e10a88-03e0-44b0-acaa-033fa923a0b5,logistic.salon,available,19.99,83.99,low,low,8,name.com,,,24/08/2026 08:52
+1985727b-44aa-4db5-bf0e-0623d8f2b8a3,railways.plumbing,available,14.99,,medium,low,8,name.com,,,
 6b6a2888-bb9f-478c-84fe-cc8f05a23a5d,transportation.mobile,available,22.98,26.98,medium,low,14,namecheap,,,13/09/2026 03:39
+1e61f411-876d-4d41-a65a-d9bd4e1738b0,trucks.beer,available,43.98,,medium,low,6,namecheap,,,
+44036133-140f-4455-a780-40b2859984cc,ships.theater,available,19.99,,medium,low,5,name.com,,,
+51aa86e4-3ea8-4010-8538-a204aecbcc29,logistic.hot,available,51.99,51.99,low,low,8,namesilo,,,24/08/2026 08:52
+bc948e5f-a151-4e10-b51b-008344aa98e5,ships.xyz,resell,,,medium,low,5,West263 International Limited,01/09/2017 23:23,01/09/2026 23:59,
+165b05fe-398b-4e2f-bf40-b3c3584c7c29,supply.pizza,available,5.98,83.98,medium,low,6,namecheap,,,14/09/2026 05:32
+f5174a61-5c7c-4553-8355-2b0c3049d71e,transports.life,resell,,,medium,low,10,"Sav.com, LLC - 16",14/01/2026 15:16,14/01/2027 15:16,
+4ed5e4a2-7d35-42c1-b040-f7522bacb9dc,logistic.eco,available,72.98,101.98,low,low,8,namecheap,,,24/08/2026 08:52
+9c906301-b50c-4982-9e46-456e5e0ec593,trucks.builders,available,7.99,,medium,low,6,name.com,,,
 580c6d26-db65-43d9-a21f-3e73ecd3bdf2,travel.limo,premium,128.7,128.7,high,medium,6,namecheap,,,
+fd9ad9f3-86a7-4517-9aa6-7120d64b42d2,railways.energy,available,21.99,,medium,low,8,name.com,,,
+dbe9a71a-bc96-4211-93b7-de9aadfc8ce2,track.ryukyu,available,22.98,,high,medium,5,namecheap,,,
+9b784bf4-1c23-4841-a275-743320f9093c,publictransit.wine,available,9.99,,medium,low,14,name.com,,,
+5bb694cc-d27f-490a-b825-73728f8e123c,transports.storage,available,799,,medium,low,10,name.com,,,
+cb9fe74f-4b7c-4d5f-b05d-e5a684fcf278,railways.music,available,52.48,,medium,low,8,namecheap,,,
+63ddb8f8-d95d-48a6-b56c-187ddb6bd55d,trucks.lease,premium,123.75,,medium,low,6,name.com,,,
+ee0ad578-7582-46f3-bf53-356add28192f,publictransit.ooo,available,34.99,,medium,low,14,name.com,,,
+ec9cd0c1-1f10-4a28-a8ac-864441180500,trucks.voto,available,19.99,,medium,low,6,name.com,,,
+e5fa7b15-cc5f-468a-a077-eda2d592c1ea,railways.country,available,2450,,medium,low,8,namecheap,,,
+ffe8ed06-3c98-4ed2-a678-e40ee3a2c65f,publictransit.bond,available,2.49,,medium,low,14,name.com,,,
+e8488185-63ae-4804-98fa-6887c2fa5400,logistic.osaka,available,32.98,41.98,low,low,8,namecheap,,,24/08/2026 08:52
+ebeada2b-6e12-4ab4-afd0-38f649e1ef45,transported.voyage,available,58.99,58.99,low,low,11,namesilo,,,16/09/2026 07:05
+021f8f15-7558-4ac4-8b02-0d045ef97823,railways.ong,available,16.99,,medium,low,8,name.com,,,
+dd288867-4667-42a0-b9b4-40ab450ae282,railways.tickets,available,359.99,389.99,medium,low,8,namesilo,,,
+0747d184-2777-489b-84e4-0535e70eb229,railways.discount,available,7.99,,medium,low,8,name.com,,,
+f21d1184-db44-47f9-9fad-6f50cde61e82,railways.ooo,available,24.99,24.99,medium,low,8,namesilo,,,
+559344f9-b46a-4431-9b05-02f903f1a573,transported.reisen,available,21.98,28.98,low,low,11,namecheap,,,16/09/2026 07:05
+ea6eec97-68aa-4241-9e29-4556d1ec6e0d,transports.golf,available,7.99,,medium,low,10,name.com,,,
+9c1d8317-5e77-4451-8baf-411dd89b4654,supply.red,resell,,,medium,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",17/02/2026 15:15,17/02/2027 15:15,14/09/2026 05:32
+97604dd2-0cb9-428e-bb38-e0ff4bf365e7,publictransit.tours,available,9.99,,medium,low,14,name.com,,,
+3b8c19a7-254e-4484-820f-4cd2977b2162,trucks.my,premium,67.98,,medium,low,6,name.com,,,
+fa8b0e23-b24d-41e4-b3e9-e30a123d6d4a,publictransit.rent,available,29.99,,medium,low,14,name.com,,,
+b29e2bd6-dd81-4058-a832-eb7810889434,supply.lgbt,available,11.98,93.98,medium,low,6,namecheap,,,14/09/2026 05:32
+d84c7316-2fff-4ac9-a149-f65d0d04ad6c,logistic.ngo,available,16.99,16.99,low,low,8,name.com,,,24/08/2026 08:52
+389c4ab2-1c6a-48f3-bfb2-ca4c098edbdf,logistic.fish,available,14.99,56.99,low,low,8,name.com,,,24/08/2026 08:52
+0e21c929-9284-4e23-b89b-ae68aa25117b,publictransit.srl,available,49.99,,medium,low,14,name.com,,,
+48d3166a-3465-4bc4-b839-01efae55d672,logistic.social,available,3.98,55.98,low,low,8,namecheap,,,24/08/2026 08:52
+8c95e07b-ef2b-4956-a466-48a67fd4a600,logistic.band,available,17.48,39.98,low,low,8,namecheap,,,24/08/2026 08:52
+79cd09d2-5025-4ddc-a219-b5241354ad18,logistic.cards,available,3.99,50.99,low,low,8,name.com,,,24/08/2026 08:52
+410c1567-4c8c-40a7-9f22-5e034465e6ae,organization.help,available,1.99,,high,low,12,name.com,,,
+4cc9ae53-2658-4006-83ee-e7e301145a7b,transports.science,available,16.98,,medium,low,10,namecheap,,,
+73f5ed4b-18cb-40f4-99b1-a3b65b831a2c,railways.codes,available,11.99,,medium,low,8,name.com,,,
+48ec3325-0d03-4e03-83ac-9d49e0ada4eb,aviation.science,premium,640,77.35,medium,low,8,namesilo,,,17/09/2026 22:43
+4188c166-44e9-4518-bd25-75b20d1bed8f,transports.country,available,2450,,medium,low,10,namecheap,,,
+2a10aad1-4861-4171-980e-088b4a06c504,publictransit.exposed,available,25.99,,medium,low,14,name.com,,,
+9fa5837d-38d3-4491-a494-58b03097d044,ships.quest,available,1.99,,medium,low,5,name.com,,,
+d0863447-324d-4155-b71c-8a18e8c23ce0,railways.beauty,available,1.65,15.75,medium,low,8,namesilo,,,
+c0baca8c-b2c3-4745-9b02-06d82aba205e,logistic.inc,premium,2015,2600,medium,low,8,namecheap,,,24/08/2026 08:52
+4e5fec60-80b2-4dfd-9bdb-1391619db9fd,aviation.rehab,premium,242,242,medium,low,8,namesilo,,,17/09/2026 22:43
+3fd44078-98f7-4890-8381-dcb0a49cda0a,transports.plumbing,available,14.99,,medium,low,10,name.com,,,
+c8fdba1e-ac2e-4eff-93f1-7e0c2ec4c7f5,ships.horse,available,43.98,,medium,low,5,namecheap,,,
+ecbe7222-cfb5-4439-a315-ead35d42b1d0,transports.bot,available,78.98,,medium,low,10,namecheap,,,
+8874cd02-1949-4d8e-a2d8-e49e3c8ad892,publictransit.best,available,23.08,,medium,low,14,namecheap,,,
+eb4ec869-f821-4b50-b29d-ec855bea5c59,railways.studio,available,21.99,,medium,low,8,name.com,,,
+583254e9-97ad-4796-80fe-591124174ea7,publictransit.works,available,7.99,,medium,low,14,name.com,,,
+c19ea07a-a0b1-41b6-9321-53277784904f,dispatching.shop,available,2.99,,high,low,11,name.com,,,
+e0a081ce-acc2-4a69-bdfb-23c5ea365e56,railways.melbourne,premium,178.62,,medium,low,8,name.com,,,
+38ecec3f-11f8-4478-a49a-93f0163d5414,logistic.kids,available,6.79,19.99,low,low,8,namesilo,,,24/08/2026 08:52
+da97ec11-9360-44cb-a36b-1f3101129132,railways.science,premium,437.5,,medium,low,8,name.com,,,
+e22e8655-4b25-43b7-875e-cccdd2c0c859,conductor.xyz,resell,,,high,low,9,West263 International Limited,13/04/2019 18:52,13/04/2027 23:59,
+5b3fd567-fe30-4c3e-b2f1-6d28144562bf,transports.solar,available,9.99,,medium,low,10,name.com,,,
+a517c920-383d-4895-92ef-307d7765b9e7,trucks.systems,available,21.99,,medium,low,6,name.com,,,
+29237afa-e6b4-4c2c-aeec-7e28f7aa0327,railways.ac,available,34.99,47.99,medium,low,8,namesilo,,,
+31f5c563-0cdd-4476-9694-dba8db1df3ed,railways.bar,available,3.49,54.99,medium,low,8,namesilo,,,
+964161cf-da19-4e74-add3-5b2d57defb89,distributed.limited,available,14.99,52.99,medium,low,11,name.com,,,
+7d7e658e-8f1e-47ef-8236-6c2fa9625694,publictransit.surgery,available,67.49,,medium,low,14,name.com,,,
+16e11753-10cf-4a0a-b29e-308d8cb6756c,transports.tienda,available,9.99,,medium,low,10,name.com,,,
+51c63eec-eb4b-4b5c-8ad3-e6fa5905e3d9,logistic.hair,available,1.8,19.98,low,low,8,namecheap,,,24/08/2026 08:52
+bc6dc675-26d2-4fec-b007-2abd1579031c,railways.osaka,available,39.99,,medium,low,8,name.com,,,
+dc5c33de-cd3c-49e9-a7a0-e486bce65b8f,car.ryukyu,available,22.98,,high,medium,3,namecheap,,,
+a6bbd925-87bc-47fd-9720-b94f5e02c7e7,aviation.esq,resell,,,medium,low,8,,,,17/09/2026 22:43
+9410f69a-0d75-4e1b-ba28-1d177e3f4ed5,distributed.courses,available,1.98,50.98,medium,low,11,namecheap,,,
+b1f1c124-11e0-41ce-be7e-7b9e6eebb449,aviation.house,available,19.99,44.49,medium,low,8,namesilo,,,17/09/2026 22:43
+1b9f2bf0-6301-4b6b-bdd2-480d22c97482,railways.cab,available,19.99,,medium,low,8,name.com,,,
+14a76cd7-2a45-4c7e-86de-f709c866677e,railways.eco,available,64.99,,medium,low,8,name.com,,,
+d14462a2-4554-41af-a9ed-5b86503c48e9,transports.vana,available,2498,,medium,low,10,namecheap,,,
+f24c44a0-1315-4570-8978-0863e29001b2,supply.page,premium,318.72,318.72,medium,low,6,namesilo,,,14/09/2026 05:32
 57152eb6-f0cb-4b40-bbea-31d3b165bf9e,transports.limo,available,19.99,,medium,low,10,name.com,,,
+914e15f5-9a23-47c5-bf05-14f21f3c8b00,trucks.mov,premium,311.25,,medium,low,6,name.com,,,
+a860b31c-2b17-42df-9022-737c735b02f7,ships.life,available,2.99,,medium,low,5,name.com,,,
+0e0447b7-495a-46ba-bafc-3f3436dec662,publictransit.lease,available,14.99,,medium,low,14,name.com,,,
+9dc5cac0-5ab9-4469-9f7c-ea953608be8f,logistic.bot,resell,,,low,low,8,"Dynadot, LLC",04/04/2026 10:14,04/04/2027 10:14,24/08/2026 08:52
+b1e8cd48-508f-41c1-9202-fc80aefb61a2,shift.ryukyu,available,22.98,,high,medium,5,namecheap,,,
+651a34f9-d30d-49b6-8f38-607de5487d6f,aviation.codes,available,3.98,92.98,medium,low,8,namecheap,,,17/09/2026 22:43
+cece1761-56db-49dd-b42b-7d75f823b177,logistic.moe,available,13.99,13.99,low,low,8,namesilo,,,24/08/2026 08:52
+44318b34-163d-4c8c-b780-c3c9b5138c42,transports.cars,available,2950,,medium,low,10,namecheap,,,
+2a5dec13-0f12-4d7f-9873-84a4a0b91b42,trucks.holdings,available,80.99,,medium,low,6,name.com,,,
+47bc68c9-c3b4-404f-a041-035a4707b2b0,logistic.holiday,available,9.99,83.99,low,low,8,name.com,,,24/08/2026 08:52
+04b44442-0f9a-4853-8b77-a662d4e2b5e7,trucks.fm,premium,243.75,,medium,low,6,name.com,,,
+29ab19dc-d1d0-4c54-bc78-e33d2798319c,railways.properties,available,10.99,,medium,low,8,name.com,,,
 fc0dc9dd-60d0-4d06-9b1a-e28dc8414b95,vehicle.express,available,16.99,,high,low,7,name.com,,,
 43bfae08-5282-4e50-8e05-2dcf3a3a7964,vehicle.fast,premium,65,65,high,low,7,namecheap,,,
+883e5631-4a61-4b8e-a911-a2013e772fe4,publictransit.baby,available,29.99,,medium,low,14,name.com,,,
 41d33049-4961-49c7-b546-268c4fd1665e,air.realty,available,109.99,299,high,medium,3,namesilo,,,
+8e58903c-98a0-439a-a973-0763c380ece4,publictransit.bike,available,14.99,,medium,low,14,name.com,,,
+8a042bf0-80f2-42c3-b8bd-57dc9e9bce31,distributed.my,available,2.98,38.98,medium,low,11,namecheap,,,
+2869f1cb-d4b7-4b46-9152-e885cafd1adb,ships.realty,available,179.99,,medium,low,5,name.com,,,
+64408fb4-c331-4951-ab7b-7e559ee6e0b2,railways.marketing,available,9.99,,medium,low,8,name.com,,,
+72359522-65b6-46b7-ab0a-6d1193e45396,publictransit.maison,available,19.99,,medium,low,14,name.com,,,
+43892e7c-0dc7-4f98-85b4-dd9412e6dc5c,railways.storage,available,509.99,529.99,medium,low,8,namesilo,,,
+ff6cace8-c521-47ce-9115-6c4f4062a04d,railways.game,available,309.99,329.99,medium,low,8,namesilo,,,
+c550f1e8-1f91-4063-a0c4-77a13cbbce08,trucks.mortgage,available,14.99,,medium,low,6,name.com,,,
+5fdb7f17-0e11-4d85-8d49-4bd4f7ceb3f0,transports.sh,available,59.99,,medium,low,10,name.com,,,
+0e00f60a-fb98-428b-b7ed-e862578fadee,transports.rest,available,19.99,,medium,low,10,name.com,,,
+d2e34903-6364-477f-b788-05f09c373388,logistic.community,available,14.99,65.99,low,low,8,name.com,,,24/08/2026 08:52
+f2f856c2-6ab4-49d1-9990-6f71ceedab91,distributed.gratis,available,23.99,23.99,medium,low,11,namesilo,,,
+24eef3fc-bce7-41b7-bbf0-19484c054e43,logistic.review,premium,3125,125,low,low,8,name.com,,,24/08/2026 08:52
+35f91eee-e514-4b71-b38f-16c51cddd4bb,railways.graphics,available,23.99,23.99,medium,low,8,namesilo,,,
+af25cc7c-379f-4ddc-b80b-f9a6e659dd6b,trucks.organic,available,19.99,,medium,low,6,name.com,,,
+87445012-ac3c-4993-b893-5c189eb4e09e,aviation.ninja,available,11.98,42.98,medium,low,8,namecheap,,,17/09/2026 22:43
+b74229e8-41e6-41b7-b163-0242159bcc06,logistic.realty,available,99.8,456.98,low,low,8,namecheap,,,24/08/2026 08:52
+27bde57e-aa72-4aa9-b18c-4f6bcb5b3397,railways.healthcare,available,88.99,88.99,medium,low,8,namesilo,,,
+acd6b4f6-e4d9-4fa2-900d-af5491f57ca3,publictransit.rehab,available,14.99,,medium,low,14,name.com,,,
+db3826ec-ed69-4237-99af-f4ca0b0f0428,transports.trading,available,19.99,,medium,low,10,name.com,,,
+e84c944f-24e1-414c-85ac-ac736c49e45f,ships.land,available,19.99,,medium,low,5,name.com,,,
+2b3e40e8-45cb-4d6f-ae1b-bbede7af12e0,dispatch.london,premium,138.53,31.93,medium,low,8,namesilo,,,04/09/2026 00:56
+db6dec76-b190-4a65-bf95-d30b84b644b6,ships.srl,available,49.99,,medium,low,5,name.com,,,
+f9dfa3f4-d0fc-4579-a800-1c4b027cfc20,publictransit.hockey,available,14.99,,medium,low,14,name.com,,,
+eeed4d84-3b5d-47a0-a7eb-8a6c6bc60a03,aviation.deals,available,40.98,51.98,medium,low,8,namecheap,,,17/09/2026 22:43
 bb276652-5484-4fdd-8480-34aaaa509fef,travel.airforce,available,103.99,103.99,high,medium,6,namesilo,,,
+fc29b9ca-acf8-4d85-99da-864e81f43c6f,railways.actor,available,19.99,,medium,low,8,name.com,,,
+72c88c3e-92c6-4a61-b0d1-dd30b7931428,aviation.ooo,premium,83.29,23.59,medium,low,8,namesilo,,,17/09/2026 22:43
+a32faa30-d788-44b9-b717-244888478be6,logistic.organic,available,19.99,73.99,low,low,8,name.com,,,24/08/2026 08:52
+a81d9362-93df-4eca-8db6-c14df807b637,publictransit.repair,available,9.99,,medium,low,14,name.com,,,
+41d5c312-e47f-4133-859f-26f09394a198,ships.faith,premium,125,,medium,low,5,name.com,,,
+54856fc5-3ced-4998-8870-49d8a7424a84,transports.vet,available,50.99,,medium,low,10,name.com,,,
+2461d22e-8655-485c-a025-d136f3a39761,flying.social,resell,,,high,low,6,"Sav.com, LLC - 47",19/02/2026 15:15,19/02/2027 15:15,
+c3ab9dca-0c73-474d-83a9-6ab11db09060,distributed.tips,available,12.98,42.48,medium,low,11,namecheap,,,
+32196360-57ee-4778-ac8f-1c317e57a88d,publictransit.markets,available,9.99,,medium,low,14,name.com,,,
+74879c9c-8ea7-4800-8f7c-1f60969ba676,trucks.contact,available,16.78,,medium,low,6,namecheap,,,
+020cc918-8cae-4ee5-a51c-932c9d1a5e87,distributed.doctor,available,5.98,154.98,medium,low,11,namecheap,,,
+21f7fe98-e666-4168-a6e1-0ab4cfd7d0c7,railways.guru,available,3.99,,medium,low,8,name.com,,,
 3c096967-ee58-44df-acdf-3a01c9a07584,travel.car,available,1999.99,2199,high,medium,6,namesilo,,,
+8c4dacc0-0e3f-4432-aa7d-3243d717dded,transports.tax,available,14.99,,medium,low,10,name.com,,,
+2f35180d-f3d2-4b0b-81f8-a891c0abac50,transported.gifts,available,36.99,36.99,low,low,11,namesilo,,,16/09/2026 07:05
+b43ed494-1847-43ab-8a43-ad294e05c0d6,ships.locker,available,19.99,,medium,low,5,name.com,,,
+2debcfc7-9707-4405-883a-ea220f7555b8,ships.wine,available,9.99,,medium,low,5,name.com,,,
 dd31a6b5-5238-42e4-b291-32ce1a31b9e4,travel.auto,available,1999.99,2199,high,medium,6,namesilo,,,
 7559cc51-0da3-43df-b0aa-3966f97c7194,travel.trade,premium,650,84.5,high,medium,6,namecheap,,,
 9ce7c774-c739-4621-89c4-3f93182c8af0,travel.store,premium,3125,12500,high,medium,6,name.com,,,
+97bf167f-ab7f-42d5-b5ce-220a950256ba,aviation.sbs,premium,74.75,149.5,medium,low,8,namecheap,,,17/09/2026 22:43
+8417aa61-5a6c-4a3f-bae8-b0d3fef7ce73,transports.gratis,available,26.99,,medium,low,10,name.com,,,
+685ccdc0-63fe-437c-900f-e794920554e1,supply.game,premium,1690,1690,medium,low,6,namecheap,,,14/09/2026 05:32
+e220fd13-6ee0-4d88-8181-00e22d6968ce,dispatch.casino,available,6.98,191.98,medium,low,8,namecheap,,,04/09/2026 00:56
+ae0c5b97-e470-47dc-8d77-85235d5d125c,transported.auction,available,38.98,46.98,low,low,11,namecheap,,,16/09/2026 07:05
+01690837-233b-4581-b7e4-6ad35976ec33,aviation.ltda,premium,56.64,33.04,medium,low,8,namesilo,,,17/09/2026 22:43
+601613da-c86e-4d0d-a54d-934b690bfa54,airnavigation.nl,available,6.98,7.99,medium,low,14,namesilo,,,
+469d3cea-59f4-445c-a094-8ba754929b01,transports.pizza,available,19.99,,medium,low,10,name.com,,,
+38b1f6eb-f15b-4624-9dba-01c0f658b2b7,supply.doctor,available,5.98,154.98,medium,low,6,namecheap,,,14/09/2026 05:32
+0bfb529a-5b7f-4371-941a-a7bf4e024287,distribution.pro,resell,,,medium,low,12,Squarespace Domains II LLC,04/08/2021 14:30,04/08/2028 14:30,14/09/2026 02:25
+e350969c-66ae-4709-aca3-286e99881ad4,supply.business,resell,,,medium,low,6,"Sav.com, LLC - 17",13/11/2025 15:15,13/11/2026 15:15,14/09/2026 05:32
+2ae5d1f0-91e9-427d-bf91-df82e91b4a8e,logistic.fm,available,69.98,118.98,low,low,8,namecheap,,,24/08/2026 08:52
+79e324b2-545f-457e-b888-c1a08850c72f,distributed.photography,available,6.98,46.48,medium,low,11,namecheap,,,
 4644d894-4064-42d8-931c-3ac27cce69b6,travel.supply,available,,,high,low,6,,,,
 4c6f032a-c830-414a-a65e-f2f503afe281,travel.voyage,available,,,high,low,6,,,,
+f1a55bf1-3b84-4ce6-b426-98c71be0e820,supply.healthcare,premium,78.54,78.54,medium,low,6,namesilo,,,14/09/2026 05:32
+c53b00bd-c445-426a-a8f5-b9fc755bd626,railways.shiksha,available,19.99,,medium,low,8,name.com,,,
+6e5e0806-4956-4c80-b0b9-b689e14614b2,dispatch.pw,premium,302.5,302.5,medium,low,8,namesilo,,,04/09/2026 00:56
 bbe62e51-0061-40cc-add1-b8c7ae93dd9a,travel.systems,available,,,high,low,6,,,,
+abb65e1c-0304-41e3-afb9-bddd286aea3a,carrying.eco,available,64.99,,high,low,8,name.com,,,
+2207cfdb-5092-4573-8131-6af1489c9280,ships.vet,available,50.99,,medium,low,5,name.com,,,
 48deb524-7a6a-4c42-b347-25486f587309,travel.navy,available,41.99,41.99,high,medium,6,namesilo,,,
+8842d9e5-7610-4721-928f-6a726e16fe2f,dispatch.cheap,available,5.98,49.98,medium,low,8,namecheap,,,04/09/2026 00:56
+bf91621c-c0ed-443d-8e21-61069d6b6c63,ships.rocks,available,12.99,,medium,low,5,name.com,,,
+80967959-8f70-4b0c-b1e4-600dbccf3936,rideshare.paris,available,51.98,,high,low,9,namecheap,,,
+d8f8d5f2-c39e-4c10-8310-49fac6715589,aviation.accountant,premium,640,77.35,medium,low,8,namesilo,,,17/09/2026 22:43
 3a5f9e94-54ef-4924-9ee8-dcb449fedf0a,travel.at,available,,,high,low,6,,,,
+9dab08bc-1734-4e4d-9cb6-505d494090ac,transported.tax,available,14.99,67.49,low,low,11,namesilo,,,16/09/2026 07:05
+02b17b3e-3072-4484-8213-12bf48bdcc87,logistic.study,premium,53.92,53.92,low,low,8,namesilo,,,24/08/2026 08:52
+1b4dcad9-205a-497c-8e28-b86a532e66ac,distributed.sex,available,13.98,154.98,medium,low,11,namecheap,,,
 7c6cf022-7b58-4aec-9576-64321e93d04b,travel.reise,premium,520,520,high,medium,6,namecheap,,,
 7f0f2fc0-39bf-4eee-b34d-8aadeb93c788,travel.world,resell,,,high,medium,6,"GoDaddy.com, LLC",09/01/2015 16:00,09/01/2027 16:00,
 385b8541-8f71-498c-b5aa-709fdfd9daa5,travel.global,available,,,high,low,6,,,,
+4eddd21f-6236-4e6c-afbf-64a299f5b4c4,publictransit.network,available,7.99,,medium,low,14,name.com,,,
+d7597330-6c60-40ff-9520-fe287c313357,distributed.contractors,available,9.99,45.99,medium,low,11,name.com,,,
 77d16b55-aab1-4662-a7cd-19acccc03872,travel.tours,resell,,,high,medium,6,"GoDaddy.com, LLC",03/07/2015 23:51,03/07/2027 23:51,
 0c25eb7a-f1d6-477f-9588-82ce37d4e9e7,travel.reisen,available,,,high,low,6,,,,
 7a9e3147-7431-4f1d-83a6-773b84fb0689,travel.supplies,premium,1040,1040,high,medium,6,namecheap,,,
+8d3765a1-3cf5-4d17-a1f4-8d41905b4111,publictransit.lifestyle,available,39.99,,medium,low,14,name.com,,,
+d4c39589-a165-4927-be25-6db5be5331e7,ships.kids,available,9.99,,medium,low,5,name.com,,,
+ca409cf7-fd61-49ed-9a91-81af3c5bf30e,transported.best,available,2.35,22.99,low,low,11,namesilo,,,16/09/2026 07:05
 53c597de-90f0-48cd-aa09-38d6f67e6f83,travel.services,resell,,,high,medium,6,Porkbun LLC,09/09/2016 10:15,09/09/2026 10:15,
+ea53c2a4-7b0d-40e1-bece-2bca2a355253,aircraft.cab,available,32.99,32.99,medium,low,8,namesilo,,,17/09/2026 23:03
+3668c425-333d-4162-92b3-ac8a73c51470,publictransit.beer,available,43.98,,medium,low,14,namecheap,,,
+5bc949f9-5a4a-4eff-b06f-0f173b08446d,supply.cool,premium,512,512,medium,low,6,namesilo,,,14/09/2026 05:32
+ff5a2b22-64bd-4ed2-98ae-fd30ce3ca25f,trucks.coupons,available,3.99,,medium,low,6,name.com,,,
+42158f41-5c93-4dba-adc6-508e58978918,distributed.accountant,available,23.59,23.59,medium,low,11,namesilo,,,
+1da4b1ee-55bf-4392-b550-4303c4e7f8d7,distribution.barcelona,available,38.98,38.98,medium,low,12,namecheap,,,14/09/2026 02:25
+1c9fb71c-a1c9-465d-b6a8-bb597c21d56d,transports.ventures,available,19.99,,medium,low,10,name.com,,,
 776fbe46-2d58-47b9-9c37-a7adec42f008,travel.yachts,resell,,,high,medium,6,"Spaceship, Inc.",26/07/2021 15:52,26/07/2026 23:59,
 a97d0a63-f4f4-4c0f-896c-21da7d9886af,vehicle.shop,premium,1250,,high,low,7,name.com,,,
 aac4cc4f-5e49-4f58-83ce-9ae137f55469,travel.city,available,,,high,low,6,,,,
 0883ee00-76d9-43f9-ac72-0f8b1079c673,travel.town,premium,520,520,high,medium,6,namecheap,,,
+3d59e425-f3a8-4e1e-89f7-5f4184cfb6bd,supply.ltda,premium,56.64,33.04,medium,low,6,namesilo,,,14/09/2026 05:32
+25d0c808-baf1-4d1c-ac61-10e161463814,sea.poker,premium,22372.84,,medium,low,3,Dynadot Inc,01/07/2025 11:39,01/07/2026 11:39,
+aff34b30-556d-4e9b-ac1a-01cdc31fad70,dispatch.cc,resell,,,medium,low,8,"GoDaddy.com, LLC",07/03/2012 19:51,07/03/2027 19:51,04/09/2026 00:56
+3cc7d3c9-71a3-434b-a8c0-9e3591d8339a,railways.group,available,10.99,,medium,low,8,name.com,,,
+28461056-f852-4138-99aa-eea5e65c905d,railways.cheap,available,9.99,,medium,low,8,name.com,,,
+8e54fe0f-d51c-4da4-973d-2cc755e60b25,logistic.monster,available,1.8,19.98,low,low,8,namecheap,,,24/08/2026 08:52
+58ba5291-90b3-45d4-8aab-de51640afadf,logistic.taxi,available,8.98,69.98,low,low,8,namecheap,,,24/08/2026 08:52
 c8de051d-9fef-40d7-ad43-3bc7051a08c9,travel.solutions,resell,,,high,medium,6,Porkbun LLC,10/09/2016 12:40,10/09/2026 12:40,
+f32f5980-e200-46d7-880f-3f3c7c732342,transported.hospital,available,57.99,57.99,low,low,11,namesilo,,,16/09/2026 07:05
+6ca8ae06-d98e-4a9d-b96f-7604dc72421d,transported.protection,available,2070,2950,low,low,11,namecheap,,,16/09/2026 07:05
+24374ecc-8ab5-4042-8d23-bd9edbecabfe,dispatch.garden,available,1.98,43.98,medium,low,8,namecheap,,,04/09/2026 00:56
+33ffcd4e-33c0-44e6-8502-c457a9ce3892,ships.hamburg,available,59.99,,medium,low,5,name.com,,,
+f1565a6d-77ba-4100-8576-0dcaef937fd0,supply.cheap,premium,512,512,medium,low,6,namesilo,,,14/09/2026 05:32
+0a3fe217-b9bc-446b-ae85-f422541ceffa,distributed.style,available,7.98,49.98,medium,low,11,namecheap,,,
+2a07ad41-04e1-408d-9e30-ba0e450d221b,publictransit.club,available,6.99,,medium,low,14,name.com,,,
 0f8fabcb-abbc-4759-9797-cd8b24b39bcb,travel.app,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",18/07/2023 09:52,18/07/2026 09:52,
 ce2a77ca-cd0c-4119-9d6d-dfb4066668aa,travel.parts,premium,82.5,82.5,high,medium,6,name.com,,,
 48493e15-36c7-4713-a197-3a831d06dd4d,travel.equipment,premium,520,520,high,medium,6,namecheap,,,
+905d176b-951f-47b2-bda6-1f3468daa781,aviation.giving,available,7.48,35.98,medium,low,8,namecheap,,,17/09/2026 22:43
+59bd1c05-1fc2-4f27-8003-ddf6b0b0794c,carrying.shop,available,2.99,,high,low,8,name.com,,,
+4ee55150-1b4e-45ad-acec-eba7623bf9fb,transported.estate,available,15.99,38.99,low,low,11,namesilo,,,16/09/2026 07:05
+78c25e7e-bd68-4f45-912f-b9ab7dc86cb5,dispatch.mov,premium,76.7,76.7,medium,low,8,namecheap,,,04/09/2026 00:56
+575fd6b8-4bca-4ef1-9082-2f0dd890acbe,ships.estate,available,14.99,,medium,low,5,name.com,,,
+44b3be43-b42d-41c9-a1a4-c615f8d265d6,trucks.accountants,available,43.99,,medium,low,6,name.com,,,
+1d7fb228-4830-409c-89ea-0f1682fa8b28,trucks.homes,resell,,,medium,low,6,"Spaceship, Inc.",17/01/2026 15:45,17/01/2027 23:59,
+6f28aedd-e20e-4948-8a45-5e1a9d5b259f,trucks.airforce,available,134.98,,medium,low,6,namecheap,,,
 a8783e3d-3451-4406-a131-884538184f72,travel.storage,available,509.99,529.99,high,medium,6,namesilo,,,
+7374445c-3d21-415f-b1b3-c83e5e413a24,publictransit.shoes,available,39.99,,medium,low,14,name.com,,,
+2514ffd9-c4cd-45a5-acbe-91139893267a,maritime.limo,available,19.99,71.99,medium,low,8,name.com,,,24/08/2026 16:00
 1c42ceac-3065-4aba-9f0f-79abd974f64f,travel.co,available,,,high,low,6,,,,
+46f4a397-f108-411e-b826-abe5f4cfc3f4,publictransit.ceo,available,19.99,,medium,low,14,name.com,,,
 48469673-2387-4303-b0d9-36f908fbbc65,travel.racing,premium,130,130,high,medium,6,namecheap,,,
+3e8c971c-42e2-4f44-a9e3-fd7c07016902,dispatch.boutique,available,2.98,41.98,medium,low,8,namecheap,,,04/09/2026 00:56
 e0323beb-f8d5-4b1d-b847-716bd8af48c8,travel.industries,premium,520,520,high,medium,6,namecheap,,,
+e735ccc4-3fba-43b8-92ce-5d80f95c6dc0,publictransit.red,available,14.99,,medium,low,14,name.com,,,
+ace6e7cb-3cf1-4a09-b873-3228815f3e70,transported.software,available,20.99,41.99,low,low,11,namesilo,,,16/09/2026 07:05
+1799069e-a238-40f1-b7ef-a61d0e231831,logistic.vin,available,6.98,75.98,low,low,8,namecheap,,,24/08/2026 08:52
 42abb5c2-4849-4ff7-a87c-765a1718b1ba,travel.land,available,,,high,low,6,,,,
 f21a4b94-6f0a-42cc-8f56-928c1082e9ee,travel.cruises,resell,,,high,medium,6,"Spaceship, Inc.",09/09/2015 16:00,09/09/2026 16:00,
 90b162c9-a8eb-47d7-9dab-70a99321f264,travel.florist,premium,520,520,high,medium,6,namecheap,,,
 809fa88a-8d10-42ef-9eb2-34609a39b2b0,travel.flowers,available,64.99,114.99,high,medium,6,namesilo,,,
+0263df4f-efe6-48a6-a06e-614997ac044c,aviation.plumbing,available,72.99,72.99,medium,low,8,namesilo,,,17/09/2026 22:43
 a809240a-eead-435d-aea2-1bafc875e7de,travel.autos,resell,,,high,medium,6,"Spaceship, Inc.",23/07/2021 14:35,23/07/2026 23:59,
 a4b1b2d3-3c6f-481d-a3a6-c24641e7345e,travel.dealer,premium,2015,2600,high,medium,6,namecheap,,,
 a498cdcd-508e-4b20-95b4-3291f094c34e,travel.cars,available,1999.99,2199,high,medium,6,namesilo,,,
+bd5d2672-29fa-4e0a-8c38-683d4faf57f0,transported.computer,available,23.99,38.99,low,low,11,namesilo,,,16/09/2026 07:05
 34fd69f2-92cc-4d9d-bb50-50bc15ac10bc,travel.enterprises,premium,520,520,high,medium,6,namecheap,,,
 d5dd25ac-2427-4149-8121-102d8edca709,travel.ltda,premium,66.3,66.3,high,medium,6,namecheap,,,
 21c8013e-e5e9-4d76-98a1-abcc0296432c,travel.sarl,premium,520,520,high,medium,6,namecheap,,,
 ea93a49d-295a-4c27-addd-67e029f8219b,travel.llc,premium,2600,2600,high,medium,6,namecheap,,,
 ebed3ba2-7115-4c48-836c-ac4b118a0c1a,travel.limited,resell,,,high,medium,6,"Sav.com, LLC",08/09/2024 23:12,08/09/2026 23:12,
 cae5cb6e-d7c1-44ab-b37d-1f42a4661092,travel.gmbh,premium,260,260,high,medium,6,namecheap,,,
+89deda01-cc3e-44f0-ad23-f3248fb6c2ac,railways.boo,available,14.99,,medium,low,8,name.com,,,
+0c3d286f-5113-4a1c-a588-49d7d3cb0b75,dispatch.channel,premium,37.7,37.7,medium,low,8,namecheap,,,04/09/2026 00:56
+77b5f8fd-73c0-4683-8787-569a3b79519c,dispatch.moe,available,13.99,13.99,medium,low,8,namesilo,,,04/09/2026 00:56
 a6680169-cc08-4445-8f90-d2d1d563200f,travel.pizza,premium,500,500,high,medium,6,name.com,,,
+0f7dbdd0-fea5-4b79-90a8-9ea0968742bc,trucks.hot,premium,125,,medium,low,6,name.com,,,
 cc70cbb7-0191-4936-b434-7775ce4b819d,travel.homes,resell,,,high,medium,6,"Spaceship, Inc.",01/09/2022 20:39,01/09/2026 23:59,
+e5f12bde-5735-4648-bcbe-fbdb9fb63e1e,ships.baby,available,29.99,,medium,low,5,name.com,,,
 85a80cd5-6945-4505-93a5-d52c0e1635b5,travel.house,available,,,high,low,6,,,,
 1ba6fd0f-35c6-4bd2-95b2-3b868a7e609c,travel.maison,premium,520,520,high,medium,6,namecheap,,,
 d70f8796-937f-4ab6-b431-3260d7a9a29f,travel.rentals,premium,1040,1040,high,medium,6,namecheap,,,
+256e213f-5dfa-42e1-8013-04582f12f243,ferries.republican,available,5.99,28.99,medium,low,7,namesilo,,,
 3e56402d-bd91-4c59-971b-a0f1aa12e15b,travel.rent,premium,650,650,high,medium,6,namecheap,,,
 42a5b597-bfd9-427d-aa14-c9fdd4816c40,travel.mobi,available,,,high,low,6,,,,
 a947c6aa-a470-49f0-966a-f21c8e37fd4d,travel.property,available,,,high,low,6,,,,
@@ -94,28 +542,49 @@ eadc5694-40de-4831-bc85-5954d83fdcfe,travel.condos,premium,1040,1040,high,medium
 5f8c4d84-b409-4626-8efa-7963165d2007,travel.boutique,resell,,,high,medium,6,"Global Domains International, Inc. DBA DomainCostClub.com",28/07/2015 11:03,28/07/2026 11:03,
 32a3010e-436a-4634-b25b-e08105d437c5,travel.shopping,premium,520,520,high,medium,6,namecheap,,,
 80dc6494-f774-421a-b72c-f2727be995f8,travel.tienda,premium,520,520,high,medium,6,namecheap,,,
+b7457158-39f2-4101-93bf-a9423ab257b9,maritime.cab,available,23.99,43.99,medium,low,8,name.com,,,24/08/2026 16:00
+01e41cd1-3619-4652-b07a-6a16039c9d44,aviation.fitness,available,8.99,41.99,medium,low,8,namesilo,,,17/09/2026 22:43
+d1649405-3797-431e-a0e1-d08a4545404a,logistic.blackfriday,available,114.99,114.99,low,low,8,namesilo,,,24/08/2026 08:52
+b5fb6007-6c3b-41b1-b538-c27da8541e6e,aviation.moi,available,25.99,25.99,medium,low,8,namesilo,,,17/09/2026 22:43
 370c0838-8ce4-4c08-b8b0-e1d7f9ba3360,travel.food,premium,1300,2600,high,medium,6,namecheap,,,
 a0ffd6a0-0506-4f6e-9dbf-c667db54160b,travel.site,premium,3125,12500,high,medium,6,name.com,,,
 cbc87170-b949-42f9-af94-85f3a5c5fa53,travel.network,available,,,high,low,6,,,,
 de0a1b8b-75b0-4efc-bdd8-f1c95d05c676,travel.menu,available,,,high,low,6,,,,
 b6ca43f8-9be5-4b39-bc5f-c70ff3a438f0,travel.restaurant,premium,123.75,123.75,high,medium,6,name.com,,,
 3654351a-4280-4e47-91f4-f056eeed07a1,travel.rest,available,,,high,low,6,,,,
+db65c9f9-1b86-48fd-941d-3ccf2521c0ae,aviation.luxe,available,19.49,19.49,medium,low,8,namesilo,,,17/09/2026 22:43
+499c18ea-4d23-4663-a8c3-3944bfb37cd7,railways.cv,premium,1339.98,8.85,medium,low,8,namesilo,,,
 b3b2feba-89e9-4e8a-8b85-8b39dbdde17b,travel.dev,premium,1623.75,1623.75,high,low,6,name.com,,,
-3a41cf4a-cb7e-4588-828b-9e25f02ef0da,travel.space,premium,1625,6500,high,medium,6,namecheap,,,
+3a41cf4a-cb7e-4588-828b-9e25f02ef0da,travel.space,premium,6900,6900,high,medium,6,namesilo,,,17/09/2026 05:21
 12414a3e-a977-4915-b215-75eadc96c275,travel.kaufen,available,5.99,26.99,high,medium,6,namesilo,,,
+638ef7ef-4a17-492c-9113-26c2323d08d2,ships.mobi,available,6.99,,medium,low,5,name.com,,,
 75b428ae-a6ab-445c-8d13-cfbb5fdce4b3,travel.fit,premium,5200,31.2,high,medium,6,namecheap,,,
+1cee355b-013a-42b7-b007-7ee862f4e846,transported.date,available,5.25,6.25,low,low,11,namesilo,,,16/09/2026 07:05
+2a1bc745-08a2-4f5f-89f6-6364a9501d0f,publictransit.lol,available,1.99,,medium,low,14,name.com,,,
+e5a8eb25-4609-4cce-8aac-c4cfc5ed33d8,trucks.singles,available,12.99,,medium,low,6,name.com,,,
 204a1212-049d-490c-853f-b07cb84c064e,travel.zip,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 01b7d792-fd4e-4e97-a431-32af2b37d498,travel.tires,premium,1040,1040,high,medium,6,namecheap,,,
 4aa6e80f-fd1a-4f18-961f-322fcf32bcde,travel.catering,premium,520,520,high,medium,6,namecheap,,,
 52689d1c-e889-487e-b85e-6ceb0f28ee65,travel.quest,premium,10400,10400,high,medium,6,namecheap,,,
+39d2e902-444e-4a16-b1d2-9487df89df44,ships.flowers,available,159.98,,medium,low,5,namecheap,,,
+f6e176f7-06c9-4adb-902f-015c9517c078,aviation.homes,resell,,,medium,low,8,,,,17/09/2026 22:43
 8adb09e8-62a8-40b8-a120-ee18e6ee097c,travel.football,premium,1040,1040,high,medium,6,namecheap,,,
 97f6d957-925a-480b-9f5e-992dac3851ff,travel.soccer,available,,,high,low,6,,,,
+bcc68514-42a6-4fcf-b18e-b7f4c1359b3e,railways.cam,available,8.99,17.49,medium,low,8,namesilo,,,
+d028aa86-c1d9-4a1d-beb6-0d85a2732e0b,ferries.mov,premium,36.25,,medium,low,7,name.com,,,
 66da040a-19a3-4901-81a4-2cebec0a4371,travel.online,premium,7812.5,31250,high,medium,6,name.com,,,
+e16c84d5-2229-4b80-99cf-c5efbb9003aa,publictransit.video,available,14.99,,medium,low,14,name.com,,,
+c670ce6a-d962-435a-8610-8c78840dbdb5,transports.farm,available,13.99,,medium,low,10,name.com,,,
 fd5df987-4506-4005-8cff-89268dae8f36,travel.locker,premium,6500,58.5,high,medium,6,namecheap,,,
+cf410ec2-e0e4-4bee-8e38-52ab89b324fe,ships.salon,available,14.99,,medium,low,5,name.com,,,
+0c611b92-7959-43a4-9a92-6f958f2f7dac,railways.ing,available,16.98,,medium,low,8,namecheap,,,
+f0e7bda6-6b31-419f-a40c-a4dc601baeef,transported.icu,available,2.79,26.98,low,low,11,namecheap,,,16/09/2026 07:05
 20d6033e-847c-4494-a474-502921ebe1cd,travel.living,premium,1300,2600,high,medium,6,namecheap,,,
 2d497045-4414-4f9c-9f3d-6c7626ae4eba,travel.lifestyle,premium,1300,2600,high,medium,6,namecheap,,,
 ca33d218-4cba-41dd-9e16-03aac4f6bdfb,delivery.delivery,available,,,high,low,8,,,,
+bc25df50-5f1c-4838-97a4-aeddccd8f072,ferries.network,available,7.99,,medium,low,7,name.com,,,
 68d144a3-d166-4fd6-82e0-428f6f251f5d,travel.media,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",14/06/2015 16:55,14/06/2026 16:55,
+f69c2806-9eda-442a-9d4d-fa3bbc9d269f,trucks.studio,available,21.99,,medium,low,6,name.com,,,
 5f47e794-dafd-45b3-af9e-62b1d2b96ff0,travel.vote,available,119.98,,high,low,6,namecheap,,,
 d6e08373-93ac-401e-8401-b8f16cb1872b,travel.voto,available,86.98,,high,low,6,namecheap,,,
 d735889c-9837-4224-959a-18a31772ade6,travel.lease,premium,1040,1040,high,medium,6,namecheap,,,
@@ -124,56 +593,92 @@ aa8fa17e-b5d5-444f-8f5e-f3466c8f1aac,travel.link,resell,,,high,medium,6,1API Gmb
 6f570d4b-fb19-48ba-8e72-94cc034a7f7c,travel.horse,premium,260,31.2,high,medium,6,namecheap,,,
 3db49722-43da-462a-803e-e3181501c67f,travel.pet,premium,1250,1250,high,medium,6,name.com,,,
 5c346392-1afb-4454-b103-ecfaf98411ee,travel.dog,premium,520,520,high,medium,6,namecheap,,,
+8e9c8d93-6404-44fe-a84e-8e58c2071c11,transported.realty,available,109.99,299,low,low,11,namesilo,,,16/09/2026 07:05
 2a528fc8-94a7-41c8-b2da-9d4b64bb1e5d,travel.dance,premium,128.7,128.7,high,medium,6,namecheap,,,
 8a494c3e-5d17-46cd-aa3f-a9a949eac192,travel.cricket,premium,3250,130,high,medium,6,namecheap,,,
 2ac37dc4-6295-47e2-8d18-d70f2a163283,travel.hockey,premium,1040,1040,high,medium,6,namecheap,,,
 b8f1cd3f-51a7-44af-a645-de7f393d83b0,travel.rodeo,premium,104,10.4,high,medium,6,namecheap,,,
 d8932d2b-98c7-423f-b21d-e191e6613a43,travel.ing,premium,39000,39000,high,low,6,namecheap,,,
+7f02c5e3-e2f9-4e4d-8df0-845c73334e6e,aircraft.living,available,5.49,39.99,medium,low,8,namesilo,,,17/09/2026 23:03
 fe756f36-0be4-434a-aa98-a6d29e66b698,publictransit.car,available,2400,,medium,low,14,namecheap,,,
 ffeacff7-57a9-4b86-9cb2-acf8dca4bae7,travel.press,premium,3125,6250,high,medium,6,name.com,,,
 247ca567-93c7-4443-b5da-615401d87be9,travel.observer,premium,1040,1040,high,medium,6,namecheap,,,
+d0240930-7f6b-4417-b3cf-b018c56cadde,distributed.kim,available,5.98,32.98,medium,low,11,namecheap,,,
+02cdccf3-2ff2-411c-b5a1-46d2a8cc24f5,dispatching.forex,available,19.99,,high,low,11,name.com,,,
+b92e3cee-812b-4c75-8186-3b5b12aebd2f,aviation.bid,available,5.25,6.25,medium,low,8,namesilo,,,17/09/2026 22:43
+e824eabd-5902-4304-ad6a-3d95c5aac594,aircraft.degree,available,52.99,52.99,medium,low,8,namesilo,,,17/09/2026 23:03
 477be61b-d4b3-45d9-b813-882e00aaf520,travel.training,premium,260,260,high,medium,6,namecheap,,,
 010e7409-4f17-4c0c-854a-d1c6cf2e8581,travel.mov,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 8f29c4b1-790c-4b26-bd63-3536cd71d8d1,travel.movie,premium,1040,1040,high,medium,6,namecheap,,,
 95303d94-1263-4281-b75b-03f03c34aa39,travel.film,premium,1300,1300,high,medium,6,namecheap,,,
+6eca46f7-f51a-49b4-b0a0-5ddad298be90,logistic.attorney,available,62.99,62.99,low,low,8,namesilo,,,24/08/2026 08:52
+40918308-2d89-4fbb-9f5e-15b1de83a30c,transported.now,available,38.99,38.99,low,low,11,namesilo,,,16/09/2026 07:05
+8f809690-9243-477f-92c6-ade9fcda9685,aircraft.healthcare,available,88.99,88.99,medium,low,8,namesilo,,,17/09/2026 23:03
 c0840bcb-8e76-446b-94e4-9c54b06884f2,travel.academy,resell,,,high,medium,6,"Sav.com, LLC",19/03/2014 19:08,19/03/2027 19:08,
 f6a69ff3-62e8-49a6-a682-7139fbc0c26b,travel.run,available,,,high,low,6,,,,
+470120f1-e46c-4a57-a73a-f88ab372dc5e,railways.report,available,14.99,,medium,low,8,name.com,,,
+3d43db54-391f-4843-87cb-6d5e29b270d4,ships.click,premium,87.5,,medium,low,5,name.com,,,
 bf7634ee-360d-4114-a82c-1b5dbebb4054,travel.cyou,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",17/10/2025 00:06,17/10/2026 23:59,
+2186d75f-84dc-480f-ad72-e2f1158409c9,transports.clinic,available,19.99,,medium,low,10,name.com,,,
+11fc96b5-47bd-4c60-9bed-a3ee643f0b28,distributed.support,available,4.98,37.98,medium,low,11,namecheap,,,
+29f8dcef-7701-440f-bd53-fb7e422e8701,distributed.beauty,available,1.65,15.75,medium,low,11,namesilo,,,
+4cc6ce4d-e999-4177-93c2-0ca06b60c454,distributed.cleaning,available,75.49,75.49,medium,low,11,namesilo,,,
 39ad6d1f-08a2-4aa7-8566-dc8bb9bf6c88,travel.men,premium,455,65,high,medium,6,namecheap,,,
 cd7e4474-8be1-4511-b270-e37b44fc7304,travel.mba,premium,260,260,high,medium,6,namecheap,,,
 9bb2e6e1-1e05-4c05-904f-56de72658637,travel.download,available,,,high,low,6,,,,
+9c47394f-f41a-4aa5-bf36-0549a3f45031,goods.trading,premium,500,,high,low,5,name.com,,,
 73c5907f-fdcc-4f02-a9ac-06e7c153fe16,travel.study,premium,260,260,high,medium,6,namecheap,,,
 dce85ea8-6023-440e-8ebe-4a1dc04a9939,travel.school,premium,1040,1040,high,medium,6,namecheap,,,
 0a1feada-c878-4a8f-b4ff-b675d73a7495,travel.shiksha,available,19.99,,high,medium,6,name.com,,,
 31d6557a-7797-4787-a3e9-eddaf7d68d85,travel.degree,available,14.99,,high,medium,6,name.com,,,
 07da0255-cba4-4744-a8a9-e2730d7a4e28,travel.schule,premium,1040,1040,high,medium,6,namecheap,,,
+3049a263-e8cf-4e3e-bafb-ae31d470b93b,transported.viajes,available,37.99,37.99,low,low,11,namesilo,,,16/09/2026 07:05
+655765dc-0eef-49fc-adfb-33251d644fe7,ships.poker,available,14.99,,medium,low,5,name.com,,,
 a2153e41-439a-4d24-a3df-f035b56c8b5f,travel.rsvp,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 b81570c6-6e1a-41b4-8200-23411d35c689,travel.email,available,,,high,low,6,,,,
 e9043a83-b2f4-4b68-a57b-bb58afea5b3e,travel.foo,premium,1298.7,1298.7,high,medium,6,namecheap,,,
+cd51f207-6cc6-483b-9d1c-3e7c31eef12e,distribution.desi,available,19.98,22.98,medium,low,12,namecheap,,,14/09/2026 02:25
+c093ce5f-7333-4f21-a690-fd6ed517271c,navigation.link,premium,448,448,medium,low,10,namesilo,,,10/09/2026 00:36
 17180421-4406-4c27-97f6-3a7b62614500,travel.cash,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,30/08/2015 18:05,30/08/2026 18:05,
 76ef256c-7f2d-44a6-a536-b8fc998139e2,travel.finance,premium,1040,1040,high,medium,6,namecheap,,,
 f3e7ecf9-c1dd-4a2d-a7e2-bb95e40a2c73,travel.financial,premium,520,520,high,medium,6,namecheap,,,
 36e0c46b-27bc-43a5-ada3-e4b12d65d2ec,travel.loan,premium,13000,130,high,medium,6,namecheap,,,
 180c4304-580c-4272-a845-8a080537831b,travel.investments,premium,520,520,high,medium,6,namecheap,,,
 b235c659-18a6-4b84-b2e2-453e3a93806e,travel.consulting,premium,1300,1300,high,medium,6,namecheap,,,
+05cb6013-79d2-430e-adfb-f405402c6a11,distributed.theatre,available,509.99,529.99,medium,low,11,namesilo,,,
+91b41a92-988d-4aad-ab6a-f094797846cf,transported.investments,available,12.99,129.99,low,low,11,namesilo,,,16/09/2026 07:05
+59a9adcb-ae87-41cb-b370-b8da61769183,maritime.hamburg,available,59.99,59.99,medium,low,8,name.com,,,24/08/2026 16:00
+7951cc13-fa23-4bb8-ac75-aaf1956441be,publictransit.feedback,available,15.99,,medium,low,14,name.com,,,
+1a61e941-eee5-41a7-ae2f-319548730e00,ships.cooking,available,43.98,,medium,low,5,namecheap,,,
+0437d83b-8930-4455-b068-67d20d13d995,supply.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,14/09/2026 05:32
+6f1df689-2449-4547-80d4-4535b96f175f,publictransit.tax,available,14.99,,medium,low,14,name.com,,,
 92d28c1b-136b-499b-8653-c67fa02d97c6,travel.hosting,available,309.99,329.99,high,medium,6,namesilo,,,
 d28d622a-8e0b-4f28-be8c-3fcce323ad3d,travel.host,premium,3250,6500,high,medium,6,namecheap,,,
+962dde51-a057-47c5-94bb-96ed93ab13a0,ferries.my,available,3.49,29.99,medium,low,7,namesilo,,,
 4a50e487-dd03-4e61-a27a-f921902fb798,travel.team,resell,,,high,medium,6,"Spaceship, Inc.",04/04/2025 15:15,04/04/2027 15:15,
 c4cd3321-1102-4fe2-920c-6ed85b2ecf75,travel.republican,available,5.99,,high,medium,6,name.com,,,
 056757d0-2504-4423-96a4-19828266fe49,travel.democrat,available,9.99,,high,medium,6,name.com,,,
 a42e2b3a-952f-4c9a-8de6-1a8173108a88,travel.xyz,premium,13000,13000,high,medium,6,namecheap,,,
+cdd9ac08-0391-4038-9672-6abf49c387fa,mobile.land,resell,,,medium,medium,6,Porkbun LLC,21/10/2016 09:01,21/10/2026 09:01,
 677b7e2f-5078-4142-9164-121836ef3f0a,travel.careers,premium,520,520,high,medium,6,namecheap,,,
 0bfdffd9-b8aa-4bde-a6ed-3295bfbab0db,travel.name,available,,,high,low,6,,,,
 d45a8fb1-fed8-42de-a5b8-5beb71eb3149,travel.soy,premium,698.1,698.1,high,medium,6,namecheap,,,
 4d183b59-4102-44b7-b508-6bab84213cae,travel.you,premium,650,650,high,medium,6,namecheap,,,
 6b7704ff-b8dd-48e8-8b76-0d37d86c945f,travel.one,premium,6500,6500,high,medium,6,namecheap,,,
+388b5884-51a4-44fa-b33e-47ece33d642a,railways.fail,available,14.99,,medium,low,8,name.com,,,
 ea1da03d-70fb-42aa-9afd-d1a0c3e0bf4f,transports.maison,available,19.99,,medium,low,10,name.com,,,
 fc86e81e-d0d7-42de-8166-d5f63293323d,travel.hiv,available,,,high,low,6,,,,
+820d4a6f-3c40-4ac3-8f2c-93822d76522b,transports.reviews,available,7.99,,medium,low,10,name.com,,,
+9eaff7ba-d438-4d6a-8695-5efbda6926bc,dispatch.deal,available,38.98,48.98,medium,low,8,namecheap,,,04/09/2026 00:56
 c2254568-27a4-4bbc-a3a3-e55cae8b5930,travel.auction,premium,520,520,high,medium,6,namecheap,,,
 ddc85b71-4f00-429c-980e-acdd671c3b59,travel.bid,resell,,,high,medium,6,Porkbun,26/07/2019 14:17,26/07/2030 14:17,
 ba3542dd-1d3f-487f-b919-b62dc4b1c1c6,travel.giving,available,,,high,low,6,,,,
+258aec50-1c4f-403f-8bd2-911dccfc2288,railways.guide,available,10.99,,medium,low,8,name.com,,,
+12c89d47-84b6-42a6-a2c1-158004a907bb,transported.foo,available,12.98,17.98,low,low,11,namecheap,,,16/09/2026 07:05
 e6bba7ee-b4cc-42a4-a85d-d349595e3347,travel.center,available,,,high,low,6,,,,
 fa43968a-8422-4758-900b-6d08c1e507d8,transports.mobile,available,26.98,,medium,low,10,namecheap,,,
+c1921d2a-a3d7-4554-ab3d-d09ed05da390,ferries.discount,available,7.99,,medium,low,7,name.com,,,
+7e52c50a-b96c-400e-b114-819d9f38950e,logistic.pub,available,39.99,39.99,low,low,8,namesilo,,,24/08/2026 08:52
 ac3b6e29-f185-4e5b-932e-3497c29054a2,travel.tools,available,,,high,low,6,,,,
 47254cb9-e8b8-4781-ab9a-95bb8174268e,travel.solar,premium,520,520,high,medium,6,namecheap,,,
 114750df-41b5-4798-bcfe-57c31baeff8e,travel.review,available,,,high,low,6,,,,
@@ -182,8 +687,11 @@ a6c3d39c-6862-4f49-a444-96f994460536,travel.sucks,premium,27300,27300,high,mediu
 fa880ec4-cf19-4d8a-b818-48805d410217,travel.exposed,premium,520,520,high,medium,6,namecheap,,,
 0e227124-53f9-4b11-90f6-c1485679e93c,travel.wtf,resell,,,high,medium,6,"Spaceship, Inc.",27/09/2023 00:24,27/09/2026 00:24,
 75ad3587-b0f9-46b2-971c-eae942cf6230,travel.reviews,available,,,high,low,6,,,,
+ce670bbf-b27d-45dc-a73c-090b8a72af11,trip.agency,resell,,,medium,low,4,Dynadot Inc,30/04/2014 16:00,30/04/2027 16:00,08/09/2026 04:57
 ecb18ea2-7a87-4757-ae78-41269c35b523,travel.yoga,resell,,,high,medium,6,"GoDaddy.com, LLC",26/08/2020 18:57,26/08/2026 18:57,
 c60b9134-e0d0-425a-a07f-611ac90433dd,travel.im,available,,,high,low,6,,,,
+d16fdba8-fa3f-4f6b-9b89-85ffc63be570,ferries.poker,available,14.99,,medium,low,7,name.com,,,
+b51caa8c-66df-44db-878d-025af21db408,publictransit.today,available,2.99,,medium,low,14,name.com,,,
 65961efa-565f-49b0-a145-a59b7736a5cf,travel.free,premium,6500,6500,high,medium,6,namecheap,,,
 9d144d1c-b602-4e2c-bb76-091fda5d8c0a,travel.coupons,premium,1040,1040,high,medium,6,namecheap,,,
 7cd91290-6f8e-4019-aa76-f64a7e915a9c,travel.forsale,available,,,high,low,6,,,,
@@ -194,23 +702,38 @@ da2f8bd8-ff9e-41df-bc30-eb2e9a53ea3f,travel.blackfriday,available,114.99,114.99,
 f1a61c7b-bba2-44cb-a678-ec5d48a44e88,travel.deal,premium,13000,13000,high,medium,6,namecheap,,,
 240faf21-45d0-4003-8695-ce5b892e4071,travel.band,premium,1300,1300,high,medium,6,namecheap,,,
 79b1ed03-761e-42c8-a7cf-19b90f8894ef,travel.market,available,,,high,low,6,,,,
+73c3c727-2b90-4f5d-b185-d4cd6f840d04,organization.paris,available,51.98,,high,low,12,namecheap,,,
+d7628328-9ef4-43d5-b177-3a9784378526,ferries.vet,available,41.99,41.99,medium,low,7,namesilo,,,
 854a9fd9-a7ca-4462-915b-c00687e364d3,travel.bio,resell,,,high,medium,6,"Xiamen ChinaSource Internet Service Co., Ltd",14/08/2025 15:15,14/08/2026 15:15,
 b9039303-0f4b-45eb-b713-3a0e3b727901,travel.day,premium,1298.7,1298.7,high,medium,6,namecheap,,,
+f737b94b-3edc-42cb-8e00-2320868b12fe,aircraft.dating,available,20.99,64.99,medium,low,8,namesilo,,,17/09/2026 23:03
 0243a9ce-bf35-466e-893e-bad100d896d3,travel.fans,available,,,high,low,6,,,,
+97e2e0be-fd57-4cf5-9f6b-dd26f78922b0,transported.sydney,available,44.98,54.98,low,low,11,namecheap,,,16/09/2026 07:05
 42151b1c-d633-4d0c-9a75-32fdb345af6f,travel.meme,premium,1690,1690,high,medium,6,namecheap,,,
 9371b07d-d249-4516-ad62-f882c905da0e,travel.golf,available,,,high,low,6,,,,
+38b533d5-11d8-462e-8ac2-9c938bd8f744,railways.capital,available,9.99,,medium,low,8,name.com,,,
+866e78e1-0e48-4068-93cc-b3525bb072b0,transported.free,available,38.99,38.99,low,low,11,namesilo,,,16/09/2026 07:05
+01945ba7-6533-4b02-9a3f-f4feab19eaa6,dispatch.soccer,available,25.99,25.99,medium,low,8,namesilo,,,04/09/2026 00:56
 fe1b5e0a-9755-4d3b-b2b5-f44d2aff5eaf,travel.ong,available,16.99,16.99,high,medium,6,name.com,,,
 abf3fd8f-201e-4fb3-9536-57ff247a60c0,travel.furniture,premium,1040,1040,high,medium,6,namecheap,,,
+fcdeddc3-7a4e-420e-888a-cd7dd9f90732,supply.faith,premium,116,29.5,medium,low,6,namesilo,,,14/09/2026 05:32
 c034f31f-8e79-4310-98a9-3882683579dc,travel.work,resell,,,high,medium,6,"GoDaddy.com, LLC",16/10/2019 17:39,16/10/2026 17:39,
+b8ea7b2a-9861-48cc-9886-75e6acdf311a,publictransit.cricket,available,31.98,,medium,low,14,namecheap,,,
+3d12c707-fa4a-417e-b0c3-ab23eb204f1e,transported.team,available,2.98,46.48,low,low,11,namecheap,,,16/09/2026 07:05
 b2c0e1fa-cb0c-48a9-958d-1c7101ceda24,travel.fund,premium,520,520,high,low,6,namecheap,,,
 152ed84e-2e09-4c30-b77c-219ee42b4236,travel.tax,available,,,high,low,6,,,,
+c83b5d18-4fce-44cb-a949-2047ebb68bfa,logistic.tech,resell,,,low,low,8,Squarespace Domains LLC,22/02/2024 01:05,22/02/2027 23:59,24/08/2026 08:52
 8d77e339-dda8-49bb-b9e4-fd66950b8242,travel.haus,resell,,,high,medium,6,"GoDaddy.com, LLC",16/07/2016 15:16,16/07/2027 15:16,
 588699a7-cd55-40f8-84dc-86e31feebc3a,travel.coffee,available,,,high,low,6,,,,
 a851a25d-7920-4ab9-a742-8c364fb86246,travel.repair,premium,520,520,high,medium,6,namecheap,,,
 58ddbe71-26a5-4976-b44e-d27f6112f8e4,travel.vision,available,,,high,low,6,,,,
+c8d90eae-e1ce-4011-8a01-cbc4ff813c28,ships.pics,available,1.99,,medium,low,5,name.com,,,
 ff3cb0e3-930a-4ad3-8353-4620f2ce5467,travel.ceo,premium,2600,2600,high,medium,6,namecheap,,,
 b8be3f38-2ae4-49d3-b171-f6f8a112f14a,travel.sydney,available,,,high,low,6,,,,
 251ace80-a6a3-43b4-ada3-87b30b0a91f3,travel.engineer,premium,78,78,high,medium,6,namecheap,,,
+52f1fab1-ba3c-4c1a-a409-5662fd085a42,ferries.surf,available,2.19,32.49,medium,low,7,namesilo,,,
+b22ab9d6-df6a-45de-ba1d-d536bf07f994,distributed.autos,available,1.8,19.98,medium,low,11,namecheap,,,
+b4573983-ce35-496d-b854-7a188786ae69,transports.clothing,available,19.99,,medium,low,10,name.com,,,
 916dbdfa-8edb-4c07-ae91-98403decc4c5,travel.buzz,premium,780,260,high,low,6,namecheap,,,
 e8973b52-0ac2-4c40-ba28-b59947cfd254,travel.website,premium,6500,13000,high,medium,6,namecheap,,,
 626e90ca-d313-48d5-a24d-26fa7a484a9d,travel.onl,premium,156.25,312.5,high,medium,6,name.com,,,
@@ -218,6 +741,7 @@ e9ab635b-c112-40ff-a8dd-f4e1b8195d42,travel.plumbing,premium,500,500,high,medium
 4769d405-4356-4de8-a7c0-8e68e43dc547,travel.uno,premium,6500,6500,high,medium,6,namecheap,,,
 1725e027-ba0b-4f4f-8b67-8b8efa367b6f,travel.tel,available,,,high,low,6,,,,
 3d20bbcd-7419-4bd7-90e8-3d6afaa66d10,travel.camera,premium,260,260,high,medium,6,namecheap,,,
+8ea72514-abca-464d-8a1d-5fea67cc8456,trucks.giving,available,5.99,,medium,low,6,name.com,,,
 47421089-c8bb-4969-9cf5-0e377c42c679,travel.beer,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",19/04/2020 08:56,19/04/2027 08:56,
 053a2c55-6c14-4f28-bab3-6c4a1182ceda,travel.fashion,premium,5200,31.2,high,medium,6,namecheap,,,
 84f7a6de-6475-44f6-ac10-440c9ce312c9,travel.style,resell,,,high,medium,6,"Wild West Domains, LLC",17/05/2015 16:00,17/05/2027 16:00,
@@ -227,6 +751,8 @@ ac5e315b-5bd0-46b1-84c2-9d238c53d8cb,travel.cleaning,premium,520,520,high,medium
 7df26bf6-9c96-445c-b60f-4cbdec6aec29,travel.chat,resell,,,high,medium,6,Dynadot Inc,06/09/2023 18:33,06/09/2028 18:33,
 1888a481-21c8-4085-b2b6-665adfdb6d45,travel.boo,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 6582ce40-6aea-4977-a6e5-cfbbc3c3c615,travel.cool,resell,,,high,medium,6,"Sav.com, LLC",13/08/2015 21:53,13/08/2026 21:53,
+ee5981c0-6c0d-4689-a466-229f5db557fb,supply.university,available,62.99,62.99,medium,low,6,namesilo,,,14/09/2026 05:32
+74967a35-705d-43db-871a-837888d82788,supplier.ryukyu,available,22.98,,high,low,8,namecheap,,,
 188c9064-6959-41bb-aaec-2a368380d525,travel.contractors,premium,128.7,128.7,high,medium,6,namecheap,,,
 9cc6feed-2dfa-4773-b998-28564dadd6a7,travel.builders,premium,128.7,128.7,high,medium,6,namecheap,,,
 16c41104-3950-4846-9658-77c57679cbde,travel.construction,premium,520,520,high,medium,6,namecheap,,,
@@ -241,9 +767,14 @@ c05fcb60-dc4e-490d-8d0c-fd6ad0ff51a8,travel.hiphop,available,,,high,low,6,,,,
 376eadcf-268a-4c06-88b7-bb81c1349263,travel.guitars,available,104.99,114.99,high,medium,6,namesilo,,,
 e9775e38-8ef5-492a-937f-d07cd668ca58,travel.organic,available,19.99,,high,medium,6,name.com,,,
 19482052-84c9-4c60-9f85-31b6448ebc39,travel.green,premium,1950,1950,high,medium,6,namecheap,,,
+8353c82d-e039-40e4-89da-388654e69848,airnavigation.hamburg,available,59.99,,medium,low,14,name.com,,,
+c2f53874-3744-44f3-9fcd-9452895cb4ef,logistic.dental,available,78.99,78.99,low,low,8,namesilo,,,24/08/2026 08:52
+7a94dc0c-7172-41d5-998b-55499cfd84c5,ships.gold,available,9.99,,medium,low,5,name.com,,,
+8a202fec-06bc-4c34-a775-9631293a0121,ferries.lawyer,available,62.99,62.99,medium,low,7,namesilo,,,
 2bd92e17-05ea-4977-bf70-7bd985643b84,travel.graphics,available,,,high,low,6,,,,
 b69b3827-735a-4fe1-9cd8-9356d7aaa01d,travel.photos,available,,,high,low,6,,,,
-0b1128cf-2550-4559-b1e4-d805c8ba3696,travel.sh,resell,,,high,medium,6,"GoDaddy.com, LLC",13/07/2016 00:30,13/07/2027 00:30,
+cdd88557-7e94-457a-b03b-104be90a8e8e,ferries.exchange,available,10.99,,medium,low,7,name.com,,,
+0b1128cf-2550-4559-b1e4-d805c8ba3696,travel.sh,resell,,,high,medium,6,"GoDaddy.com, LLC",13/07/2016 00:30,13/07/2027 00:30,17/09/2026 09:53
 fd4d6ccb-10cf-4b20-8524-07e453f42157,travel.recipes,premium,520,520,high,medium,6,namecheap,,,
 3b549356-7bb5-4921-a33d-4ec7cd804cfd,travel.community,available,,,high,low,6,,,,
 24a0da4b-9eb5-40db-bb5c-d9432d102e91,travel.lawyer,premium,1300,1300,high,medium,6,namecheap,,,
@@ -341,661 +872,130 @@ c068b47e-7049-43d7-b8d9-b04941c079b6,travel.diamonds,premium,520,520,high,medium
 e34b37ec-840b-4501-a422-40aec164eb7c,travel.church,premium,520,520,high,medium,6,namecheap,,,
 fe9c026c-a9af-42ae-b52d-512f998ea686,travel.software,premium,3125,,high,medium,6,name.com,,,
 ce26d126-9cb2-4b42-9289-024bd6e4ba05,travel.wedding,premium,2600,31.2,high,medium,6,namecheap,,,
+6358299e-6cfb-43fc-8a7c-ea622ff622d0,publictransit.coupons,available,3.99,,medium,low,14,name.com,,,
+82b91708-cf6f-4744-887d-dc5bf6039f42,ships.university,available,19.99,,medium,low,5,name.com,,,
+738c5e50-39f5-4341-8bf1-f51b95c60dce,aircraft.prof,premium,115.7,115.7,medium,low,8,namecheap,,,17/09/2026 23:03
+8485e246-f39e-4e36-8103-2dd785e1e895,railways.click,available,1.99,,medium,low,8,name.com,,,
+57391661-af3b-41f3-9cd9-5576b57d5a49,maritime.voto,available,11.98,86.98,medium,low,8,namecheap,,,24/08/2026 16:00
+75517b2b-fe9d-4d4b-98bc-79766bb977f6,ships.boutique,available,6.99,,medium,low,5,name.com,,,
 ff25ef84-905a-44c2-b70a-a812c9d47461,delivery.express,resell,,,high,low,8,Unstoppable Domains Inc,28/09/2025 09:31,28/09/2026 09:31,
+cbdcc684-f5e0-462e-8c53-a779ab027df3,railways.hamburg,available,59.99,,medium,low,8,name.com,,,
+db02acc6-00cc-4b4f-8d19-108f3b53ed00,distributed.phd,premium,61.25,61.25,medium,low,11,name.com,,,
+1a6054a8-c5f1-4392-a82b-f66431faeacb,navigation.enterprises,available,9.48,47.98,medium,low,10,namecheap,,,10/09/2026 00:36
+a3102299-b0df-44ac-9b76-e299044c9f5b,logistic.luxe,available,19.49,19.49,low,low,8,namesilo,,,24/08/2026 08:52
 95390b14-02cd-4bbf-b0ed-5777ab7380ba,transports.meme,available,15.98,,medium,low,10,namecheap,,,
+75991366-6403-4818-a35a-66773ded9268,dispatch.black,available,17.48,82.98,medium,low,8,namecheap,,,04/09/2026 00:56
+c01bc1bc-e269-4968-bef2-0a7ea76d634f,aircraft.singles,available,9.49,33.99,medium,low,8,namesilo,,,17/09/2026 23:03
+b4f0afcb-b9db-4832-a550-94bbf2972318,logistic.guru,available,2.98,54.98,low,low,8,namecheap,,,24/08/2026 08:52
+3795b4d5-6804-4055-bdaa-79bb4370e03f,navigation.direct,premium,118.8,118.8,medium,low,10,namesilo,,,10/09/2026 00:36
+c8c66db8-1cc8-4618-a6aa-634dceca993d,aircraft.shoes,available,64.99,64.99,medium,low,8,namesilo,,,17/09/2026 23:03
+c8e6a645-1dc5-472b-a4d1-c9ebfdfd5485,distributed.delivery,available,2.98,79.98,medium,low,11,namecheap,,,
+32a1db88-5642-4d54-85ba-4f39c5c27d6a,ferries.salon,available,14.99,,medium,low,7,name.com,,,
+d224578a-f8b7-416b-95b0-81c1a1abe552,supply.wine,premium,512,512,medium,low,6,namesilo,,,14/09/2026 05:32
 20c649fb-2f45-4b27-aa30-81b50561a925,transports.auto,available,2950,,medium,low,10,namecheap,,,
+80a8405f-62a7-40d6-9246-7a01c090ed83,aviation.life,resell,,,medium,low,8,,,,17/09/2026 22:43
+cb8bcd04-24fc-44fb-9704-f1e1ba58c29d,distributed.moi,available,25.99,25.99,medium,low,11,namesilo,,,
+8ec9ec5d-986d-4b3b-9b17-0c4f9947ef32,ships.viajes,available,57.98,,medium,low,5,namecheap,,,
+98a03ad4-4e62-46ec-8c1f-fc1d888bc344,trucks.agency,resell,,,medium,low,6,"Sav.com, LLC - 5",29/08/2025 15:15,29/08/2026 15:15,
+16003675-51e0-4cb7-975b-42a4dcd82dcd,trucks.sh,available,59.99,,medium,low,6,name.com,,,
+77d4c24e-cc91-495c-bda9-1ad503c35abb,dispatch.cat,available,26.98,38.98,medium,low,8,namecheap,,,04/09/2026 00:56
+2139932c-e330-4761-a2f0-29a3ecd49109,distributed.you,premium,62.5,62.5,medium,low,11,name.com,,,
+5f10ce27-a07f-4570-98af-bbe31a5ea646,railways.mom,available,1.99,,medium,low,8,name.com,,,
 8a1a4f6c-1cf3-4aa8-9284-0fd7166f593c,transportation.flights,available,23.98,75.98,medium,low,14,namecheap,,,13/09/2026 03:39
+660b2b87-a727-42a7-90b1-e70cd509a0b0,dispatch.global,premium,5200,65,medium,low,8,namecheap,,,04/09/2026 00:56
+61c2c84a-8307-4b6d-a7ef-c86f83b69d22,trucks.gifts,available,9.99,,medium,low,6,name.com,,,
 be1af614-3743-4ca3-8edf-0386bed14967,transportation.store,premium,325,1300,medium,low,14,namecheap,,,13/09/2026 03:39
+b2bcd2c3-80fa-483d-b459-e34fdb5c4e45,supply.engineering,premium,118.8,118.8,medium,low,6,namesilo,,,14/09/2026 05:32
 4ddb0c47-6034-4208-8808-c960ba902ae5,publictransit.navy,available,42.99,,medium,low,14,name.com,,,
 02334a2e-9e1f-4600-86a5-c1cee3f37e09,publictransit.business,available,3.99,,medium,low,14,name.com,,,
 3dbab898-c9df-4ace-8cac-efdda1106747,transports.sydney,available,54.98,,medium,low,10,namecheap,,,
+b2024c8c-10bb-4f9f-bf8c-c76a91a93aef,aircraft.marketing,available,8.99,41.99,medium,low,8,namesilo,,,17/09/2026 23:03
+bb73db21-2641-40c7-abcb-71a4d08d4911,trucks.wine,available,9.99,,medium,low,6,name.com,,,
+6684041f-e5af-43c4-ae62-6869855bfd46,logistic.xxx,available,69.98,154.98,low,low,8,namecheap,,,24/08/2026 08:52
+c2a5884e-15ca-4fc6-9906-647dc9f4369e,railways.sbs,premium,32.45,65.45,medium,low,8,namesilo,,,
+20b76e03-2915-4f39-9d1b-7f954d1a5b93,transported.study,premium,53.92,53.92,low,low,11,namesilo,,,16/09/2026 07:05
+40f00b65-d0c9-43b2-904a-cd474066f0d5,distributed.watch,available,3.48,56.98,medium,low,11,namecheap,,,
+856878b9-4fd5-4765-8099-c36cff2ee45a,trucks.graphics,available,31.98,,medium,low,6,namecheap,,,
 ee88591b-248b-4700-82e3-cebbce0e16d8,transports.adult,available,166.98,,medium,low,10,namecheap,,,
+ebdc7cd3-e06e-4b66-8512-43eb5a6a0b13,carrying.sex,available,154.98,,high,low,8,namecheap,,,
+9e567326-3371-4510-86c4-3c7b4d382d2e,transported.archi,available,19.99,103.99,low,low,11,namesilo,,,16/09/2026 07:05
+d627bd82-8fbd-419f-887c-c5d64b0a1621,ferries.win,available,5.25,6.25,medium,low,7,namesilo,,,
+565f84cb-5cfb-4f8e-bd5a-bf21cc06c397,distributed.bid,available,5.25,6.25,medium,low,11,namesilo,,,
+0df91565-ce00-444a-94d7-9253739f52af,ferries.cool,available,9.99,,medium,low,7,name.com,,,
+19a749cc-9dab-4bea-bf43-888e80c2945a,railways.camp,available,11.99,,medium,low,8,name.com,,,
+2571ffe3-fcb0-4681-8ed4-50966d279116,transported.solar,available,67.98,81.98,low,low,11,namecheap,,,16/09/2026 07:05
+6b4f8742-9073-4a72-a319-97ec82f4c7df,distributed.clinic,available,11.98,82.98,medium,low,11,namecheap,,,
 ba1b5555-f22e-4dad-a50a-b0a59ec1591c,publictransit.trading,available,19.99,,medium,low,14,name.com,,,
+124d1557-cdf9-42c6-9175-cca2f9c792c0,ferries.codes,available,11.99,,medium,low,7,name.com,,,
+1016ddc7-d645-42ad-841f-797d085cb622,transported.cheap,available,8.99,36.49,low,low,11,namesilo,,,16/09/2026 07:05
+5a019073-d560-4f92-8490-9016ec8c84e5,ferries.auction,premium,242,242,medium,low,7,namesilo,,,
+528fb2b3-e42c-4981-a827-94a45d5e9201,carrying.hamburg,available,59.99,,high,low,8,name.com,,,
+c9504059-b798-49dd-a6da-019bc1ecac45,aircraft.shop,premium,625,625,low,low,8,name.com,,,17/09/2026 23:03
+55b2bc27-8778-45b4-b26b-c9432f28f0ed,logistic.financial,available,17.48,66.98,low,low,8,namecheap,,,24/08/2026 08:52
 9960751a-02c6-4abf-b035-d087e68dcfc8,vehicle.cab,available,19.99,,high,low,7,name.com,,,
+a5cc9c04-ed25-4301-8503-d9210ee427cf,navigation.vision,available,45.99,45.99,medium,low,10,namesilo,,,10/09/2026 00:36
 eb1941bb-2f08-4893-8d81-ba4102fe6772,vehicle.taxi,available,10.99,,high,low,7,name.com,,,
+a458feef-1524-4080-ab76-81627875cf97,publictransit.vana,available,2498,,medium,low,14,namecheap,,,
+757fc395-35c9-4dbf-ac91-8729de71d9a4,navigation.dating,available,12.98,86.98,medium,low,10,namecheap,,,10/09/2026 00:36
+1a8f55d5-0027-4c49-aa3d-15a2b05cd90a,trucks.eco,premium,4375,,medium,low,6,name.com,,,
+4d1203cd-fc99-48a6-a65d-ea7a6b7ad291,distributed.school,available,9.99,46.99,medium,low,11,name.com,,,
 fd2559dc-2526-49de-a791-6e54c503c0c2,transports.surf,available,43.98,,medium,low,10,namecheap,,,
+6a06edc8-8048-4608-b1f6-2f3058983063,aviation.racing,premium,116,116,medium,low,8,namesilo,,,17/09/2026 22:43
+1e8b792d-0798-4e04-aefc-b39fa5ad7fda,ships.style,available,12.99,,medium,low,5,name.com,,,
+b00d4b39-eeff-4d63-ad2f-95de2a8025e0,ships.rentals,available,14.99,,medium,low,5,name.com,,,
+fa6e3965-1362-45da-bbdb-2726763b8311,trucks.ing,premium,437.5,,medium,low,6,name.com,,,
+c279d347-faa0-482b-83e9-6ba116248db6,dispatch.ooo,available,24.99,24.99,medium,low,8,namesilo,,,04/09/2026 00:56
+5cbfea7b-607a-429f-906c-2d86392a82c0,distributed.qpon,available,1.99,27.99,medium,low,11,name.com,,,
+5d6b6ba5-2aa0-4524-8186-181db4c97a06,trucks.sexy,available,2999,,medium,low,6,name.com,,,
+ee38866a-971b-40ab-85c9-55a05c2d0489,trucks.camera,available,21.99,,medium,low,6,name.com,,,
+8cc3c0ab-61fe-4107-8f6b-6a72f3663d1e,ferries.boo,available,14.99,,medium,low,7,name.com,,,
+4253661a-cf6e-4be0-a776-89c74dca01b1,aviation.vote,available,34.99,90.99,medium,low,8,namesilo,,,17/09/2026 22:43
 c204f2d0-d711-4e95-b9e1-6f588a0eacd5,publictransit.pw,available,20.48,,medium,low,14,namecheap,,,
 af91324c-8b1a-490f-a19d-9a67a6eff84a,transportation.agency,premium,42.9,85.8,medium,low,14,namecheap,,,13/09/2026 03:39
+0bd99a59-c393-4aac-8408-f49c4aee7980,supply.fitness,resell,,,medium,low,6,"GoDaddy.com, LLC",31/10/2014 12:44,31/10/2029 12:44,14/09/2026 05:32
+fade73a9-614f-4841-836c-e21d5479492f,transitions.ryukyu,available,22.98,,medium,low,11,namecheap,,,
+99c7ee5e-2422-41f8-913f-3a8db9934ca7,ships.futbol,available,19.99,,medium,low,5,name.com,,,
+d8ddbde4-f967-4f0d-acb5-5f921445d3ff,ships.cars,available,2950,,medium,low,5,namecheap,,,
+15943457-5725-4130-bd13-4e7e75d753fc,railways.security,available,1999.99,2049.99,medium,low,8,namesilo,,,
+75db61bb-a93f-429b-8c86-11f504aec573,maritime.vote,available,23.98,119.98,low,low,8,namecheap,,,24/08/2026 16:00
 7081cd89-dfa2-4c23-a036-9620a0f94223,publictransit.you,available,27.98,,medium,low,14,namecheap,,,
+e7361288-3a3a-424e-8ce6-bc9838a3a417,supply.vote,available,23.98,119.98,medium,low,6,namecheap,,,14/09/2026 05:32
+e45fee86-eb9b-490e-8bb6-c6cd4404db8b,railways.taxi,available,10.99,,medium,low,8,name.com,,,
+8c40b3c4-df14-4d40-83fb-f7d0711f4b80,ferries.pet,available,19.99,,medium,low,7,name.com,,,
+9dec6f6d-2e31-4eaf-b420-8d9ba862d548,navigation.pictures,available,15.49,15.49,medium,low,10,namesilo,,,10/09/2026 00:36
+22ff7d3b-8725-46bb-902a-216643405f6a,ferries.parts,available,15.99,,medium,low,7,name.com,,,
+9592818d-881f-4b77-953d-8db80aabf9b7,trucks.wtf,available,5.99,,medium,low,6,name.com,,,
+f8f381ff-3521-4aca-8dec-b74c4377dbe3,ships.vacations,available,9.99,,medium,low,5,name.com,,,
+7192066e-52a5-48ea-8ff0-4dffe4b89c56,presentation.markets,available,9.99,,high,low,12,name.com,,,
 d1ce5902-a691-448e-b2b2-bb2452a7d71e,vehicle.limo,available,19.99,,high,low,7,name.com,,,
+fc41fdb4-3465-4b77-b51e-0594ee0b0f98,trucks.watch,available,4.99,,medium,low,6,name.com,,,
+c7fefcd7-affe-43b1-9755-3c41ab139cfd,logistic.markets,available,5.98,26.98,medium,low,8,namecheap,,,24/08/2026 08:52
+ed4fd3f0-bca8-4f07-8fcd-8c1fc3490742,railways.singles,available,12.99,,medium,low,8,name.com,,,
+f8d05828-a411-4839-8129-6a0bc87053b9,navigation.marketing,available,6.98,53.98,medium,low,10,namecheap,,,10/09/2026 00:36
 0964d393-be8a-4c55-9be2-e1257fa55104,transportation.car,available,1999.99,2199,medium,low,14,namesilo,,,13/09/2026 03:39
+c2c866fd-12f4-4275-8cae-72914f2d3611,maritime.bid,premium,437.5,62.5,low,low,8,name.com,,,24/08/2026 16:00
+6ea8e4a2-5c4d-437f-b2b2-f05fed765272,trucks.immo,available,14.99,,medium,low,6,name.com,,,
 59446440-4e16-4af7-b746-30145e14df10,transports.fail,available,14.99,,medium,low,10,name.com,,,
 d730f1f0-f3b9-425e-a61b-4e65ea9fcb6a,transports.consulting,available,26.99,,medium,low,10,name.com,,,
+b87d980e-f908-4f8a-85cd-f2b6f254ac6f,ships.country,available,2450,,medium,low,5,namecheap,,,
+78450b16-f5ba-4982-93fb-274993b711e2,aircraft.movie,available,40.98,446.98,medium,low,8,namecheap,,,17/09/2026 23:03
 a4de4724-0861-41ea-a1fd-24cb1788c38c,publictransit.top,available,6.98,,medium,low,14,namecheap,,,
+93460c9b-909c-404e-9eca-5473cda93fe8,logistic.kim,available,5.98,32.98,low,low,8,namecheap,,,24/08/2026 08:52
+c708ffab-dcca-4241-a6b1-44d235eea637,supply.win,premium,448,53.92,medium,low,6,namesilo,,,14/09/2026 05:32
+4af0d05a-4e97-483a-9ca5-6b779e5cae29,trucks.help,available,1.99,,medium,low,6,name.com,,,
+2c61be34-9088-4eb2-a765-5bcc532755ee,ships.vip,premium,3125,,medium,low,5,name.com,,,
+26fe89f9-5bc8-4e59-bbd4-85b4f2c52ec1,ferries.enterprises,available,5.99,,medium,low,7,name.com,,,
+61e2bb8e-8675-44cd-9068-17ed5249f8fa,maritime.sucks,available,218.99,218.99,low,low,8,namesilo,,,24/08/2026 16:00
+38a9769b-89be-4427-8e12-be9f9f7c5236,transported.tools,available,18.99,36.49,low,low,11,namesilo,,,16/09/2026 07:05
+c052d836-2f48-420c-bb95-0fecd4a7004d,navigation.cleaning,available,75.49,75.49,medium,low,10,namesilo,,,10/09/2026 00:36
+e6c014f3-2be1-4c0d-9454-209b748774ab,distributed.theater,available,19.99,83.99,medium,low,11,name.com,,,
+9bb5a2ae-f358-4f0e-b7f5-6405a4df1af5,maritime.de,resell,,,low,low,8,,,,24/08/2026 16:00
+135c78d0-1c04-48a8-b7a2-dae114569850,railways.fast,available,29.49,29.49,medium,low,8,namesilo,,,
+b7f00b1d-45de-4488-a856-001aaad78fe9,ferries.construction,available,15.99,,medium,low,7,name.com,,,
+bd8a12b1-1232-44da-a24f-d410b1ba0fa6,supply.gallery,premium,118.8,118.8,medium,low,6,namesilo,,,14/09/2026 05:32
 1001b924-6087-4993-a21f-6163b38a2111,car.trading,resell,,,high,medium,3,Porkbun LLC,01/05/2017 16:06,01/05/2027 23:59,
+66252153-f057-491c-a916-daad0d83a0ba,navigation.film,available,65.99,65.99,medium,low,10,namesilo,,,10/09/2026 00:36
+d8879ee4-9c21-44b2-8e60-5cfbe218df64,logistic.surgery,available,54.99,54.99,low,low,8,namesilo,,,24/08/2026 08:52
+d256824e-b788-4aa8-9e9c-23e2494e65b8,distributed.fans,available,4.98,13.98,medium,low,11,namecheap,,,
+d23f0f9c-d842-4f76-b205-6f1b7d0a787d,logistic.autos,available,1.8,19.98,low,low,8,namecheap,,,24/08/2026 08:52
 695ebb3a-7830-4dec-8b5f-284aae43f947,publictransit.clothing,available,19.99,,medium,low,14,name.com,,,
-f5a9ce9a-2f11-462b-bb0f-b0120dde2f98,transports.tours,available,9.99,,medium,low,10,name.com,,,
-4c867ffc-89ae-41b7-b8c0-3ae0834b71ae,transportation.sex,available,69.98,154.98,medium,low,14,namecheap,,,13/09/2026 03:39
-d9ce5058-cb4c-4152-bd10-ed370fed488d,transports.pics,available,1.99,,medium,low,10,name.com,,,
-32946116-9fa3-42dc-b198-bddd1a0092a1,transports.supplies,available,32.48,,medium,low,10,namecheap,,,
-5161e9df-458a-4135-bf01-f73d59b7d5f9,transportation.auto,available,1999.99,2199,medium,low,14,namesilo,,,13/09/2026 03:39
-aa2fd96a-0758-4daf-9d7c-a44165dbca80,publictransit.lawyer,available,66.98,,medium,low,14,namecheap,,,
-ce64db0d-f739-427e-a6cc-25f106fd029d,transports.feedback,available,15.99,,medium,low,10,name.com,,,
-8ff800de-1ea2-4e86-b1d2-9583d04ba5a5,transportation.airforce,available,103.99,103.99,medium,low,14,namesilo,,,13/09/2026 03:39
-4200f908-7a92-4728-9e87-97209cb928ed,transportation.voyage,available,58.99,58.99,medium,low,14,namesilo,,,13/09/2026 03:39
-34985481-9754-4674-94af-c5a009d966f7,transportation.io,resell,,,medium,low,14,"GoDaddy.com, LLC",22/07/2014 06:42,22/07/2027 06:42,13/09/2026 03:39
-70e9e153-2f47-4188-9373-0cdc1766f848,transports.horse,available,43.98,,medium,low,10,namecheap,,,
-d220350f-b767-46bc-b499-3ace7528aa92,transports.best,available,23.08,,medium,low,10,namecheap,,,
-09935f27-2eae-4f00-b382-6d6c100fb7bf,transports.report,available,14.99,,medium,low,10,name.com,,,
-72db1011-27c3-47a7-b470-43057af6ccaa,transportation.travel,available,23.98,186.98,medium,low,14,namecheap,,,13/09/2026 03:39
-c60ca06d-a8a8-42ea-bbf1-865fe8393576,transportation.reise,available,27.89,97.99,medium,low,14,namesilo,,,13/09/2026 03:39
-7ba3895e-14eb-463d-aa8e-7aaf0645c3e7,transportation.tours,available,5.98,81.98,medium,low,14,namecheap,,,13/09/2026 03:39
-b1dc3efc-c6e9-4c4c-a312-e509c377c8e0,transportation.holiday,available,64.99,64.99,medium,low,14,namesilo,,,13/09/2026 03:39
-9f488175-8ced-4815-9e55-c103c72d4958,transportation.reisen,available,3.99,20.99,medium,low,14,namesilo,,,13/09/2026 03:39
-487bf8da-5e58-4654-9e5c-cd8bdee547be,transportation.vacations,available,38.99,38.99,medium,low,14,namesilo,,,13/09/2026 03:39
-2f2210da-1c67-438d-96b9-65ef712b2879,transportation.viajes,available,37.99,37.99,medium,low,14,namesilo,,,13/09/2026 03:39
-8eaec5d1-cc36-4b26-9b3a-93efc0c1bc68,transportation.expert,available,8.98,82.48,medium,low,14,namecheap,,,13/09/2026 03:39
-f8e950f3-4ccc-4540-9e3a-2f717fcb320b,transportation.pro,resell,,,medium,low,14,Unstoppable Domains Inc,26/12/2020 14:31,26/12/2026 14:31,
-3747a149-59c3-447a-8e3c-4f2eb3abdbb1,transportation.zone,available,8.98,51.98,medium,low,14,namecheap,,,13/09/2026 03:39
-3ab19428-0da7-4fd8-b2f5-a8dda419dc04,transportation.tech,premium,781.25,3125,medium,low,14,name.com,,,
-20c4b89d-427f-4620-a1e4-6f01b3a05307,publictransit.sex,available,154.98,,medium,low,14,namecheap,,,
-39a40ec7-2e2b-491f-9b76-4be4a236f1c0,transportation.supply,available,25.99,25.99,medium,low,14,namesilo,,,13/09/2026 03:39
-9985257d-050b-438b-bdc9-c727dfd9d7e2,transports.cyou,premium,38.5,77,medium,low,10,namecheap,,,
-9d7f0a13-3c2d-4038-9f19-82ba98904684,transports.builders,available,7.99,,medium,low,10,name.com,,,
-530be07c-8dd0-42fc-b43a-323348704085,publictransit.cyou,available,19.48,,medium,low,14,namecheap,,,
-6775d872-b6b3-4478-928c-7a8fccba4bd3,transportation.space,premium,812.5,3250,medium,low,14,namecheap,,,13/09/2026 03:39
-4579e5f0-5f0a-47ad-960e-117d9d7cb6c2,vehicle.flights,available,58.99,58.99,high,low,7,namesilo,,,
-b8ddd7c3-c81e-4b9b-b1c8-78967da8a285,transportation.navy,available,41.99,41.99,medium,low,14,namesilo,,,13/09/2026 03:39
-3606de91-441c-480a-a726-e91f9c63656e,publictransit.lat,available,1.99,,medium,low,14,name.com,,,
-836875f0-f3c1-4c83-8661-db2cc79b64be,transportation.town,available,6.98,47.48,medium,low,14,namecheap,,,13/09/2026 03:39
-704ee492-4fb4-4f8b-9bc5-f7eb2fc7cf08,transportation.city,premium,42.9,85.8,medium,low,14,namecheap,,,13/09/2026 03:39
-4a14ab4e-906b-49a1-932a-626d501891ee,transportation.country,available,2298,2450,medium,low,14,namecheap,,,13/09/2026 03:39
-db074780-d511-4d2e-8c50-79faf67f0b90,publictransit.adult,available,166.98,,medium,low,14,namecheap,,,
-ea505876-bba6-4b51-9538-e81434546d3a,publictransit.spot,available,31.98,,medium,low,14,namecheap,,,
-98f35279-0c52-488f-809c-66eff626d9ac,transportation.site,premium,812.5,3250,medium,low,14,namecheap,,,13/09/2026 03:39
-47ae3809-43b6-4d3c-97ec-68dc768e8b31,rideshare.trading,available,19.99,,high,low,9,name.com,,,
-ef09427e-22ed-4348-b776-7ce09481a05c,publictransit.yoga,available,45.98,,medium,low,14,namecheap,,,
-7d3762f7-88d6-44e4-9c97-82d567961dc8,publictransit.gmbh,available,47.99,,medium,low,14,name.com,,,
-5e0c7580-e653-4084-a0c5-6f6de420fca9,transports.film,available,89.99,,medium,low,10,name.com,,,
-072bd019-da14-464f-9c90-b5f186760bf2,transports.game,available,349.99,,medium,low,10,name.com,,,
-33e5b4f7-dd13-4500-8ca4-caba2f502a1b,transportation.paris,available,66.98,66.98,medium,low,14,namecheap,,,13/09/2026 03:39
-8c4508e4-934a-4aff-b718-ecad898f1eb7,transportation.contact,available,13.98,16.78,medium,low,14,namecheap,,,13/09/2026 03:39
-ba94b675-086b-42fa-9472-e1725a6a8de2,vehicle.airforce,available,103.99,103.99,high,low,7,namesilo,,,
-075c3e2f-48dd-409e-80e8-d151dd9d7b70,publictransit.memorial,available,64.98,,medium,low,14,namecheap,,,
-31a64529-9782-4bf3-8fed-f71b265af7cd,publictransit.llc,available,19.99,,medium,low,14,name.com,,,
-6d51b28c-2cf6-46fc-be39-8f1ac952ff71,publictransit.tickets,available,399.99,,medium,low,14,name.com,,,
-11a2c4bb-dc90-4966-88a7-cc8db146ee7a,publictransit.cx,available,26.98,,medium,low,14,namecheap,,,
-bd206e52-cc4e-465d-8b3b-de4b97895873,transportation.so,available,68.98,,medium,low,14,namecheap,,,
-edb79a5b-c061-4cf2-9d61-37998d5025aa,publictransit.green,available,11.99,,medium,low,14,name.com,,,
-37b7e75f-17fb-432e-96fc-4e031f9dd317,fleet.group,resell,,,medium,medium,5,Porkbun LLC,09/02/2019 15:01,09/02/2027 15:01,
-8df63238-e98a-46fe-926c-6b74937928e0,transportation.army,available,17.48,48.98,medium,low,14,namecheap,,,13/09/2026 03:39
-826367d8-9c3c-4231-b92f-780bbf5e1af4,publictransit.irish,available,9.99,,medium,low,14,name.com,,,
-db8c9370-72be-4aa8-b0c7-fcc07a8f4edf,transportation.world,resell,,,medium,low,14,"Sav.com, LLC - 30",23/01/2026 15:15,23/01/2027 15:15,13/09/2026 03:39
-e1fed786-d5f3-4922-abe1-76f06c7cf3f7,transportation.global,premium,3120,65,medium,low,14,namecheap,,,13/09/2026 03:39
-9fb1a598-2f4c-49b8-a4b8-309da67b522b,transportation.online,premium,812.5,3250,medium,low,14,namecheap,,,13/09/2026 03:39
-7b32de94-fbb1-49ce-b64b-60798e3f25d5,vehicle.car,available,1999.99,2199,high,low,7,namesilo,,,
-bf2effa7-8e19-4010-b929-69f844172e77,transports.archi,available,24.99,,medium,low,10,name.com,,,
-ad170435-8d2e-402c-96a3-8b82d60bc59e,vehicle.auto,available,1999.99,2199,high,low,7,namesilo,,,
-10f52840-d298-4557-a8ce-d5a404688ac1,vehicle.trade,resell,,,high,low,7,Porkbun,31/07/2019 15:23,31/07/2026 15:23,
-8431d11e-bb87-478b-b6dd-12e5afeae1c1,vehicle.store,premium,312.5,1250,high,low,7,name.com,,,
-67696a76-5deb-41e5-b297-9c73b2b63e1d,transportation.supplies,available,24.99,24.99,medium,low,14,namesilo,,,13/09/2026 03:39
-5c7a4d49-6c48-458f-85a9-cc289752e2a2,transportation.markets,available,5.98,26.98,medium,low,14,namecheap,,,13/09/2026 03:39
-e859a228-9d1c-4789-af7e-63c6bfe33c7c,transports.dating,available,23.99,,medium,low,10,name.com,,,
-ba263fb9-23e6-4015-b356-033efd9ac26a,transports.soy,available,24.99,,medium,low,10,name.com,,,
-a8da7d76-1f55-4342-8c53-791371b6ae95,publictransit.wedding,available,43.98,,medium,low,14,namecheap,,,
-71446f49-308d-4920-962e-95d72b5059b0,vehicle.supply,available,25.99,25.99,high,low,7,namesilo,,,
-3ae2b291-408b-4e11-bd10-a46509c70531,vehicle.voyage,available,9.99,,high,low,7,name.com,,,
-08d5b3dc-8903-4e98-8b17-02bfe5e2372d,transportation.ninja,available,11.98,42.98,medium,low,14,namecheap,,,13/09/2026 03:39
-14edabe9-8b60-4d6d-82db-afa401ed463e,publictransit.church,available,11.99,,medium,low,14,name.com,,,
-2e099566-6298-45c9-a759-51fc23b68018,transportation.cruises,available,54.98,68.98,medium,low,14,namecheap,,,13/09/2026 03:39
-92828018-434b-41d8-8b98-53f12ba8abbe,transports.blackfriday,available,134.98,,medium,low,10,namecheap,,,
-e5c44bf2-33f1-4e7c-98e1-8a7ccc8cdd5a,transportation.ai,resell,,,medium,low,14,"Spaceship, Inc.",15/06/2018 16:05,15/06/2028 16:05,13/09/2026 03:39
-7932ef98-4eab-48bb-a190-8859c959c54b,vehicle.navy,available,41.99,41.99,high,low,7,namesilo,,,
-f7492433-03b0-4bc8-8577-b2a999402caf,vehicle.at,available,,,high,low,7,,,,
-15ecbfb6-8c5b-4533-9829-59c353ffadda,vehicle.travel,available,39.99,,high,low,7,name.com,,,
-d89ca067-82b8-46d4-addb-1610b95ece1d,vehicle.reise,available,27.89,97.99,high,low,7,namesilo,,,
-d63a3337-30d6-4572-abf6-1555abf5c3e0,vehicle.international,available,14.99,,high,low,7,name.com,,,
-cba5c766-ccad-45cf-b96d-40fc202053bc,vehicle.world,resell,,,high,low,7,IONOS SE,05/04/2016 21:51,05/04/2027 21:51,
-0f0f3980-8213-4f43-9a16-41ea77263a90,vehicle.tours,available,9.99,,high,low,7,name.com,,,
-e0cbf70b-d608-4e79-a77d-212b784bf66b,rideshare.hamburg,available,59.99,,high,low,9,name.com,,,
-84db734e-8037-4ce3-a9de-47e2ca2fd4fa,vehicle.viajes,available,37.99,37.99,high,low,7,namesilo,,,
-a8ab999e-422f-4e75-a8e8-30e7ea7ba2ca,vehicle.holiday,available,9.99,,high,low,7,name.com,,,
-c41f3398-e240-442f-ab68-41f30ceba871,vehicle.vacations,available,9.99,,high,low,7,name.com,,,
-058ce676-c88c-461b-9192-e354a1f11b05,vehicle.reisen,available,3.99,20.99,high,low,7,namesilo,,,
-b834d0bf-fe98-40e3-b4a8-b947deadc6fe,transportation.equipment,available,28.99,28.99,medium,low,14,namesilo,,,13/09/2026 03:39
-d4e10d85-8903-4925-9d2b-eb044f35fafe,transportation.parts,premium,118.8,118.8,medium,low,14,namesilo,,,13/09/2026 03:39
-beaacb0b-b24e-40c7-a89f-00481281021b,vehicle.supplies,available,24.99,24.99,high,low,7,namesilo,,,
-bf83541a-cd58-4930-ac18-7382655acf30,transportation.racing,available,11.99,11.99,medium,low,14,namesilo,,,13/09/2026 03:39
-9e6f2d07-83f0-4e5b-ac0f-6d7db7849688,vehicle.services,resell,,,high,low,7,"Sav.com, LLC - 29",04/09/2025 15:15,04/09/2026 15:15,
-a063ecde-d1d9-4aff-a7c7-5b8aea091b76,vehicle.yachts,premium,845,15.73,high,low,7,namecheap,,,
-0cd27996-670b-481c-8848-3eeb0d4d948d,vehicle.boats,premium,845,15.73,high,low,7,namecheap,,,
-77d1b326-6da7-4c69-9390-defef9f9f2d1,vehicle.net,resell,,,high,low,7,Tucows Domains Inc.,03/12/1998 05:00,02/12/2026 05:00,
-19c8263f-4b97-4cb6-a4d6-18163bb80418,vehicle.country,available,2450,,high,low,7,namecheap,,,
-98abd9f7-a480-450e-9878-5f2ac9e5cffd,vehicle.city,resell,,,high,low,7,"Spaceship, Inc.",02/02/2023 15:15,02/02/2027 15:15,
-10a9255a-9168-446b-9760-ce5515d76f83,vehicle.town,available,9.99,,high,low,7,name.com,,,
-3e8bce09-10ae-4957-aa4c-effc6692b2eb,transports.to,available,29.98,,medium,low,10,namecheap,,,
-bdf99a01-b98b-4e01-820a-1fee78e92ffe,vehicle.army,available,19.99,,high,low,7,name.com,,,
-c29df2ee-d502-442f-9c0f-9b9bc8bd39eb,transportation.florist,available,31.98,41.98,medium,low,14,namecheap,,,13/09/2026 03:39
-fd9cbca7-883c-4eb9-90ce-13b8c89b3a2e,transportation.flowers,available,64.99,114.99,medium,low,14,namesilo,,,13/09/2026 03:39
-32a71578-029d-45ba-8166-4fc0d3e3d892,delivery.cab,available,19.99,,high,low,8,name.com,,,
-0a0af4d5-ea0b-4516-ae44-7bd51ef8f720,vehicle.solutions,resell,,,high,low,7,Dynadot Inc,22/10/2020 08:11,22/10/2026 08:11,
-31feaa21-1f20-4e2d-ac69-8401b660d4c2,publictransit.fund,available,15.99,,medium,low,14,name.com,,,
-451762d5-37b7-4342-a7ef-cecf43e62b24,transportation.it,resell,,,medium,low,14,,23/10/2009 15:32,09/11/2026 00:00,
-6d11c315-9948-4da6-a905-da9dbe1d18ad,vehicle.equipment,available,19.99,,high,low,7,name.com,,,
-12e66d87-7c7d-48dd-80eb-f6b8361da26d,vehicle.parts,available,,,high,low,7,,,,
-0dc30fcd-8c73-448a-b8d2-5513b2667092,transports.business,available,3.99,,medium,low,10,name.com,,,
-f0f739ff-151c-4560-938d-73010dbeaf1d,transportation.gg,available,68.98,82.98,medium,low,14,namecheap,,,13/09/2026 03:39
-88029521-fa91-49c0-a274-534e8ec06eef,publictransit.deals,available,5.99,,medium,low,14,name.com,,,
-d1c112e5-90b7-4f48-88e2-fd96dc85e714,transportation.pizza,available,5.98,83.98,medium,low,14,namecheap,,,13/09/2026 03:39
-50286f93-bd65-47e2-80e9-084bdf745563,transportation.moi,available,25.99,25.99,medium,low,14,namesilo,,,13/09/2026 03:39
-cade4e19-f455-45e4-88fc-4adc87118766,transportation.motorcycles,available,1.8,21.98,medium,low,14,namecheap,,,13/09/2026 03:39
-8cccbf16-94ea-45cf-8bee-0e8bce621cd9,vehicle.us,resell,,,high,low,7,"GoDaddy.com, LLC",24/04/2002 14:06,23/04/2028 23:59,
-0b583aa7-a168-4e2e-870e-d53aaa031028,transportation.boats,available,1.8,21.98,medium,low,14,namecheap,,,13/09/2026 03:39
-9c872cd2-9aea-4f36-98ae-a25f8c02bd02,transportation.xyz,premium,1107,1107,medium,low,14,namesilo,,,13/09/2026 03:39
-8a749f5d-750c-491d-a962-bc3306d5fa98,vehicle.company,resell,,,high,low,7,"Name.com, Inc.",04/06/2021 08:20,04/06/2028 08:20,
-743739de-a6d6-4386-9706-769ea405018c,vehicle.business,resell,,,high,low,7,Dynadot Inc,30/06/2023 17:00,30/06/2030 17:00,
-8f24d67f-b850-4486-a6e5-faf0bae1d8eb,transportation.quest,available,1.8,21.98,medium,low,14,namecheap,,,13/09/2026 03:39
-a8afaf6f-a63c-47d8-b101-294ca7562366,vehicle.motorcycles,premium,845,15.73,high,low,7,namecheap,,,
-624af409-eac3-4662-8e13-4adf20fff9fe,vehicle.co,resell,172500,48.99,high,low,7,"GoDaddy.com, LLC",31/08/2010 18:23,30/08/2026 23:59,
-04f35e8f-71c1-4beb-95db-b5e9049cebee,vehicle.racing,premium,130,130,high,low,7,namecheap,,,
-ba68aaef-a63f-4455-9735-6a28ac4c84b1,mobile.shop,premium,12500,,medium,medium,6,name.com,,,
-1b07ae56-2f36-4168-9ded-506c18889a6f,vehicle.holdings,available,64.99,64.99,high,low,7,namesilo,,,
-6f6da37e-0b5a-4eb1-95b4-57084bba6d5b,transportation.food,available,4.98,48.98,medium,low,14,namecheap,,,13/09/2026 03:39
-d677b38e-8f44-493e-9779-bf25f83f007f,vehicle.industries,premium,128.7,128.7,high,low,7,namecheap,,,
-a4b7a917-2ed0-4fbb-be7e-727c22d0882c,vehicle.cruises,available,14.99,,high,low,7,name.com,,,
-88994082-60fb-4ea3-bd82-61e9ea58bf43,vehicle.flowers,available,64.99,114.99,high,low,7,namesilo,,,
-d31f780d-127e-4fce-b7b7-29f820149e3d,vehicle.florist,available,14.99,,high,low,7,name.com,,,
-683cfdec-cc33-4e52-9177-448f594a635c,car.meme,premium,812.5,,high,medium,3,name.com,,,
-1aaf9661-b0ec-4079-ba1d-be5fa1250500,delivery.limo,available,19.99,,high,low,8,name.com,,,
-7863250c-3622-4624-b967-6daf978a4615,vehicle.cars,available,1999.99,2199,high,low,7,namesilo,,,
-7f3d8093-3696-429a-a008-024c7b66fcf7,vehicle.autos,premium,845,15.73,high,low,7,namecheap,,,
-edf7db87-3247-4908-ae06-acaccf58f788,vehicle.dealer,premium,2015,2600,high,low,7,namecheap,,,
-25b76d8e-db7d-41c0-8eae-153d9b4ce0a0,transportation.restaurant,available,11.98,81.98,medium,low,14,namecheap,,,13/09/2026 03:39
-65ce768f-50a7-4892-ae16-360f735324e5,vehicle.gmbh,available,45.99,45.99,high,low,7,namesilo,,,
-8035c39a-6ba6-4a5f-8bf8-81e28681318c,vehicle.ltda,available,34.99,34.99,high,low,7,namesilo,,,
-27259212-a05f-4e4c-8943-20f7fbb914f7,vehicle.limited,available,14.99,,high,low,7,name.com,,,
-f43a6878-6af7-4b72-a659-ede4828f40d2,vehicle.enterprises,available,5.99,,high,low,7,name.com,,,
-380de9bf-07a0-4fe4-b5de-2e44c18fb734,vehicle.srl,available,31.99,31.99,high,low,7,namesilo,,,
-a918338e-a78b-481d-a301-136440cdf237,vehicle.inc,premium,2015,2600,high,low,7,namecheap,,,
-c7da5132-05b6-40ed-a34f-430d6a098ab7,vehicle.llc,premium,325,325,high,low,7,namecheap,,,
-ee2888fa-c953-4e5f-8c0b-f9976103ff28,vehicle.sarl,available,6.99,6.99,high,low,7,namesilo,,,
-bc3efabb-af89-492c-966b-224d894af6bd,transportation.business,premium,118.8,118.8,medium,low,14,namesilo,,,13/09/2026 03:39
-6ab42839-6f3d-45b6-8b8e-f9912ade3cf9,transportation.lifestyle,available,1.8,48.98,medium,low,14,namecheap,,,13/09/2026 03:39
-c9a81057-44e0-4c99-a8e0-adfad7bdd5b4,transportation.life,resell,,,medium,low,14,Xin Net Technology Corporation,04/02/2020 20:34,04/02/2027 20:34,13/09/2026 03:39
-2ee79991-462d-4379-996e-79abe3e2a0b5,transportation.living,available,1.8,48.98,medium,low,14,namecheap,,,13/09/2026 03:39
-b7d1822a-c55c-4900-a534-a91d4710277a,vehicle.bike,available,14.99,,high,low,7,name.com,,,
-fc022e4d-010f-4fcd-9307-056c12de6c1a,vehicle.pizza,available,19.99,,high,low,7,name.com,,,
-9ad75afb-75d6-44f3-bb45-882de0d5ff80,vehicle.homes,premium,845,15.73,high,low,7,namecheap,,,
-e50f7b94-39c6-4a34-a47e-88d609478f12,vehicle.maison,available,19.99,,high,low,7,name.com,,,
-af23f5c2-1fb6-4851-b367-deb30980896d,vehicle.casa,resell,17.98,,high,low,7,Sav.com LLC,29/04/2026 09:28,29/04/2027 09:28,
-df7d47d4-bb30-4a24-ab77-531565980f5f,vehicle.zone,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",19/09/2018 16:16,19/09/2026 16:16,
-421cbf90-d2e6-4f95-be99-3dc8662d9a5c,vehicle.rent,premium,3250,3250,high,low,7,namecheap,,,
-1335b6af-0618-4cbd-bef4-9224e439d1d3,vehicle.mobi,available,6.99,,high,low,7,name.com,,,
-a3904d8d-e914-472f-9008-70fe441dca40,vehicle.properties,available,10.99,,high,low,7,name.com,,,
-0fb841fe-a901-4f79-9690-51b284c92833,vehicle.estate,available,14.99,,high,low,7,name.com,,,
-94f3e843-d741-49a9-b6cb-fc4f7586be25,vehicle.condos,available,58.99,58.99,high,low,7,namesilo,,,
-58e7af30-56bc-483b-91fa-abde509b6f1a,vehicle.villas,available,19.99,,high,low,7,name.com,,,
-6e08f389-e851-4ada-8d09-a506236cb288,vehicle.property,available,,,high,low,7,,,,
-f157a085-019b-4876-93bf-578d469a60b4,vehicle.immobilien,available,14.99,,high,low,7,name.com,,,
-a2b03980-d8d4-4973-86ba-948a72853e01,vehicle.apartments,available,19.99,,high,low,7,name.com,,,
-619e69ef-5a8c-43d3-b654-ee29153eb4a9,vehicle.place,available,22.49,22.49,high,low,7,namesilo,,,
-3456761a-0a72-4a48-a915-518d0b19ffe9,vehicle.realty,available,109.99,299,high,low,7,namesilo,,,
-8b609707-3428-4bac-8e75-489def888502,vehicle.tienda,available,9.99,,high,low,7,name.com,,,
-f7ff3f3a-f5d5-40a9-a1d6-d73232f1cca6,vehicle.boutique,available,6.99,,high,low,7,name.com,,,
-5192e278-02f6-4d4f-a40b-18081b5364d5,vehicle.shopping,available,14.99,,high,low,7,name.com,,,
-14d51411-8d2c-424e-9b6a-167947f97559,vehicle.tech,premium,3125,12500,high,low,7,name.com,,,
-2fc0a3da-2a4b-4e6f-8785-fecba1a211bf,transportation.fit,available,2.98,45.98,medium,low,14,namecheap,,,13/09/2026 03:39
-e8d43a54-4485-471e-8c91-e5d7bf41fc56,transportation.fitness,available,3.48,54.98,medium,low,14,namecheap,,,13/09/2026 03:39
-78cabed6-4ff4-4076-9a7e-8887fbf4c1f8,transportation.diet,available,104.99,114.99,medium,low,14,namesilo,,,13/09/2026 03:39
-14a4482d-82e1-404e-935e-6c057f4f1b3e,transportation.holdings,available,64.99,64.99,medium,low,14,namesilo,,,13/09/2026 03:39
-d9aae032-01da-462c-8124-78a04aa99997,transportation.shopping,available,26.99,26.99,medium,low,14,namesilo,,,13/09/2026 03:39
-5bae6b41-92d4-4d1e-981f-8dd7c1424726,transportation.boutique,available,2.98,41.98,medium,low,14,namecheap,,,13/09/2026 03:39
-8167d0bc-112d-43e0-8f06-6be01de1f70a,transportation.tienda,available,59.99,59.99,medium,low,14,namesilo,,,13/09/2026 03:39
-b563adc2-7749-4da9-b445-370178a4ae9d,transportation.ski,available,27.99,64.99,medium,low,14,namesilo,,,13/09/2026 03:39
-ad1923c7-50e9-44ff-87fb-a01e21c6b380,transportation.surf,resell,,,medium,low,14,"Spaceship, Inc.",26/11/2025 16:30,26/11/2026 16:30,13/09/2026 03:39
-ce5b74a5-8cfc-4b6c-b93a-0455af22b36f,transportation.zip,premium,37.7,37.7,medium,low,14,namecheap,,,13/09/2026 03:39
-ea7c83f8-d2b9-43c5-b5b3-cba6dc85dc32,vehicle.food,premium,650,1300,high,low,7,namecheap,,,
-669053c6-4f0b-4001-a37d-c989130fe962,transportation.industries,premium,118.8,118.8,medium,low,14,namesilo,,,13/09/2026 03:39
-70a0eb25-1a21-4b4c-9823-90315f839b1f,vehicle.it,resell,,,high,low,7,,28/04/2000 00:00,21/10/2026 00:00,
-e163f80e-dca6-4ff8-85fa-2a3ca4362437,transportation.football,available,25.99,25.99,medium,low,14,namesilo,,,13/09/2026 03:39
-667c7d7d-16e3-45ac-81fc-70533c816902,transportation.futbol,available,5.98,21.98,medium,low,14,namecheap,,,13/09/2026 03:39
-24cdd7cc-0563-4f8c-aad0-fa385afe289a,transportation.soccer,available,25.99,25.99,medium,low,14,namesilo,,,13/09/2026 03:39
-2a2ff662-459e-4d3a-9d01-f81065fa58fd,vehicle.rest,premium,58.5,117,high,low,7,namecheap,,,
-5a89eb44-3e1b-4bff-9fae-bf1a1eef082b,vehicle.restaurant,available,29.99,,high,low,7,name.com,,,
-ce83a7c6-c9de-4f14-98d1-8f10946b9303,vehicle.menu,available,27.99,27.99,high,low,7,namesilo,,,
-16823a62-3579-46b1-9285-e49cc1a36575,transportation.dealer,premium,2015,2600,medium,low,14,namecheap,,,13/09/2026 03:39
-441fe0d9-55ce-437e-abf1-23345c13c8f1,transportation.cars,available,1999.99,2199,medium,low,14,namesilo,,,13/09/2026 03:39
-ddd8a98c-6afd-48c6-83c5-a17fd9322528,vehicle.space,premium,812.5,3250,high,low,7,namecheap,,,
-ea7ae7a0-b236-4009-beaa-0778ff5371ce,vehicle.kaufen,available,5.99,26.99,high,low,7,namesilo,,,
-8b65b857-0e49-4d59-a62f-071d57a7a20f,transports.contractors,available,9.99,,medium,low,10,name.com,,,
-20855f21-55f8-4e3b-b421-259f09d05ed9,vehicle.diet,available,104.99,114.99,high,low,7,namesilo,,,
-ef89c225-50f1-4af3-8736-fa0eb1fddd6a,vehicle.fitness,available,9.99,,high,low,7,name.com,,,
-c10bb9c6-302a-478e-a1f3-14348943c09c,transportation.limited,available,36.99,36.99,medium,low,14,namesilo,,,13/09/2026 03:39
-3d32a878-39b1-4768-9539-0d334d502c30,transportation.sarl,available,6.98,8.98,medium,low,14,namecheap,,,13/09/2026 03:39
-368fe175-7eb0-4c2d-a239-b2a52598a723,transportation.ltda,premium,56.64,33.04,medium,low,14,namesilo,,,13/09/2026 03:39
-5328321c-953e-486d-a002-31d55d79b011,transportation.inc,premium,2015,2600,medium,low,14,namecheap,,,13/09/2026 03:39
-8ae5c865-5609-49f1-aeca-331f9e85401d,transportation.ltd,premium,64.35,128.7,medium,low,14,namecheap,,,13/09/2026 03:39
-c08f55eb-9625-472c-aa0e-41ee807e2521,transportation.gmbh,available,45.99,45.99,medium,low,14,namesilo,,,13/09/2026 03:39
-5fed74d1-9c98-4999-8d38-20ff1b142402,transportation.srl,premium,54.28,30.68,medium,low,14,namesilo,,,13/09/2026 03:39
-f7b6d72f-3d60-4854-ba7a-09bd310cbe86,vehicle.surf,available,2.19,32.49,high,low,7,namesilo,,,
-09b35592-c128-4ab9-ab70-7113d45b1565,vehicle.ski,available,39.99,,high,low,7,name.com,,,
-bb493d90-79e4-4acd-86bb-2d526cfe72e0,vehicle.zip,premium,648.7,648.7,high,low,7,namecheap,,,
-4c83d1af-e5fa-4570-a6dd-c36f887d70f8,vehicle.tires,premium,1040,1040,high,low,7,namecheap,,,
-836a1f67-1123-4ad7-b75d-85fa57df7fe5,vehicle.catering,available,38.99,38.99,high,low,7,namesilo,,,
-768297eb-c329-4429-a2ca-dd8ce17e8c64,vehicle.quest,premium,845,15.73,high,low,7,namecheap,,,
-2f55a525-624e-4213-bf96-a0f19cfe2adc,transportation.menu,available,27.99,27.99,medium,low,14,namesilo,,,13/09/2026 03:39
-d4e5517a-ed4b-44c7-b2e6-9c26cbb31647,transportation.rest,available,1.8,41.98,medium,low,14,namecheap,,,13/09/2026 03:39
-50922906-5320-4a3c-a254-361c3bd3495f,vehicle.soccer,available,19.99,,high,low,7,name.com,,,
-0933edb7-3164-4fbc-985c-ef15d8944108,vehicle.football,available,19.99,,high,low,7,name.com,,,
-930d3acf-9bf9-4008-921e-c6e6ca84d604,vehicle.futbol,available,17.99,17.99,high,low,7,namesilo,,,
-fcac9824-02fa-4666-ac71-8c2ef8784f45,transportation.storage,available,509.99,529.99,medium,low,14,namesilo,,,13/09/2026 03:39
-b8591fd7-a1ba-41bb-9cb4-471e0baff802,vehicle.online,premium,1562.5,6250,high,low,7,name.com,,,
-d2188e10-1636-4c1c-9417-3ba2216eba81,vehicle.locker,premium,6500,58.5,high,low,7,namecheap,,,
-42d54159-8507-4e4d-8780-cf83c74b52e0,transportation.kaufen,available,5.99,26.99,medium,low,14,namesilo,,,13/09/2026 03:39
-ce5abac1-dec4-4d0c-ad4a-e0733a1c388e,transportation.dog,available,5.98,86.98,medium,low,14,namecheap,,,13/09/2026 03:39
-abafcd21-abc8-4e5a-940e-a1bd9a4f105a,transportation.horse,available,32.49,32.49,medium,low,14,namesilo,,,13/09/2026 03:39
-27e8bad4-2a75-40c2-831b-88b54a300d46,transportation.pet,premium,1107,1107,medium,low,14,namesilo,,,13/09/2026 03:39
-f2161f0f-e8d1-468f-8b56-1d4572446ba7,transportation.vet,available,41.99,41.99,medium,low,14,namesilo,,,13/09/2026 03:39
-f49a5378-afb6-4546-b42e-9dc043e52f76,vehicle.lifestyle,premium,650,1300,high,low,7,namecheap,,,
-fa910cdd-e9e9-4703-8fb9-a239479cdf1e,vehicle.living,premium,650,1300,high,low,7,namecheap,,,
-f5d9bbbf-6d56-428e-ac33-3a5bc8c9c5d9,transportation.dance,available,10.48,36.98,medium,low,14,namecheap,,,13/09/2026 03:39
-e5e1d841-15aa-49e1-8a45-0ea704a3bb66,transportation.cricket,premium,1107,116,medium,low,14,namesilo,,,13/09/2026 03:39
-8aa311e3-e5ac-4395-8165-b891f521c431,transportation.hockey,available,59.99,59.99,medium,low,14,namesilo,,,13/09/2026 03:39
-229d64d3-6627-48c5-b002-0b58a67b00cc,transportation.rodeo,available,12.99,12.99,medium,low,14,namesilo,,,13/09/2026 03:39
-99a8859c-5488-4838-ade5-faed5562218c,transportation.tennis,available,65.99,65.99,medium,low,14,namesilo,,,13/09/2026 03:39
-f4a4abfc-f112-45e7-bbfa-3f713d8489ab,transports.art,premium,153.75,,medium,low,10,name.com,,,
-d1c5891d-f8ed-4562-9f82-aa9930671cda,transportation.ing,premium,455,455,medium,low,14,namecheap,,,13/09/2026 03:39
-f2751d59-81f0-48cd-80db-ef4cb53cbd73,vehicle.media,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",25/01/2023 17:00,25/01/2027 17:00,
-72c06eab-bf36-4b70-b372-26edbbedd051,vehicle.voto,available,19.99,,high,low,7,name.com,,,
-2f75ffc3-491e-4f79-88ae-49521065b4d2,vehicle.voting,available,1448,,high,low,7,namecheap,,,
-c0174163-28ab-4c2f-8d7e-9ca33038f819,vehicle.vote,available,49.99,,high,low,7,name.com,,,
-c27d0f1f-c860-44ff-b507-eaf556f4679a,vehicle.lease,premium,260,260,high,low,7,namecheap,,,
-e5cb2b70-a35d-4439-af2d-92e87fe18d0c,vehicle.nexus,premium,648.7,648.7,high,low,7,namecheap,,,
-6482eeef-a784-4ea6-9b52-c99b7dbfb34e,vehicle.link,premium,731.25,975,high,low,7,namecheap,,,
-443f4e5f-d34d-4cfb-bba1-dea26ea42855,vehicle.vet,available,41.99,41.99,high,low,7,namesilo,,,
-650979da-c287-403b-9c27-862df8718153,vehicle.pet,available,19.99,,high,low,7,name.com,,,
-e9b8d84d-682c-4873-8423-ccbf21c444cc,vehicle.horse,available,32.49,32.49,high,low,7,namesilo,,,
-779ea51b-7d94-43b7-a3d9-10706ae32d32,vehicle.dog,available,5.99,,high,low,7,name.com,,,
-23a0c7d0-7242-4f5c-8b91-f95ab5f8266c,vehicle.dance,available,17.99,,high,low,7,name.com,,,
-a9c653f8-d681-40bf-8361-121b1e33820c,vehicle.rodeo,available,12.99,12.99,high,low,7,namesilo,,,
-791cb516-2009-41e9-ae8f-9dbd98cfaec2,vehicle.tennis,available,65.99,65.99,high,low,7,namesilo,,,
-4ba25ff6-ae08-4a49-b552-ff45953af275,vehicle.cricket,premium,455,65,high,low,7,namecheap,,,
-9e8268e1-a0fe-45ea-b4fa-cc33a1aeb057,vehicle.hockey,available,14.99,,high,low,7,name.com,,,
-4d7cc35b-1514-4515-bbae-3e8d270f725a,vehicle.ing,premium,845,845,high,low,7,namecheap,,,
-70804aed-d6e3-4e6d-b5ba-a16a2adeebe0,vehicle.events,available,21.99,,high,low,7,name.com,,,
-763b43fd-7974-41ef-ab97-976f619cfb45,vehicle.tickets,available,359.99,389.99,high,low,7,namesilo,,,
-e162cc5c-e2e0-4ea3-9165-dce69583f11d,transportation.catering,premium,78.54,78.54,medium,low,14,namesilo,,,13/09/2026 03:39
-84423de3-6812-4330-bea1-50beb99f01d9,vehicle.blog,premium,650,2600,high,low,7,namecheap,,,
-ad35c4a5-f65f-4a42-b4c3-1e86e5a04828,vehicle.observer,premium,1040,1040,high,low,7,namecheap,,,
-53f99a10-2312-43d8-8760-2170c8da4a78,vehicle.news,resell,,,high,low,7,Dynadot Inc,07/09/2023 19:26,07/09/2028 19:26,
-72e7479f-15aa-4e32-8836-571bb393641b,vehicle.click,resell,,,high,low,7,"NameSilo, LLC",25/11/2014 17:16,25/11/2026 17:16,
-b65b8d0d-b11f-48f5-aa5d-274357427a13,vehicle.training,available,21.99,,high,low,7,name.com,,,
-84856a81-c5e4-4f4e-b727-26aff252ce39,vehicle.film,available,65.99,65.99,high,low,7,namesilo,,,
-4765c8b0-c6c0-4d3b-8392-232309cb80e8,vehicle.mov,premium,648.7,648.7,high,low,7,namecheap,,,
-6b87d334-3ce4-470c-a4a5-ae9d264c0bae,vehicle.movie,available,69.99,,high,low,7,name.com,,,
-36d1f4e1-1ff6-4fa3-848f-8799a2bf8816,transportation.land,available,5.98,54.98,medium,low,14,namecheap,,,13/09/2026 03:39
-9775e36c-7582-4dd6-bad1-f824573a7e9f,vehicle.run,resell,,,high,low,7,"DNSPod, Inc.",16/04/2018 04:06,16/04/2027 04:06,
-00fa5e91-8c83-4995-96ca-958a8a37a7d7,vehicle.coach,available,19.99,,high,low,7,name.com,,,
-7a95e339-35b1-471a-93da-b70a41764a04,vehicle.academy,available,21.99,,high,low,7,name.com,,,
-15538699-8bd8-42a2-b930-333cd7eaf86a,journey.credit,available,11.99,,high,low,7,name.com,,,
-085186a2-7381-4554-889b-77599a2b6fe1,vehicle.fm,available,88.99,88.99,high,low,7,namesilo,,,
-98cf56df-52c3-495b-b782-097ace88b462,vehicle.icu,premium,18.85,75.4,high,low,7,namecheap,,,
-e40df92e-52b5-4ec0-be35-f7c8bf206706,transportation.coach,available,11.98,95.98,medium,low,14,namecheap,,,13/09/2026 03:39
-81ccfb83-4743-4b52-b6c3-2c59c5535674,vehicle.men,premium,455,65,high,low,7,namecheap,,,
-2b8e362b-304c-492f-a331-020820c52975,vehicle.mba,available,19.99,,high,low,7,name.com,,,
-ecddf999-2d5a-4098-9640-4236e5de7fd5,goods.beer,resell,,,high,low,5,"Spaceship, Inc.",11/08/2025 19:02,11/08/2026 19:02,
-80f41245-b003-47aa-9ee7-316c26d4b0e3,vehicle.download,premium,455,65,high,low,7,namecheap,,,
-02e3d7dd-e517-4df1-b1ea-fb3e1e318c6b,movement.me,resell,,,high,low,8,Dynadot Inc,22/02/2024 15:15,22/02/2027 15:15,
-9686ca02-1f57-4b31-8db9-0b8a3b2e0f36,transportation.courses,available,1.98,50.98,medium,low,14,namecheap,,,13/09/2026 03:39
-bcc1ba0f-f186-4045-9ee7-fc28c378444c,vehicle.school,available,9.99,,high,low,7,name.com,,,
-f1045d62-2357-4037-8c0f-41631b6f5fd4,vehicle.institute,available,9.99,,high,low,7,name.com,,,
-99adc29a-f700-4d24-932f-1a2a6df2101f,vehicle.education,available,34.99,34.99,high,low,7,namesilo,,,
-f3b8cb7f-2410-4f8e-a718-cf5bd897d062,vehicle.degree,available,14.99,,high,low,7,name.com,,,
-380a0bc8-687e-41e8-8b23-db4d00f8cd0c,vehicle.study,premium,65,65,high,low,7,namecheap,,,
-8d84f0c8-02a8-4493-aea9-acbc3106d9ad,vehicle.schule,available,19.99,,high,low,7,name.com,,,
-27c01fba-bda4-4ca1-b1b0-6d8d720786ca,vehicle.shiksha,available,19.99,,high,low,7,name.com,,,
-5c386834-3bc5-4715-a01b-cc5e6b5e7dd0,vehicle.rsvp,premium,323.7,323.7,high,low,7,namecheap,,,
-18616599-ad32-493d-a775-e9e762d366d0,vehicle.foo,premium,648.7,648.7,high,low,7,namecheap,,,
-6ff97cb0-409e-4583-81cf-49cb017cd639,transportation.men,resell,,,medium,low,14,Dynadot Inc,08/05/2017 18:35,08/05/2028 18:35,13/09/2026 03:39
-f16ee844-315c-4a6c-b582-5d020b992b08,vehicle.money,available,19.99,,high,low,7,name.com,,,
-a3bcb86a-4677-47f8-afd2-8a6573937755,vehicle.loans,premium,1040,1040,high,low,7,namecheap,,,
-92a235ea-4aa1-496d-9a59-de367c338454,vehicle.loan,premium,13000,130,high,low,7,namecheap,,,
-39c3f139-3278-4cec-aa93-a12b73e858af,vehicle.financial,available,29.99,,high,low,7,name.com,,,
-bfcbeef5-c27d-4d57-8093-e398443accb9,vehicle.cash,resell,,,high,low,7,"GoDaddy.com, LLC",29/05/2019 19:49,29/05/2027 19:49,
-0e0de9da-c688-4078-97b5-391c88854612,transportation.study,premium,53.92,53.92,medium,low,14,namesilo,,,13/09/2026 03:39
-dbd1faee-230d-4da2-b0e9-a2c012b234cf,transportation.degree,available,52.99,52.99,medium,low,14,namesilo,,,13/09/2026 03:39
-266c1b0d-b36e-4228-aee7-31144e13cd9f,transportation.schule,available,28.99,28.99,medium,low,14,namesilo,,,13/09/2026 03:39
-b3b055f4-71f9-41e9-b703-f6a92c098b9a,transportation.shiksha,premium,768,768,medium,low,14,namesilo,,,13/09/2026 03:39
-c7500b5d-be67-44c8-a8af-884fee1c309f,vehicle.host,premium,325,650,high,low,7,namecheap,,,
-48a703f1-e693-4c28-afdf-1c8b2742fb6d,vehicle.hosting,available,309.99,329.99,high,low,7,namesilo,,,
-084af4d1-ed91-4c22-832c-0d6bfab0b03a,vehicle.team,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/12/2018 08:27,08/12/2026 08:27,
-70ca4aac-8121-46b9-8c9d-2438b5c27945,vehicle.republican,available,5.99,,high,low,7,name.com,,,
-4eee87f8-2373-4921-8019-8918f729e913,transports.markets,available,9.99,,medium,low,10,name.com,,,
-c9bf34d3-1131-4a18-a1f3-452883a96c7c,transports.yoga,available,45.98,,medium,low,10,namecheap,,,
-1327a57d-546a-46c6-978a-df5ca6b25055,vehicle.democrat,available,9.99,,high,low,7,name.com,,,
-1cbc1b07-1f99-48b9-afca-841d7f7bd13c,vehicle.direct,resell,,,high,low,7,"GoDaddy.com, LLC",29/11/2024 00:00,29/11/2026 00:00,
-e9dff5c5-0b4b-402c-927a-8b947ecf1461,transportation.finance,available,17.48,82.98,medium,low,14,namecheap,,,13/09/2026 03:39
-cbf70db4-a205-4cf3-8069-df0ce61b16fd,transportation.loans,available,17.48,144.98,medium,low,14,namecheap,,,13/09/2026 03:39
-0008bbc9-e540-40d1-a828-46c7e67f64cb,transportation.cash,available,4.98,50.98,medium,low,14,namecheap,,,13/09/2026 03:39
-a1adde5c-ec6e-4d79-9d32-1d8a1e07295f,transportation.investments,available,6.98,166.98,medium,low,14,namecheap,,,13/09/2026 03:39
-ae076a73-9089-45e1-82c6-71d320c0521e,transportation.financial,available,17.48,66.98,medium,low,14,namecheap,,,13/09/2026 03:39
-7c4d95c9-dc46-4221-a8e3-83a6671ddea9,vehicle.associates,available,21.99,,high,low,7,name.com,,,
-47e2e23f-9400-4e5a-84bb-b2f2d5aa7789,transportation.homes,available,1.8,21.98,medium,low,14,namecheap,,,13/09/2026 03:39
-bfadad28-a3c9-493f-98c8-45c4839ab708,vehicle.careers,available,49.99,,high,low,7,name.com,,,
-4007ff76-4b95-425c-8c17-5338f057baed,transportation.casa,available,1.98,17.98,medium,low,14,namecheap,,,13/09/2026 03:39
-e624c637-1c87-49e3-a828-7f1c10a0d472,transportation.maison,available,57.99,57.99,medium,low,14,namesilo,,,13/09/2026 03:39
-0a1a9e91-2e01-4162-add0-eb98cda955d4,vehicle.me,resell,7738.35,27.99,high,low,7,Edomains LLC,05/12/2024 15:15,05/12/2026 15:15,
-aa0d2992-d710-45ec-bc98-d54684e8756a,vehicle.soy,premium,53.3,53.3,high,low,7,namecheap,,,
-16493c4f-6ac9-4a0a-b949-2176e60d5cdd,vehicle.you,premium,65,65,high,low,7,namecheap,,,
-52d9e475-ddb4-49fe-9258-9fa7fbbb4277,vehicle.one,premium,650,650,high,low,7,namecheap,,,
-24d2fd9b-cbb6-48a1-b45d-ad2bd2881063,vehicle.name,available,9.98,,high,low,7,namecheap,,,
-25a4f6ca-3422-4d8c-97a6-f841775b296f,transportation.rentals,available,6.98,56.98,medium,low,14,namecheap,,,13/09/2026 03:39
-adb729f5-4038-4e1a-a085-c15e3f6e6fb1,vehicle.hiv,available,184.99,,high,low,7,name.com,,,
-2d75ab71-d3f9-4346-bc83-3ad7eaeeb9b8,vehicle.domains,available,19.99,,high,low,7,name.com,,,
-abfac369-0940-411e-944f-bb649cde74e0,transportation.realty,available,99.8,456.98,medium,low,14,namecheap,,,13/09/2026 03:39
-4aec6d60-7b20-4e96-b44e-1f4a9286ad4c,transportation.properties,available,15.98,43.98,medium,low,14,namecheap,,,13/09/2026 03:39
-7289308c-e08e-4ddc-95e4-5431d9f1cf63,transportation.immo,available,34.99,34.99,medium,low,14,namesilo,,,13/09/2026 03:39
-b67499c4-4961-432a-8fe1-179e3150f34f,transportation.villas,available,59.99,59.99,medium,low,14,namesilo,,,13/09/2026 03:39
-733be0d0-2bc1-44e2-9055-915e91a63229,transportation.estate,available,6.98,52.98,medium,low,14,namecheap,,,13/09/2026 03:39
-b0c06dcd-0334-405e-932c-43ced3bcdb9b,transportation.condos,available,58.99,58.99,medium,low,14,namesilo,,,13/09/2026 03:39
-af75dda7-5b90-458b-95bc-843629fb8cf7,transportation.immobilien,available,37.99,37.99,medium,low,14,namesilo,,,13/09/2026 03:39
-ab6e2539-c686-4564-a492-297e2008ad4f,transportation.place,available,22.49,22.49,medium,low,14,namesilo,,,13/09/2026 03:39
-2107b862-28ff-4074-9d54-df4b89d150f4,transportation.apartments,available,57.99,57.99,medium,low,14,namesilo,,,13/09/2026 03:39
-fa0fd1a5-bbe2-44c3-8bc6-94187994e910,vehicle.gift,available,14.99,14.99,high,low,7,namesilo,,,
-621fb983-83d9-46ee-bb6d-076923b6cdfd,vehicle.gives,available,5.99,,high,low,7,name.com,,,
-638b52a8-7c8c-4375-892a-b77dd38691a1,vehicle.gifts,available,9.99,,high,low,7,name.com,,,
-c5874a70-adf8-4777-b0ac-57620aa8d0e7,vehicle.giving,available,5.99,,high,low,7,name.com,,,
-1d4f548e-87af-47b0-aad7-5f62daa36b15,vehicle.tools,available,17.99,,high,low,7,name.com,,,
-4e21d783-6dbc-4605-87ae-91cc2896998d,transportation.tires,available,5.99,78.99,medium,low,14,namesilo,,,13/09/2026 03:39
-44c1d748-b59f-4852-a074-2cc1d5ade174,vehicle.solar,premium,85.8,85.8,high,low,7,namecheap,,,
-a333c7d1-3336-4312-a852-bd8367dcb589,vehicle.wtf,resell,,,high,low,7,"Sav.com, LLC - 47",14/11/2025 15:15,14/11/2026 15:15,
-12152378-b9a6-46f0-bfa2-aaa9420914c3,vehicle.reviews,premium,520,520,high,low,7,namecheap,,,
-01d554a4-4724-4099-9ba0-fde38f81ecb4,vehicle.fail,available,14.99,,high,low,7,name.com,,,
-96f0de96-ccd7-4d11-804b-b7a04b7d7cf7,vehicle.exposed,available,22.49,22.49,high,low,7,namesilo,,,
-01ac9753-e656-40b9-ab5d-2efc6820ded0,vehicle.sucks,available,218.99,218.99,high,low,7,namesilo,,,
-6464dd45-4014-4e4f-be91-ee1546c0c358,vehicle.review,premium,13000,130,high,low,7,namecheap,,,
-0790d2be-f7bd-4315-8965-5742defc1add,vehicle.gripe,available,6.99,6.99,high,low,7,namesilo,,,
-f10c44d1-91e3-4d4c-9dba-c29e63d793e0,vehicle.gg,resell,,,high,low,7,"humbly, LLC (http://park.io)",,,
-f3fafb19-66c1-400f-a8b1-549b06c55e9a,vehicle.yoga,available,32.49,32.49,high,low,7,namesilo,,,
-3b27a9df-2d1d-48af-b90f-0e86fc09a420,vehicle.im,available,,,high,low,7,,,,
-004d1761-b070-4c88-8e4d-9b704d8af19f,transports.ngo,available,16.99,,medium,low,10,name.com,,,
-de5fa4d8-4b1a-49ac-9c2a-dfb1ea78c817,vehicle.nyc,available,31.99,31.99,high,low,7,namesilo,,,
-b608b9ec-b7fc-4f3a-a039-3b1c4fb64001,transportation.movie,available,40.98,446.98,medium,low,14,namecheap,,,13/09/2026 03:39
-f65372a6-39b7-4790-a5ca-c6ca1541f9cc,transportation.film,premium,116,116,medium,low,14,namesilo,,,13/09/2026 03:39
-f08de332-0098-4cfc-8997-257df6ff4c51,transportation.mov,premium,37.7,37.7,medium,low,14,namecheap,,,13/09/2026 03:39
-b84e62d9-3d72-4532-ba6d-2fc2e0ae818d,vehicle.blackfriday,available,114.99,114.99,high,low,7,namesilo,,,
-9d8e9710-8ae5-49c2-8325-c5c443d8ad35,vehicle.promo,premium,1300,1300,high,low,7,namecheap,,,
-d0c11edd-955c-436f-9504-9e31be1dcbae,vehicle.cheap,available,9.99,,high,low,7,name.com,,,
-f6596191-30a9-4e54-8941-0359963f15bb,vehicle.deals,available,,,high,low,7,,,,
-1980fe00-2596-4f6a-a37a-0344b8d32783,vehicle.sale,premium,520,520,high,low,7,namecheap,,,
-29ababe4-32f2-4e69-b810-488f7d434ce9,vehicle.deal,premium,130,130,high,low,7,namecheap,,,
-46525b1f-27d1-4d84-b0bd-b006a8c68da5,vehicle.qpon,premium,3450,23.54,high,low,7,namesilo,,,
-be3c494a-fcb8-4f47-bdd3-dbf1ac343ef9,vehicle.gratis,available,23.99,23.99,high,low,7,namesilo,,,
-0afd56fa-ea7e-4db0-9d44-b69577e83a87,vehicle.forsale,available,,,high,low,7,,,,
-74df6a65-10d7-4bac-8c13-26b1edac2384,vehicle.discount,premium,128.7,128.7,high,low,7,namecheap,,,
-5eec6049-d065-4f7e-9b32-187984a2ddf0,vehicle.free,premium,130,130,high,low,7,namecheap,,,
-dad182f6-28ad-472f-a075-d39afddf2ad5,vehicle.band,available,29.99,,high,low,7,name.com,,,
-d8c9a383-de9a-4b4f-a688-144802e9b090,vehicle.market,premium,520,520,high,low,7,namecheap,,,
-6cada12a-a069-46f9-98ef-4065d5ac60e1,vehicle.computer,available,29.99,,high,low,7,name.com,,,
-52564cb5-7f2b-4848-9e07-ef966088b0fe,vehicle.day,premium,323.7,323.7,high,low,7,namecheap,,,
-41a3b16a-f7bc-42f9-9ebf-8bf0543ffd52,vehicle.fans,available,,,high,low,7,,,,
-5189090f-d091-49a6-9283-b855d5b23d1a,vehicle.archi,available,24.99,,high,low,7,name.com,,,
-db9ae9f5-f439-4174-9afb-7ce090050e68,vehicle.meme,premium,845,845,high,low,7,namecheap,,,
-4497435d-d807-42cd-9303-e6ed806a979f,vehicle.golf,available,7.99,,high,low,7,name.com,,,
-bc8b6ff5-d062-4990-9449-304dff9b52b0,vehicle.biz,resell,,,high,low,7,PDR Ltd. d/b/a PublicDomainRegistry.com,27/03/2002 05:53,26/03/2027 23:59,
-f5914486-4168-4295-ab34-9c2d736a62eb,vehicle.kitchen,available,14.99,,high,low,7,name.com,,,
-277b714b-4ff7-4002-b099-59f14c5d256e,transportation.domains,available,42.99,42.99,medium,low,14,namesilo,,,13/09/2026 03:39
-550e9cc2-0e0b-44c0-812a-6a21279b8e01,vehicle.ngo,available,16.99,,high,low,7,name.com,,,
-b4254831-3a86-4e73-becf-68974090d832,vehicle.ong,available,16.99,,high,low,7,name.com,,,
-dfc7aa03-4aed-45d5-9e75-07f1c0da3002,vehicle.furniture,available,39.99,,high,low,7,name.com,,,
-a780f298-a8a3-42ae-ac97-bb92e5f32e6b,vehicle.group,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",02/02/2018 19:42,02/02/2027 19:42,
-770e2bc2-908a-4311-8407-4113c7fdb950,vehicle.moe,available,13.99,13.99,high,low,7,namesilo,,,
-3a899618-66bc-42ad-aca9-374f7cb6bc95,vehicle.rocks,resell,,,high,low,7,"Sav.com, LLC - 34",06/06/2025 15:15,06/06/2026 15:15,
-ce2e49b0-515c-44f2-9507-ec728b11dcaa,vehicle.gallery,available,28.99,28.99,high,low,7,namesilo,,,
-33d46f95-6776-48b2-8d2a-24b05857aa5f,vehicle.cards,available,3.99,,high,low,7,name.com,,,
-2c68af9e-fac5-466a-bdf8-86960f366cbd,vehicle.work,premium,1300,10.4,high,low,7,namecheap,,,
-84e6e02b-8a7f-4fd7-bc5a-a307d6493cd3,vehicle.capital,available,9.99,,high,low,7,name.com,,,
-bf3aa8bd-338a-4845-a316-c95dc5701069,vehicle.fund,resell,,,high,low,7,"DNSPod, Inc.",16/02/2024 15:16,16/02/2027 15:16,
-a82b94d4-d955-4288-a6e8-590db927186e,vehicle.tax,premium,1040,1040,high,low,7,namecheap,,,
-2c307eed-4c46-4d53-84f2-9a9e047895a7,vehicle.haus,available,19.99,,high,low,7,name.com,,,
-712263cb-67f9-4a8c-9435-4e7b493ee89d,lorry.xyz,resell,,,high,low,5,West263 International Limited,08/05/2020 21:03,08/05/2027 23:59,
-cdc07863-bada-471b-98e6-f0ac257e90b2,vehicle.coffee,available,23.99,,high,low,7,name.com,,,
-b04e07de-6d6f-49a4-b523-40772b3cf213,vehicle.ceo,available,10.19,109.99,high,low,7,namesilo,,,
-cac43cd8-b75b-4c4d-a7ef-9e4803ce3d49,vehicle.sydney,available,54.98,,high,low,7,namecheap,,,
-d88fa225-dcdf-47e8-9000-79a2754f66c4,vehicle.engineer,premium,1300,1300,high,low,7,namecheap,,,
-bf1c167f-af82-4c72-b742-64248c815f6d,vehicle.buzz,premium,130,65,high,low,7,namecheap,,,
-3afdf75a-b28f-4e80-8499-e196a1419bf2,vehicle.website,premium,650,1300,high,low,7,namecheap,,,
-ea3b9cdf-dd61-4699-a7fa-97e6b604f81f,vehicle.onl,resell,,,high,low,7,Dynadot Inc,22/07/2025 14:20,22/07/2026 14:20,
-e43bfb4f-b985-4cc0-b8f5-f95770818bee,vehicle.plumbing,available,14.99,,high,low,7,name.com,,,
-2f128226-9ccb-49d3-ae11-717cbeb045a0,vehicle.bot,premium,3250,3250,high,low,7,namecheap,,,
-096ac57d-4a30-42e9-b5a8-bfdbe1441f81,vehicle.uno,premium,1300,1300,high,low,7,namecheap,,,
-ce847804-fb3b-4a66-ae51-af6671429774,vehicle.contact,available,14.99,14.99,high,low,7,namesilo,,,
-e5573602-1748-4128-8bab-46e246054739,vehicle.help,premium,65,130,high,low,7,namecheap,,,
-590a1659-e634-4fbf-8b3f-1fddcb81c02f,vehicle.blue,available,23.99,,high,low,7,name.com,,,
-4f2641ac-15dc-46fa-a2c9-11fa0ae9c2ef,vehicle.partners,available,13.99,,high,low,7,name.com,,,
-11b44085-98a1-44e5-acda-dbf231494bca,vehicle.beer,available,2.19,32.49,high,low,7,namesilo,,,
-c5e9a98b-a7d5-4472-96bf-4ea880fc65b9,vehicle.moda,available,19.99,,high,low,7,name.com,,,
-09dac265-d37d-4f23-9aca-1b2dc8ee99ae,vehicle.fashion,available,32.49,32.49,high,low,7,namesilo,,,
-b836ed0f-2955-4911-b761-96cc11595c9d,vehicle.shoes,available,39.99,,high,low,7,name.com,,,
-b905f146-3892-4372-9087-1e5ee77a818e,vehicle.productions,available,14.99,,high,low,7,name.com,,,
-08bdf09c-35e0-495b-9559-ba1c7ee17a82,transportation.education,available,34.99,34.99,medium,low,14,namesilo,,,
-1f3db5f0-bd82-4fe1-9a13-aa1bd952ebde,transports.car,available,2400,,medium,low,10,namecheap,,,
-d7147ad5-b79d-4efb-82a8-4613acf94dca,vehicle.cleaning,premium,128.7,128.7,high,low,7,namecheap,,,
-05be0824-a069-4e08-848e-6edb418cb28e,vehicle.cfd,premium,83.85,335.4,high,low,7,namecheap,,,
-d31f6dd0-d7a8-4e74-adac-a7c6a8ee9fc8,vehicle.talk,premium,78,78,high,low,7,namecheap,,,
-f957fbda-ca3d-4d17-903e-37a8114b4cd2,vehicle.chat,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2019 18:16,05/03/2027 18:16,
-e823086f-ae66-44ff-afc9-2fcabf87a390,publictransit.build,available,39.98,,medium,low,14,namecheap,,,
-52503b30-1f9e-4aac-af26-e2a997b42e66,vehicle.fun,premium,812.5,3250,high,low,7,namecheap,,,
-07b35109-b1ad-4fed-bc49-57f0b1c42408,vehicle.cool,available,9.99,,high,low,7,name.com,,,
-24baa8ad-e3c5-4977-8692-7d36c51aa666,vehicle.monster,premium,650,15.73,high,low,7,namecheap,,,
-65214c4d-cfbf-48f7-a7a3-64c520d79ccf,vehicle.boo,premium,323.7,323.7,high,low,7,namecheap,,,
-be70ee47-6737-4051-8366-180772d1ed9b,transportation.foo,premium,37.7,37.7,medium,low,14,namecheap,,,13/09/2026 03:39
-1b11af6c-1c20-4c53-8acf-770ea869963f,vehicle.construction,available,15.99,,high,low,7,name.com,,,
-532e4285-ac35-44a7-8d3b-3b8695b8f874,vehicle.contractors,available,9.99,,high,low,7,name.com,,,
-abecaf18-12a7-4f9d-89b7-a0e4ff1669cb,vehicle.build,premium,325,325,high,low,7,namecheap,,,
-7a01702b-ff4f-4267-a4f0-cbe0dd4e3a60,vehicle.builders,available,7.99,,high,low,7,name.com,,,
-78c9ad65-423d-46fa-a6ff-e93df3a6cad5,vehicle.foundation,available,5.99,,high,low,7,name.com,,,
-078c5bce-eac7-47bd-8f6b-6f2de1d91699,vehicle.charity,available,5.99,,high,low,7,name.com,,,
-cc878c80-b579-4f54-9286-b9e7faca6a7d,vehicle.stream,premium,650,84.5,high,low,7,namecheap,,,
-fe7ff735-33a5-4dd6-96dc-3daf4a4bda77,vehicle.tube,available,23.99,23.99,high,low,7,namesilo,,,
-5363d4da-6ee4-4d9e-b5ed-d745ef02fd3e,vehicle.video,premium,128.7,128.7,high,low,7,namecheap,,,
-26b9bca1-6858-4e97-b899-d5865275a563,transports.today,available,2.99,,medium,low,10,name.com,,,
-9a2cd124-481f-4c80-85f2-15414b2a4fe6,vehicle.guitars,available,104.99,114.99,high,low,7,namesilo,,,
-6dab04cc-4ef0-43d4-91df-d5bf1d244530,vehicle.music,available,52.48,,high,low,7,namecheap,,,
-893c2f80-c25f-409a-869e-55a5a3edd329,vehicle.audio,available,104.99,114.99,high,low,7,namesilo,,,
-8944a883-ca04-4015-baf8-8c8a60789501,vehicle.hiphop,available,23.99,23.99,high,low,7,namesilo,,,
-b72036f8-ecde-4433-8453-7e71f0d396a1,vehicle.organic,available,19.99,,high,low,7,name.com,,,
-ebeb3ce7-987c-4d20-86bf-e4187cf6728c,vehicle.green,premium,128.7,128.7,high,low,7,namecheap,,,
-47fa42ae-4d22-4682-ae91-9d3c0453fc2f,publictransit.school,available,9.99,,medium,low,14,name.com,,,
-83c43f08-888e-49fc-b00a-3a887e3328d4,transportation.loan,available,9.98,,medium,low,14,namecheap,,,
-e8bb095d-e71c-4d44-bd34-f91e163cb61c,vehicle.pics,available,40.98,,high,low,7,namecheap,,,
-eb0fd3e0-1cd2-497d-b199-afb03bf24303,vehicle.photography,available,9.99,,high,low,7,name.com,,,
-c2465718-4d11-45a9-8cb8-6ddf2cd13019,vehicle.pictures,available,9.99,,high,low,7,name.com,,,
-5b85163d-0410-4fc2-9100-c27919ff8f07,vehicle.photo,premium,130,130,high,low,7,namecheap,,,
-1d8aba1d-cc0c-4036-a774-0293c303b1f7,transportation.voto,available,11.98,86.98,medium,low,14,namecheap,,,13/09/2026 03:39
-6dca12a7-75b0-4b61-a152-e13a445c351a,transportation.voting,available,1398,1448,medium,low,14,namecheap,,,13/09/2026 03:39
-178f4c9c-3827-43dd-b11d-a5f456e2e0c0,vehicle.singles,available,12.99,,high,low,7,name.com,,,
-c8811e7d-fb5e-46d0-b2eb-73dfe84bec07,vehicle.phd,premium,427.7,427.7,high,low,7,namecheap,,,
-a5aa5cc3-1e02-4d87-a78e-8d71c2cb55b9,vehicle.rip,available,7.99,,high,low,7,name.com,,,
-8fbd7e1b-e8c5-4552-a50a-fb8fc9941bff,vehicle.my,premium,973.51,1390.71,high,low,7,namecheap,,,
-46e95fe1-9322-477f-880f-132d579b3bcb,vehicle.toys,available,19.99,,high,low,7,name.com,,,
-c7a8966f-f192-4d1e-a06a-60aea5b87408,vehicle.cv,premium,1301.53,9.75,high,low,7,namecheap,,,
-24b0b797-ba05-46a1-b751-4a6a24d891a3,vehicle.porn,available,154.98,,high,low,7,namecheap,,,
-5539875f-2432-4979-82d5-e72e19f0b304,vehicle.fishing,available,32.49,32.49,high,low,7,namesilo,,,
-3bb2868d-5ec2-483b-8b51-927ae5dc7dd8,vehicle.la,resell,,,high,low,7,.LA Premium Names Program,10/11/2015 00:27,10/11/2026 23:59,
-578e336c-080d-49ef-a460-46fea7320e57,vehicle.protection,available,1999.99,2049.99,high,low,7,namesilo,,,
-91c5d04e-e2f1-4edd-8e58-330ff5e94e5f,vehicle.spot,premium,130,130,high,low,7,namecheap,,,
-b43b3deb-164c-4841-86bc-aee0c57a9bc6,vehicle.today,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",11/10/2019 12:26,11/10/2026 12:26,
-202790a6-4353-44ef-abd4-65eafcac6bca,vehicle.dentist,available,65.99,65.99,high,low,7,namesilo,,,
-6d7a0015-e525-42d7-9c7d-1240536f187b,vehicle.pub,available,39.99,39.99,high,low,7,namesilo,,,
-2d9c79ea-7e5a-4fe6-baf7-81395f7f57f4,vehicle.bz,available,25,,high,low,7,name.com,,,
-4bbdbfd2-f0b9-4918-8752-dac958e896f9,vehicle.science,premium,6500,130,high,low,7,namecheap,,,
-6cf979fe-49f9-446f-b15e-2a217e2cccf9,vehicle.best,premium,91,91,high,low,7,namecheap,,,
-6f343933-53d6-42ca-a315-0276c7a9fa47,vehicle.poker,available,14.99,,high,low,7,name.com,,,
-54078ec0-c5f7-4a21-9973-f0903ea494f1,vehicle.date,premium,390,65,high,low,7,namecheap,,,
-fff283d4-feef-4f20-9796-5c885f249d82,vehicle.rich,available,94.99,1999,high,low,7,namesilo,,,
-2b17c403-c330-49d8-b67d-d7671051e945,vehicle.pw,available,,,high,low,7,,,,
-eec8b360-5c52-4fed-9574-481ca02ac961,vehicle.dental,available,59.98,,high,low,7,namecheap,,,
-a28c23e1-cae0-4736-afc4-972d413ce886,vehicle.plus,premium,260,260,high,low,7,namecheap,,,
-31c94095-2e8c-4f3d-96a4-b1fd24848e80,vehicle.forum,premium,39,130,high,low,7,namecheap,,,
-1892904b-02aa-471e-a914-c8be08191ccc,vehicle.mom,premium,845,845,high,low,7,namecheap,,,
-233affb6-79c4-4a58-b7d4-c6bca140a946,vehicle.clothing,available,19.99,,high,low,7,name.com,,,
-1d41c6cd-2093-4207-ad95-da9e0151625a,vehicle.hair,available,1.65,15.75,high,low,7,namesilo,,,
-e2421767-86d6-4692-aa55-b2555dcfbbd2,vehicle.party,available,,,high,low,7,,,,
-055a432b-d3db-4e8c-8aee-c531c8a8f786,vehicle.black,premium,85.8,85.8,high,low,7,namecheap,,,
-dd386926-fabb-413c-befa-dda810952cfd,vehicle.health,available,19.99,,high,low,7,name.com,,,
-a5ad0234-527a-41fc-8f17-8ffe7650293e,vehicle.design,premium,325,325,high,low,7,namecheap,,,
-3f0e421b-7953-457d-9d45-dadd4274f5f0,vehicle.fyi,premium,19.5,19.5,high,low,7,namecheap,,,
-391a5336-bfc5-42f4-ad6e-e289aefb7e0e,vehicle.irish,available,9.99,,high,low,7,name.com,,,
-accc536e-3059-43f0-9b11-29bbc884ac23,vehicle.theater,available,19.99,,high,low,7,name.com,,,
-f353d37a-0f87-4b8b-9e4b-e674380dfe89,vehicle.cooking,available,32.49,32.49,high,low,7,namesilo,,,
-8d5b268a-e78e-442a-9c7c-117f346ee5d2,vehicle.surgery,available,54.99,54.99,high,low,7,namesilo,,,
-863eb2dd-d037-4016-92aa-8690e074e5a7,vehicle.bar,premium,10527.84,,high,low,7,name.com,,,
-f92dadc5-b975-4fd3-97df-8e9b47f382e8,vehicle.legal,available,9.99,,high,low,7,name.com,,,
-9e6b1de7-eda4-4eec-9795-ea48e8f6621d,vehicle.hot,premium,130,130,high,low,7,namecheap,,,
-d987e4fe-da1e-405d-b865-0b1f6f001e72,vehicle.family,premium,260,260,high,low,7,namecheap,,,
-e0bc06cb-784e-4f9f-b58f-6adb5d87c5f4,vehicle.codes,premium,128.7,128.7,high,low,7,namecheap,,,
-a4b8bb35-925d-42f6-a5e8-98c11786c352,vehicle.creditcard,available,9.99,,high,low,7,name.com,,,
-763864f5-0532-4fe4-98bd-0a1164e35bdb,vehicle.insure,premium,260,260,high,low,7,namecheap,,,
-068dec97-97ca-4179-921b-e8e0a5f06f68,vehicle.ag,available,89,,high,low,7,name.com,,,
-f64005cb-bb40-476a-9238-73a9e07d0f4c,vehicle.salon,available,14.99,,high,low,7,name.com,,,
-c5d58de9-fe37-4e48-b276-87a000c99247,vehicle.vana,available,2498,,high,low,7,namecheap,,,
-893b3140-5e16-4c05-9ab6-751248e5c0e6,vehicle.top,resell,,,high,low,7,厦门市中资源网络服务有限公司,05/02/2017 06:49,05/02/2032 06:49,
-fe78261a-f4f0-47a4-b0ce-9d22c1ef8946,vehicle.ac,available,34.99,47.99,high,low,7,namesilo,,,
-503445b6-ac95-40d1-877a-6cae8ad33c74,vehicle.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-afbf37d4-83aa-4290-ac6a-62f61b09ad24,vehicle.accountant,premium,455,65,high,low,7,namecheap,,,
-45eebf6d-f7c2-4669-8df1-73c6922164c4,vehicle.claims,resell,,,high,low,7,"Go China Domains, LLC",03/09/2014 16:00,03/09/2026 16:00,
-f65b1760-ad39-459c-a5a4-342faa1639f9,vehicle.accountants,available,43.99,,high,low,7,name.com,,,
-3ceb0736-ee6a-42b3-9974-ac6757c86742,vehicle.diamonds,available,54.99,54.99,high,low,7,namesilo,,,
-fb9ac72a-f029-4e77-8bf9-892d7ad5f072,vehicle.casino,available,12.79,159.99,high,low,7,namesilo,,,
-f82c4dec-10b9-4bbb-ad03-863fa30fae78,vehicle.attorney,premium,3250,3250,high,low,7,namecheap,,,
-62da2636-a441-4446-b568-7bf5116708fc,vehicle.diy,premium,650,1300,high,low,7,namecheap,,,
-34129794-f83c-4ee7-b8bc-72e4ef7b6d2c,vehicle.cc,resell,,,high,low,7,Dynadot Inc,29/12/2004 23:24,29/12/2026 23:24,
-a7cf5801-0ffb-4bde-a956-71d2d581f9e4,vehicle.to,resell,,,high,low,7,NAMECHEAP,25/09/2024 04:32,01/08/2026 00:00,
-e2dbf5ae-0300-4740-8a92-c8fd7746bd0b,vehicle.jetzt,available,9.99,,high,low,7,name.com,,,
-3dba6764-d1e8-4046-a7c1-315f92820c5f,vehicle.boston,available,,,high,low,7,,,,
-3a6aaf95-d35c-49b8-84e2-e012c486c4e7,vehicle.luxe,premium,500,,high,low,7,name.com,,,
-a9b0d8dd-c57e-421b-a794-3aa84abacdb0,vehicle.sexy,available,2749.99,2749.99,high,low,7,namesilo,,,
-eea1a543-a519-4742-9f7c-6e4c63c001e9,vehicle.mx,resell,,,high,low,7,GoDaddy.com,13/10/2013 00:00,13/10/2026 00:00,
-7c89ce0e-9860-46cc-ba22-2b7fb35f69ba,vehicle.rehab,available,14.99,,high,low,7,name.com,,,
-8982c444-5857-413c-b468-087a202ed7e2,vehicle.church,available,11.99,,high,low,7,name.com,,,
-173b38e3-1017-493c-a0e0-a52da39a4da0,vehicle.bingo,available,14.99,,high,low,7,name.com,,,
-0299e019-b5fe-420b-9dba-4a8ac80f1ac3,vehicle.kim,available,14.99,,high,low,7,name.com,,,
-16f7608b-33fe-417d-b6ed-b3b8319fa8f2,vehicle.camp,available,11.99,,high,low,7,name.com,,,
-740631a4-7574-4df4-8d57-c938396dcbee,vehicle.hospital,available,57.99,57.99,high,low,7,namesilo,,,
-39de55f2-2425-4ce9-b56f-b4f3d36c64f5,vehicle.marketing,available,9.99,,high,low,7,name.com,,,
-585a7854-35ca-4679-9dc4-9c45bffb8741,vehicle.info,resell,40250,35.99,high,low,7,"GoDaddy.com, LLC",13/07/2002 19:37,13/07/2026 19:37,
-57f88518-4216-4b60-a176-b7abf8abd3fa,vehicle.sbs,premium,71.83,287.3,high,low,7,namecheap,,,
-9445153f-f3cf-4d5e-a146-c04f05e10cb0,vehicle.webcam,available,11.99,11.99,high,low,7,namesilo,,,
-52af9141-9ebb-49e2-a1c4-daa36639fd21,vehicle.lawyer,premium,3250,3250,high,low,7,namecheap,,,
-88f7164c-f51c-4d85-a3ca-e516384cbfd6,vehicle.vodka,available,32.49,32.49,high,low,7,namesilo,,,
-1f8ef49a-4be7-44f5-b93d-0b7478243853,vehicle.fish,available,19.99,,high,low,7,name.com,,,
-0e0cbd65-f9ec-4b14-8409-0606d9f6d1d8,vehicle.ca,resell,,,high,low,7,BareMetal.com inc,08/11/2000 20:27,01/12/2026 05:00,
-22d3678e-6e0c-4432-9803-9f3506249c29,vehicle.game,premium,1690,1690,high,low,7,namecheap,,,
-2b8404de-6452-43da-b940-5725bfe10c3c,vehicle.christmas,available,34.99,34.99,high,low,7,namesilo,,,
-fdb81ce3-e1da-48bd-b533-3a35c123cf9f,vehicle.pink,available,14.99,,high,low,7,name.com,,,
-02aa42da-da43-4557-8f46-592d969cdc5e,vehicle.juegos,available,478.98,,high,low,7,namecheap,,,
-f27da65f-769b-4f4a-bba0-74b81bde9edc,vehicle.healthcare,available,88.99,88.99,high,low,7,namesilo,,,
-a373a10a-9931-47c2-85ea-5ff4bf9b14b6,vehicle.jewelry,available,19.99,,high,low,7,name.com,,,
-67d9ce67-8c91-474c-865b-da3686df8f6e,vehicle.lgbt,available,19.99,,high,low,7,name.com,,,
-baca9935-bc46-4e14-9630-d390403395c0,vehicle.gay,available,38.99,38.99,high,low,7,namesilo,,,
-7b5623cd-4fca-4a5d-ad43-5015108b4a95,vehicle.cam,resell,,,high,low,7,Namecheap,02/09/2020 12:20,02/09/2026 23:59,
-2a8bc3df-e77d-4e9b-97e4-7da8dc66ad0b,vehicle.skin,available,1.65,15.75,high,low,7,namesilo,,,
-6deb52a3-24d8-406f-9e9f-c54a2e58fe95,vehicle.art,premium,39000,91,high,low,7,namecheap,,,
-dfa97b32-9f1f-4a55-bc5a-e8cfdcfd61b0,vehicle.sh,available,39.99,47.99,high,low,7,namesilo,,,
-4b24d197-d9cf-4c95-ab8d-8600a6db8a59,vehicle.adult,available,166.98,,high,low,7,namecheap,,,
-d5370b33-f9e6-4b70-b56b-3fc9a1c6e05e,vehicle.glass,premium,85.8,85.8,high,low,7,namecheap,,,
-36a76f7f-0670-4ad8-8ba9-ea2b7137e3de,vehicle.faith,available,11.99,11.99,high,low,7,namesilo,,,
-33c4beab-24d4-4910-b79d-78c5ba9e6fa4,vehicle.theatre,available,509.99,529.99,high,low,7,namesilo,,,
-9a4830ae-a99b-4da2-a8c6-7e1c24fc191f,vehicle.ooo,available,24.99,24.99,high,low,7,namesilo,,,
-012b54f2-a24b-4716-b4a4-d47ab5408a09,vehicle.dad,premium,323.7,323.7,high,low,7,namecheap,,,
-b46f85a8-8f39-4def-940f-1e213c9eeb94,vehicle.luxury,available,49.99,,high,low,7,name.com,,,
-a783d099-da8c-42a7-b144-daebf888a5fd,vehicle.college,premium,260,260,high,low,7,namecheap,,,
-964f5069-484b-4720-8158-26089f64863e,vehicle.berlin,available,89.98,,high,low,7,namecheap,,,
-27e7d026-61a9-476e-8eab-951359b678fe,vehicle.now,resell,,,high,low,7,Dynadot Inc,12/07/2025 00:24,12/07/2027 00:24,
-53a2e560-b948-4091-b3ce-fe476dfb4c95,vehicle.esq,premium,427.7,427.7,high,low,7,namecheap,,,
-4007098f-8496-4d52-af67-0357706f78cc,vehicle.mortgage,available,14.99,,high,low,7,name.com,,,
-4c6bc0be-8438-4f74-b2f2-1aa6d3c1c18f,vehicle.memorial,available,52.99,52.99,high,low,7,namesilo,,,
-a1b5ec8b-bb3e-40c0-bd90-0b6a3a8aca83,vehicle.lat,available,1.99,,high,low,7,name.com,,,
-6b4535aa-0a09-41b6-af43-33bc3effab55,vehicle.recipes,available,11.99,,high,low,7,name.com,,,
-b65edeed-0979-4d90-8500-65271bb914ab,vehicle.garden,premium,520,31.2,high,low,7,namecheap,,,
-043f7a06-98f9-424a-9f12-219de042378c,vehicle.wine,available,9.99,,high,low,7,name.com,,,
-c9d1e05f-c966-4083-a0e6-d40c87225876,vehicle.love,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., LTD",01/11/2025 07:11,01/11/2026 07:11,
-15aac24d-8fcd-48a9-872a-79b98d7752f1,vehicle.makeup,available,1.65,15.75,high,low,7,namesilo,,,
-9c5c047b-9e5c-41cb-b66f-e450891adf6d,vehicle.melbourne,available,53.98,,high,low,7,namecheap,,,
-448aea3f-fe80-45b7-a51d-d09e994c561d,vehicle.clinic,available,19.99,,high,low,7,name.com,,,
-4d17ecd6-b687-4a71-af22-e65cc05838e8,vehicle.actor,available,19.99,,high,low,7,name.com,,,
-c9668d07-624c-43a2-bde6-2d68367bde55,vehicle.vegas,available,12.99,43.99,high,low,7,namesilo,,,
-7c2074f3-bc9f-48d2-9b5d-28f62754f3db,vehicle.london,premium,138.59,34.65,high,low,7,namecheap,,,
-d2e8f9fc-e8b0-4607-a6b5-6f122542e16e,vehicle.prof,premium,427.7,427.7,high,low,7,namecheap,,,
-e946ffb4-1183-4486-a64d-524a89198a5a,vehicle.tattoo,available,34.99,34.99,high,low,7,namesilo,,,
-78346382-c607-4bd7-bc8b-766ad6d808fb,vehicle.farm,available,13.99,,high,low,7,name.com,,,
-e8a12bc0-7dce-416d-bf0a-cd38f0f05fcf,vehicle.miami,premium,260,19.5,high,low,7,namecheap,,,
-31567b97-8cc7-417d-b2dd-9e8ae802f0f4,vehicle.dating,available,23.99,,high,low,7,name.com,,,
-0957dc55-1d6d-4533-91c4-4e2c4f041059,vehicle.osaka,available,39.99,,high,low,7,name.com,,,
-a42bef30-3dbd-4dd3-a355-050c70e2767f,vehicle.kids,premium,390,23.4,high,low,7,namecheap,,,
-a728d2a6-ad4c-4941-8885-693880eac1b4,vehicle.community,available,14.99,,high,low,7,name.com,,,
-ab59724b-badd-4037-a3a3-e37504fe9a77,vehicle.beauty,resell,,,high,low,7,"Spaceship, Inc.",03/08/2025 17:15,03/08/2026 23:59,
-080def14-1c1e-493d-ae8d-070820dd6ab2,vehicle.win,premium,455,65,high,low,7,namecheap,,,
-61b2e5bd-0a5c-44ca-9127-f688ac8217af,vehicle.doctor,available,14.99,,high,low,7,name.com,,,
-1c90d3f9-f750-499a-8f84-15d3937af80e,vehicle.credit,premium,260,260,high,low,7,namecheap,,,
-f49999d2-5cf3-4865-bf08-8f1ef4e88bb4,vehicle.security,available,1999.99,2049.99,high,low,7,namesilo,,,
-2250b911-388a-4e23-ad09-70a83f254ef9,transportation.nexus,premium,37.7,37.7,medium,low,14,namecheap,,,13/09/2026 03:39
-be2d1b18-b8af-469c-9086-661e006a352a,transportation.property,available,,,low,low,14,,,,
-3d78a8fe-822a-42ac-908f-01c201b8df7a,transportation.events,available,10.48,57.98,medium,low,14,namecheap,,,13/09/2026 03:39
-a6adefb0-135c-49b8-9f3c-3eaebf7aa59b,transports.college,available,29.99,,medium,low,10,name.com,,,
-526f64d1-aaee-4b41-847c-608e18d5d411,transportation.tickets,available,359.99,488.88,medium,low,14,namesilo,,,13/09/2026 03:39
-8ac4ea80-5bf6-4818-ac1d-9283c62a447f,publictransit.cam,available,22.98,,medium,low,14,namecheap,,,
-6e3c4b78-c41b-4eff-a958-855ee1a93f8e,transportation.news,premium,64.35,128.7,medium,low,14,namecheap,,,13/09/2026 03:39
-288e7ad9-eb86-4c25-a5b0-1a3c0da36e93,transportation.observer,premium,11.8,11.8,medium,low,14,namesilo,,,13/09/2026 03:39
-6902fd1a-3159-4030-8df5-05dca4c2b717,transportation.press,premium,325,650,medium,low,14,namecheap,,,13/09/2026 03:39
-ee25f0a5-17da-4e48-aa7b-64ab889e71eb,transportation.blog,premium,640,2660,medium,low,14,namesilo,,,13/09/2026 03:39
-105bae4a-4ce0-49e9-a89a-d736941489b7,ship.taxi,available,,,high,low,4,,,,
-eafc0b04-8f63-4c99-b460-870ff624cd4e,transportation.cyou,premium,68.43,147.2,medium,low,14,namesilo,,,13/09/2026 03:39
-e51784ff-c8bd-4846-b745-8919eb3441d3,goods.moi,available,39.99,,high,low,5,name.com,,,
-d675f0ca-6700-4c59-853d-dda2876aec28,transportation.mba,available,11.98,49.98,medium,low,14,namecheap,,,13/09/2026 03:39
-7a1fc2b0-06ea-4fec-b72e-ecafb6336e06,publictransit.help,available,1.99,,medium,low,14,name.com,,,
-f9521852-3c74-482e-b0f2-87fe4f45daee,publictransit.now,available,49.98,,medium,low,14,namecheap,,,
-f46b954f-becc-4c2a-b369-40805b40e876,transportation.rsvp,premium,76.7,76.7,medium,low,14,namecheap,,,13/09/2026 03:39
-7b0f1937-7190-492a-9324-b3e69aa3c989,transportation.lease,available,56.99,56.99,medium,low,14,namesilo,,,13/09/2026 03:39
-bb667187-c6f3-40d3-b520-71a617bd8291,transportation.energy,available,5.98,155.98,medium,low,14,namecheap,,,13/09/2026 03:39
-05b64e4e-d7f7-4eef-8259-00aaa76be29b,transportation.link,premium,448,448,medium,low,14,namesilo,,,13/09/2026 03:39
-8e2dddb5-3e55-4f3e-af9a-b694103b15ad,transports.party,available,9.98,,medium,low,10,namecheap,,,
-5cb02310-89db-46c9-9788-9b9b06aa5def,transportation.name,available,8.98,9.98,medium,low,14,namecheap,,,13/09/2026 03:39
-aa8ba570-87bb-4a4c-b8a3-82a3f7167642,transportation.one,resell,,,medium,low,14,Dynadot Inc,27/02/2026 00:04,27/02/2027 00:04,13/09/2026 03:39
-eee3d366-eaef-411d-941a-0fce4956c9f1,transportation.you,premium,53.92,53.92,medium,low,14,namesilo,,,13/09/2026 03:39
-59689752-d523-49d0-bddb-dd83de32b8a0,transportation.soy,premium,53.3,53.3,medium,low,14,namecheap,,,13/09/2026 03:39
-1154cc8d-4754-49c5-9f1f-5efe0b8e93c9,ship.limo,available,19.99,,high,low,4,name.com,,,
-8eb9b01a-a391-4c8c-aea7-62fac0062222,transportation.hiv,available,195.99,195.99,medium,low,14,namesilo,,,13/09/2026 03:39
-ed28eeeb-b086-410a-a957-41856cb12ef2,transportation.fm,available,69.98,118.98,medium,low,14,namecheap,,,13/09/2026 03:39
-e6ae8af3-b658-4ac1-82cd-3041e4653234,transit.co,resell,,,medium,high,7,"GoDaddy.com, LLC",21/07/2010 21:32,20/07/2026 23:59,
-95e1f62c-05f7-4014-a08b-ccb37686c38c,carrying.broker,available,19.99,,high,low,8,name.com,,,
-98aea173-7d91-4193-a909-f3bdaccdacad,transports.homes,available,1.99,,medium,low,10,name.com,,,
-804a93f7-5371-4362-91b7-1184f45b46a8,transports.theatre,available,620,,medium,low,10,namecheap,,,
-d85a00a4-eaff-4c19-ad84-87b034416db9,transportation.wtf,available,2.98,49.48,medium,low,14,namecheap,,,13/09/2026 03:39
-86bd1ec6-3736-46d2-b3e4-c026f5029877,transportation.review,premium,116,29.5,medium,low,14,namesilo,,,13/09/2026 03:39
-69feb63d-f2c3-49a8-91a5-305d8bd9cd64,transportation.gripe,available,6.98,8.98,medium,low,14,namecheap,,,13/09/2026 03:39
-54a8f952-b521-4515-a9ed-5b343d9fd9bc,transportation.exposed,available,22.49,22.49,medium,low,14,namesilo,,,13/09/2026 03:39
-2e319cbb-1a85-4821-8e21-19ee52b5d0c3,transportation.fail,available,38.99,38.99,medium,low,14,namesilo,,,13/09/2026 03:39
-2f2011af-22b8-4a3c-8e8c-1fdcbc0af794,transportation.sucks,available,218.99,218.99,medium,low,14,namesilo,,,13/09/2026 03:39
-0910c001-47a4-49ac-a44e-325ee0bafc61,transports.new,available,549.99,,medium,low,10,name.com,,,
-55f240e7-0eb6-4480-8acf-79cf87ee9b27,transportation.consulting,premium,130,260,medium,low,14,namecheap,,,13/09/2026 03:39
-149a1e5e-b833-4eed-99dd-469aa417d602,delivery.flights,premium,520,520,high,low,8,namecheap,,,
-54491a19-7c9f-4bb0-a532-017564e3107f,railways.express,available,16.99,,medium,low,8,name.com,,,
-ac3735a7-c0d2-4deb-9db8-219410675f81,transportation.hosting,available,309.99,429.99,medium,low,14,namesilo,,,13/09/2026 03:39
-cc941c91-7b93-492f-9fae-3eef87c23a36,transportation.host,premium,325,650,medium,low,14,namecheap,,,13/09/2026 03:39
-8e829135-5b04-486c-a5b3-9e0f5f91015d,publictransit.camera,available,21.99,,medium,low,14,name.com,,,
-613d5d6e-53a6-4da4-ba3d-8cffafa58d8b,transportation.republican,available,5.98,43.98,medium,low,14,namecheap,,,13/09/2026 03:39
-e04e055d-4cda-47b0-ac32-68468e77f326,publictransit.fitness,available,9.99,,medium,low,14,name.com,,,
-82519955-0e69-495c-af0a-f4a4438cd230,transports.spot,available,31.98,,medium,low,10,namecheap,,,
-ae2d3df0-907b-4303-9e58-accc1afb6427,transportation.democrat,available,5.98,41.48,medium,low,14,namecheap,,,13/09/2026 03:39
-6a72908e-2c6b-48ad-8f2c-5868160e624a,publictransit.ag,available,89,,medium,low,14,name.com,,,
-6c18b6fa-3bfe-457f-b3ec-a28f8c863c28,transportation.associates,available,12.98,49.98,medium,low,14,namecheap,,,13/09/2026 03:39
-bbe2cadd-dbf9-4743-9ecb-7daeff2980b7,rideshare.moi,available,25.99,25.99,high,low,9,namesilo,,,
-7ebc28f1-4597-4ddd-bced-d66ac0673032,transportation.click,available,1.99,,low,low,14,name.com,,,
-fb53ec69-e718-4711-a7ca-a88428e2004c,rail.delivery,available,8.99,,high,low,4,name.com,,,
-ecc08363-018b-4768-a15c-4c9e0727b2b6,transportation.repair,available,5.98,47.48,medium,low,14,namecheap,,,13/09/2026 03:39
-b7a6622c-ddeb-4a1e-af06-e46868d0961f,carrying.moi,available,25.99,25.99,high,low,8,namesilo,,,
-99153af2-12b4-4c9c-8698-2437806773c5,transportation.plumbing,available,72.99,72.99,medium,low,14,namesilo,,,13/09/2026 03:39
-91a58310-f74a-4b35-9c6d-c6295abf66e3,transports.lawyer,available,66.98,,medium,low,10,namecheap,,,
-2d729393-03e7-4bfd-961e-2a6676d29d27,transportation.auction,available,36.99,36.99,medium,low,14,namesilo,,,13/09/2026 03:39
-eef870b7-f1bb-48ae-8709-c3af5c6979bd,transportation.bid,premium,3250,130,medium,low,14,namecheap,,,13/09/2026 03:39
-2ae4949e-acec-4d54-8ae0-bdf68ccc10a6,transportation.support,available,4.98,37.98,medium,low,14,namecheap,,,13/09/2026 03:39
-7a7ac036-66e6-4cb2-ab32-f1ffebe5c1b3,distribution.moi,available,25.99,25.99,medium,low,12,namesilo,,,14/09/2026 02:25
-b04db3fa-ca7a-445b-8555-a606f7142e0f,publictransit.hair,available,1.99,,medium,low,14,name.com,,,
-bb013c05-2b98-4d62-b2a7-e7913558bfe1,transportation.giving,available,7.48,35.98,medium,low,14,namecheap,,,13/09/2026 03:39
-3681c292-bf00-4203-946c-aa98eaf6e1b4,transportation.gifts,available,36.99,36.99,medium,low,14,namesilo,,,13/09/2026 03:39
-44291dee-9605-4745-be4f-e35003aca5bd,transportation.gift,available,14.99,14.99,medium,low,14,namesilo,,,13/09/2026 03:39
-60eecaf4-1d3c-4cf7-8b06-7d0e5506b02a,transportation.gives,available,7.48,37.98,medium,low,14,namecheap,,,13/09/2026 03:39
-2af24b00-1628-4f5d-8a7c-3f75c02d421d,transportation.tools,available,8.48,47.48,medium,low,14,namecheap,,,13/09/2026 03:39
-77997cf3-1290-459c-a0bb-a7073e8314cc,transit.site,available,,,medium,high,7,,,,
