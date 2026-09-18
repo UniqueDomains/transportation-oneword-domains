@@ -1,10 +1,10 @@
-# One-Word Transportation Domains Across 506 TLDs (58,594)
+# One-Word Transportation Domains Across 506 TLDs (59,468)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-58%2C594%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-59%2C468%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 90,797 one-word transportation domain names across 506 TLDs, from .com to niche extensions like .express and .tours. Median ask is $760. Updated daily with fresh pricing and TLD coverage for evaluating brandable, transportation-themed names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **58,594 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **59,468 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 58,594 domains · **Median ask:** $614.66 · **High-demand under $2,500:** 179
+**Public extract:** 1,000 rows · **Live catalog:** 59,468 domains · **Median ask:** $605.58 · **High-demand under $2,500:** 179
 
 **Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
@@ -80,10 +80,10 @@ print(df.head())
 | goods.trading     | premium   | $500       | —             | high           | low    | 5      | name.com                                                  |
 | rail.ryukyu       | available | $22.98     | —             | high           | low    | 4      | namecheap                                                 |
 | goods.health      | resell    | —          | —             | high           | low    | 5      | Spaceship, Inc.                                           |
-| ships.click       | premium   | $87.50     | —             | medium         | low    | 5      | name.com                                                  |
+| moving.shop       | premium   | $6,250     | —             | high           | low    | 6      | name.com                                                  |
 | trip.engineering  | available | $10.48     | $85.98        | medium         | low    | 4      | namecheap                                                 |
-| ships.org         | resell    | —          | —             | medium         | low    | 5      | GoDaddy.com, LLC                                          |
-| ships.faith       | premium   | $125       | —             | medium         | low    | 5      | name.com                                                  |
+| flying.social     | resell    | —          | —             | high           | low    | 6      | Sav.com, LLC - 47                                         |
+| supply.cheap      | premium   | $512       | $512          | medium         | low    | 6      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 58,594 live domains                        |
+| 1,000-row public sample | 59,468 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 179 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
