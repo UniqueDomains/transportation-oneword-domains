@@ -1,10 +1,10 @@
-# One-Word Transportation Domains Across 506 TLDs (74,933)
+# One-Word Transportation Domains Across 506 TLDs (77,095)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-74%2C933%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-77%2C095%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 90,797 one-word transportation domain names across 506 TLDs, from .com to niche extensions like .express and .tours. Median ask is $760. Updated daily with fresh pricing and TLD coverage for evaluating brandable, transportation-themed names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **74,933 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **77,095 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 74,933 domains · **Median ask:** $431.86 · **High-demand under $2,500:** 261
+**Public extract:** 1,000 rows · **Live catalog:** 77,095 domains · **Median ask:** $426.70 · **High-demand under $2,500:** 322
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 74,933 live domains                        |
+| 1,000-row public sample | 77,095 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 261 high-demand names under $2,500         |
+| Basic exported fields   | 322 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

@@ -300,7 +300,7 @@ d1c5891d-f8ed-4562-9f82-aa9930671cda,transportation.ing,premium,455,455,high,low
 47e2e23f-9400-4e5a-84bb-b2f2d5aa7789,transportation.homes,available,1.8,21.98,high,low,14,namecheap,,,19/09/2026 03:16
 32dc055a-5c8b-49de-a628-111d2f50b8a8,transport.gives,available,14.99,23.99,high,low,9,namesilo,,,23/09/2026 02:49
 43e941c2-250d-42ce-805c-d4378e8efb37,transportation.shop,premium,3450,3450,high,low,14,namesilo,,,19/09/2026 03:16
-77997cf3-1290-459c-a0bb-a7073e8314cc,transit.site,available,,,high,high,7,,,,
+77997cf3-1290-459c-a0bb-a7073e8314cc,transit.site,premium,325,1300,high,high,7,namecheap,,,27/09/2026 06:07
 c724d84e-b67f-4b0e-b94c-a4ca3d69d5f9,transportation.barcelona,available,38.98,38.98,high,low,14,namecheap,,,19/09/2026 03:16
 e797f584-8f66-478e-b466-1c8a7d3db284,transport.maison,available,57.99,57.99,high,low,9,namesilo,,,23/09/2026 02:49
 0e0de9da-c688-4078-97b5-391c88854612,transportation.study,premium,53.92,53.92,high,low,14,namesilo,,,19/09/2026 03:16
@@ -325,7 +325,7 @@ c9159cdb-96f5-42cc-88eb-5d1d47e87295,transport.forsale,premium,118.8,118.8,high,
 b608b9ec-b7fc-4f3a-a039-3b1c4fb64001,transportation.movie,available,47.99,349.99,high,low,14,namesilo,,,19/09/2026 03:16
 f5a61d12-1074-4f51-a800-95a8f01599cb,transport.ryukyu,available,17.98,22.98,high,low,9,namecheap,,,23/09/2026 02:49
 d87ec73c-1d4b-493f-8da5-731bb95241d5,transport.cc,resell,,,high,low,9,"GoDaddy.com, LLC",13/01/2013 06:24,13/01/2027 06:24,26/09/2026 09:44
-be4e58d0-4108-4af9-a3ef-349a2e993be7,transit.online,available,,,high,high,7,,,,
+be4e58d0-4108-4af9-a3ef-349a2e993be7,transit.online,premium,3450,3450,high,high,7,namesilo,,,27/09/2026 05:56
 20727fb5-39d2-4461-aaac-a66e9a5ae5d6,transportation.bio,available,9.99,69.99,high,low,14,namesilo,,,19/09/2026 03:16
 55f240e7-0eb6-4480-8acf-79cf87ee9b27,transportation.consulting,premium,242,242,high,low,14,namesilo,,,19/09/2026 03:16
 874506dd-e0f5-44b2-b677-4e867a183e7d,transport.racing,premium,116,116,high,low,9,namesilo,,,23/09/2026 02:49
@@ -942,7 +942,7 @@ c0840bcb-8e76-446b-94e4-9c54b06884f2,travel.academy,resell,,,high,medium,6,"Sav.
 04b7be65-41a6-4f5e-bec3-fc22594df396,shipping.living,premium,455,650,high,low,8,namecheap,,,24/09/2026 02:37
 0933edb7-3164-4fbc-985c-ef15d8944108,vehicle.football,available,19.99,,high,low,7,name.com,,,
 cba6b800-b721-494b-a2f6-235795c67f17,freight.hockey,available,62.98,72.98,high,low,7,namecheap,,,23/09/2026 08:23
-062fa79e-434a-4328-9402-92e817c096af,travel.forex,resell,,,high,medium,6,Porkbun LLC,20/09/2022 12:07,20/09/2027 12:07,26/09/2026 09:44
+062fa79e-434a-4328-9402-92e817c096af,travel.forex,resell,,,high,medium,6,Porkbun LLC,20/09/2022 12:07,20/09/2027 12:07,27/09/2026 06:33
 779ea51b-7d94-43b7-a3d9-10706ae32d32,vehicle.dog,available,5.99,,high,low,7,name.com,,,
 e116475c-4797-4865-85cf-e4671d0cd803,logistics.vacations,available,38.99,38.99,high,low,9,namesilo,,,25/09/2026 14:40
 d677b38e-8f44-493e-9779-bf25f83f007f,vehicle.industries,premium,128.7,128.7,high,low,7,namecheap,,,
