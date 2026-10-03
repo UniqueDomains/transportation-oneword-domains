@@ -86,7 +86,6 @@ afcfc0ae-3565-4fd3-a9ae-95adbc79d367,transport.claims,available,10.55,51.95,high
 52a93301-e4ef-430c-9c9c-90fa6ad74bc1,transport.catering,available,30.2,30.2,high,low,9,cloudflare,,,02/10/2026 11:57
 6d8a70fb-2287-45f6-8f0a-63e3c58386c4,transport.berlin,premium,396.5,396.5,high,low,9,namecheap,,,02/10/2026 11:57
 36c39fb4-92d0-47e9-9526-37690370cce4,transport.vodka,available,32.49,32.49,high,low,9,namesilo,,,02/10/2026 11:57
-f3ca6072-e40d-45a2-95f2-ff9e1101d677,transport.homes,resell,,,high,low,9,"Spaceship, Inc.",16/11/2025 00:14,16/11/2026 23:59,02/10/2026 11:57
 2040f8e4-b7e9-4932-a62e-95ed2c6e3e2c,transport.design,premium,258.95,258.95,high,low,9,spaceship,,,02/10/2026 11:57
 a36c2763-6138-467b-a7c5-09edccd729a1,transport.florist,available,32.99,32.99,high,low,9,namesilo,,,02/10/2026 11:57
 8601535f-409f-4ef7-94e0-ccf46de9b2b1,transport.biz,resell,,,high,low,9,"GoDaddy.com, LLC",27/03/2002 02:57,26/03/2027 23:59,02/10/2026 11:57
@@ -999,3 +998,4 @@ c4905ca7-26b8-4486-bf2b-d342180aca41,shipping.barcelona,available,25.04,25.04,hi
 4769d405-4356-4de8-a7c0-8e68e43dc547,travel.uno,premium,6900,6900,high,medium,6,namesilo,,,24/09/2026 22:30
 cdd8fd8f-8a56-41f4-911f-72ac125ae3bc,delivery.boston,premium,3450,640,high,low,8,namesilo,,,29/09/2026 04:21
 7a9e3147-7431-4f1d-83a6-773b84fb0689,travel.supplies,premium,854,854,high,medium,6,namesilo,,,24/09/2026 22:30
+d150f6dd-baa4-4a19-b572-14995d2f0c4e,delivery.zip,premium,257.92,257.92,high,low,8,spaceship,,,29/09/2026 04:21
