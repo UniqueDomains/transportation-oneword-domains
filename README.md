@@ -1,10 +1,10 @@
-# One-Word Transportation Domains Across 506 TLDs (124,604)
+# One-Word Transportation Domains Across 506 TLDs (125,494)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-124%2C604%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-125%2C494%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 90,797 one-word transportation domain names across 506 TLDs, from .com to niche extensions like .express and .tours. Median ask is $760. Updated daily with fresh pricing and TLD coverage for evaluating brandable, transportation-themed names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **124,604 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **125,494 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 124,604 domains · **Median ask:** $273.84 · **High-demand under $2,500:** 500
+**Public extract:** 1,000 rows · **Live catalog:** 125,494 domains · **Median ask:** $272.73 · **High-demand under $2,500:** 500
 
-**Last updated:** 2026-10-14
+**Last updated:** 2026-10-16
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| logistics.domains  | available | $34.36    | $34.36        | high           | low    | 9      | spaceship                                    |
-| logistics.red      | resell    | —         | —             | high           | low    | 9      | Squarespace Domains II LLC                   |
-| rail.delivery      | available | $48.20    | $48.20        | high           | low    | 4      | cloudflare                                   |
-| transportation.now | resell    | $130      | $130          | high           | low    | 14     | Spaceship, Inc.                              |
-| ship.cruises       | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap                                    |
-| cargo.car          | available | $1,863.20 | $2,064.20     | high           | low    | 5      | spaceship                                    |
-| ship.cloud         | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.                               |
-| cargo.racing       | premium   | $116      | $116          | high           | low    | 5      | namesilo                                     |
-| cargo.vacations    | available | $31.25    | $31.25        | high           | low    | 5      | spaceship                                    |
-| travel.black       | resell    | —         | —             | high           | medium | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| travel.builders    | premium   | $102.67   | $102.67       | high           | medium | 6      | spaceship                                    |
-| cargo.vet          | available | $33.32    | $33.32        | high           | low    | 5      | spaceship                                    |
-| freight.cash       | resell    | —         | —             | high           | low    | 7      | DNSPod, Inc.                                 |
-| travel.clothing    | premium   | $512      | $512          | high           | medium | 6      | namesilo                                     |
-| travel.flowers     | available | $64.99    | $114.99       | high           | medium | 6      | namesilo                                     |
-| freight.city       | resell    | —         | —             | high           | low    | 7      | DNSPod, Inc.                                 |
-| travel.creditcard  | premium   | $854      | $854          | high           | medium | 6      | namesilo                                     |
-| travel.theatre     | available | $509.99   | $529.99       | high           | medium | 6      | namesilo                                     |
-| freight.co         | resell    | —         | —             | high           | low    | 7      | Hello Internet Corp.                         |
-| travel.dance       | premium   | $102.67   | $102.67       | high           | medium | 6      | spaceship                                    |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| cargo.immobilien    | available | $39.98    | $43.98        | high           | low    | 5      | namecheap                                                 |
+| cargo.international | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
+| cargo.store         | premium   | $3,450    | $3,450        | high           | low    | 5      | namesilo                                                  |
+| travel.car          | available | $1,999.99 | $2,199        | high           | medium | 6      | namesilo                                                  |
+| travel.app          | resell    | —         | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| travel.boo          | premium   | $1,298.70 | $1,298.70     | high           | medium | 6      | namecheap                                                 |
+| travel.cars         | available | $2,140.22 | $2,140.22     | high           | medium | 6      | dynadot                                                   |
+| travel.support      | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                               |
+| travel.energy       | premium   | $828.20   | $828.20       | high           | medium | 6      | spaceship                                                 |
+| travel.porn         | available | $53.72    | $101.87       | high           | medium | 6      | dynadot                                                   |
+| freight.agency      | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC                                             |
+| travel.enterprises  | premium   | $414.20   | $414.20       | high           | medium | 6      | spaceship                                                 |
+| freight.actor       | available | $16       | $35.39        | high           | low    | 7      | unstoppable                                               |
+| freight.bio         | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| travel.locker       | premium   | $5,175.20 | $31.25        | high           | medium | 6      | spaceship                                                 |
+| freight.autos       | available | $1.80     | $21.98        | high           | low    | 7      | namecheap                                                 |
+| freight.city        | resell    | —         | —             | high           | low    | 7      | DNSPod, Inc.                                              |
+| travel.london       | premium   | $7,318    | $31.28        | high           | medium | 6      | namesilo                                                  |
+| freight.band        | available | $20       | $39.98        | high           | low    | 7      | unstoppable                                               |
+| freight.cloud       | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 124,604 live domains                                 |
+| 1,000-row public sample | 125,494 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 500 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Transportation Domains Across 506 TLDs*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Transportation Domains Across 506 TLDs*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
