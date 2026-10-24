@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cargo.boutique     | available | $25.20    | $25.20        | high           | low    | 5      | cloudflare       |
-| delivery.org       | resell    | $69,000   | $21.99        | high           | medium | 8      | GoDaddy.com, LLC |
-| travel.accountants | premium   | $1,040    | $1,040        | high           | high   | 6      | namecheap        |
-| train.delivery     | available | $2.27     | $49.88        | high           | low    | 5      | spaceship        |
-| delivery.paris     | resell    | $51.98    | —             | high           | medium | 8      | GoDaddy.com LLC  |
-| travel.catering    | premium   | $512      | $512          | high           | high   | 6      | namesilo         |
-| travel.airforce    | available | $83       | $83           | high           | high   | 6      | spaceship        |
-| delivery.xxx       | resell    | $154.98   | —             | high           | medium | 8      | GoDaddy.com, LLC |
-| travel.condos      | premium   | $828.20   | $828.20       | high           | high   | 6      | spaceship        |
-| travel.audio       | available | $107.22   | $107.22       | high           | high   | 6      | dynadot          |
+| travel.auto        | available | $1,863.20 | $2,064.20     | high           | high   | 6      | spaceship        |
+| vehicle.co         | resell    | $172,500  | $48.99        | high           | medium | 7      | GoDaddy.com, LLC |
+| travel.beauty      | premium   | $2,070.20 | $2,070.20     | high           | high   | 6      | spaceship        |
+| travel.desi        | available | $19.98    | $22.98        | high           | medium | 6      | namecheap        |
+| delivery.beauty    | resell    | $672.80   | —             | high           | medium | 8      | Spaceship, Inc.  |
+| travel.careers     | premium   | $520      | $520          | high           | high   | 6      | namecheap        |
+| travel.guitars     | available | $107.22   | $107.22       | high           | high   | 6      | dynadot          |
 | transportation.ceo | resell    | $19.99    | —             | high           | low    | 14     | GoDaddy.com, LLC |
-| travel.estate      | premium   | $414.20   | $414.20       | high           | high   | 6      | spaceship        |
-| travel.blackfriday | available | $103.70   | $103.70       | high           | high   | 6      | spaceship        |
+| travel.ceo         | premium   | $2,070.20 | $2,070.20     | high           | high   | 6      | spaceship        |
+| travel.juegos      | available | $368.98   | $478.98       | high           | high   | 6      | namecheap        |
 | transportation.now | resell    | $130      | $130          | high           | low    | 14     | Spaceship, Inc.  |
-| travel.immo        | premium   | $207.20   | $207.20       | high           | high   | 6      | spaceship        |
-| freight.adult      | available | $52.01    | $98.35        | high           | low    | 7      | porkbun          |
-| cargo.de           | resell    | —         | —             | high           | low    | 5      | —                |
-| travel.llc         | premium   | $2,600    | $2,600        | high           | high   | 6      | namecheap        |
-| freight.archi      | available | $19.99    | $103.99       | high           | low    | 7      | namesilo         |
-| cargo.pro          | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| travel.cfd         | premium   | $310.70   | $621.20       | high           | high   | 6      | spaceship        |
+| travel.protection  | available | $2,064.20 | $2,064.20     | high           | high   | 6      | spaceship        |
+| cargo.ai           | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| travel.contractors | premium   | $128.70   | $128.70       | high           | high   | 6      | namecheap        |
+| travel.storage     | available | $465.95   | $500.20       | high           | high   | 6      | spaceship        |
+| cargo.express      | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC     |
+| travel.gratis      | premium   | $414.20   | $414.20       | high           | high   | 6      | spaceship        |
+| freight.ag         | available | $89.99    | $79.99        | high           | low    | 7      | namesilo         |
+| truck.express      | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
