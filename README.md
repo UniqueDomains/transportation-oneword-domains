@@ -1,10 +1,10 @@
-# One-Word Transportation Domains Across 506 TLDs (121,583)
+# One-Word Transportation Domains Across 506 TLDs (121,599)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C583%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-121%2C599%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 90,797 one-word transportation domain names across 506 TLDs, from .com to niche extensions like .express and .tours. Median ask is $760. Updated daily with fresh pricing and TLD coverage for evaluating brandable, transportation-themed names.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **121,583 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **121,599 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 121,583 domains · **Median ask:** $260.76 · **High-demand under $2,500:** 2,670
+**Public extract:** 1,000 rows · **Live catalog:** 121,599 domains · **Median ask:** $261.02 · **High-demand under $2,500:** 2,450
 
 **Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/domains/sector/transportation`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
-| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| freight.actor      | available | $16        | $35.39        | high           | low    | 7      | unstoppable          |
-| delivery.org       | resell    | $69,000    | $21.99        | high           | medium | 8      | GoDaddy.com, LLC     |
-| cargo.store        | premium   | $3,450     | $3,450        | high           | low    | 5      | namesilo             |
-| freight.band       | available | $20        | $39.98        | high           | low    | 7      | unstoppable          |
-| delivery.xxx       | resell    | $154.98    | —             | high           | medium | 8      | GoDaddy.com, LLC     |
-| travel.boo         | premium   | $1,034.17  | $1,034.17     | high           | high   | 6      | spaceship            |
-| freight.camp       | available | $49.88     | $49.88        | high           | low    | 7      | spaceship            |
-| freight.agency     | resell    | —          | —             | high           | low    | 7      | NameSilo, LLC        |
-| travel.casino      | premium   | $880       | $880          | high           | high   | 6      | dynadot              |
-| freight.car        | available | $2,070     | $2,400        | high           | low    | 7      | namecheap            |
-| freight.bio        | resell    | —          | —             | high           | low    | 7      | Dynadot Inc          |
-| travel.coupons     | premium   | $828.20    | $828.20       | high           | high   | 6      | spaceship            |
-| freight.catering   | available | $38.99     | $38.99        | high           | low    | 7      | namesilo             |
-| freight.city       | resell    | —          | —             | high           | low    | 7      | DNSPod, Inc.         |
-| travel.deal        | premium   | $10,917.11 | $10,917.11    | high           | high   | 6      | porkbun              |
-| freight.condos     | available | $58.99     | $58.99        | high           | low    | 7      | namesilo             |
-| freight.cloud      | resell    | —          | —             | high           | low    | 7      | Spaceship, Inc.      |
-| travel.fit         | premium   | $4,140.20  | $26.08        | high           | high   | 6      | spaceship            |
-| freight.creditcard | available | $125.20    | $125.20       | high           | low    | 7      | cloudflare           |
-| freight.co         | resell    | —          | —             | high           | low    | 7      | Hello Internet Corp. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| cargo.holiday      | available | $64.99    | $64.99        | high           | low    | 5      | namesilo             |
+| delivery.org       | resell    | $69,000   | $21.99        | high           | medium | 8      | GoDaddy.com, LLC     |
+| travel.accountants | premium   | $880      | $880          | high           | high   | 6      | dynadot              |
+| train.delivery     | available | $2.27     | $49.88        | high           | low    | 5      | spaceship            |
+| delivery.paris     | resell    | $51.98    | —             | high           | medium | 8      | GoDaddy.com LLC      |
+| travel.catering    | premium   | $414.20   | $414.20       | high           | high   | 6      | spaceship            |
+| travel.airforce    | available | $103.99   | $103.99       | high           | high   | 6      | namesilo             |
+| delivery.xxx       | resell    | $154.98   | —             | high           | medium | 8      | GoDaddy.com, LLC     |
+| travel.estate      | premium   | $414.20   | $414.20       | high           | high   | 6      | spaceship            |
+| travel.audio       | available | $104.99   | $114.99       | high           | high   | 6      | namesilo             |
+| cargo.xyz          | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC     |
+| travel.exposed     | premium   | $218.80   | $437.19       | high           | high   | 6      | porkbun              |
+| travel.blackfriday | available | $114.99   | $114.99       | high           | high   | 6      | namesilo             |
+| freight.agency     | resell    | —         | —             | high           | low    | 7      | NameSilo, LLC        |
+| travel.immo        | premium   | $207.20   | $207.20       | high           | high   | 6      | spaceship            |
+| freight.adult      | available | $52.01    | $98.35        | high           | low    | 7      | porkbun              |
+| freight.cloud      | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.      |
+| travel.industries  | premium   | $414.20   | $414.20       | high           | high   | 6      | spaceship            |
+| freight.archi      | available | $19.99    | $103.99       | high           | low    | 7      | namesilo             |
+| freight.co         | resell    | —         | —             | high           | low    | 7      | Hello Internet Corp. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 121,583 live domains                                 |
+| 1,000-row public sample | 121,599 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,670 high-demand names under $2,500                 |
+| Basic exported fields   | 2,450 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
