@@ -841,7 +841,6 @@ d4e10d85-8903-4925-9d2b-eb044f35fafe,transportation.parts,premium,118.8,118.8,hi
 90b162c9-a8eb-47d7-9dab-70a99321f264,travel.florist,premium,414.2,414.2,high,high,6,spaceship,,,27/10/2026 21:40
 23dd3483-4363-47e5-8337-4b897eed71f4,freight.camera,available,46.78,46.78,high,low,7,spaceship,,,01/10/2026 16:25
 dc110fcf-844b-4c7f-8775-a54978d4ae79,freight.cool,available,9.49,44.99,high,low,7,namesilo,,,01/10/2026 16:25
-0834f7e6-6684-4a08-9a94-df3ced4738fb,freight.co,resell,,,high,low,7,Hello Internet Corp.,25/02/2010 00:49,24/02/2027 23:59,01/10/2026 16:25
 16273742-b8fe-43e8-abcf-3db684ba2f7b,travel.villas,premium,440,440,high,high,6,dynadot,,,27/10/2026 21:40
 8eb9b01a-a391-4c8c-aea7-62fac0062222,transportation.hiv,available,195.99,195.99,high,low,14,namesilo,,,19/09/2026 03:16
 c1d55bf1-9953-424b-8b6f-acdf6bc7ca85,transit.free,premium,116,116,high,low,7,namesilo,,,28/09/2026 15:28
@@ -999,3 +998,4 @@ e08a0350-3051-4ed8-ae0d-36cac039bdd0,transit.stream,premium,385,55,high,low,7,dy
 fbb04a6c-ff25-4fb3-94d7-3a4b7477bfc2,logistics.cab,available,32.99,32.99,high,low,9,namesilo,,,05/10/2026 16:16
 9107659c-ff22-46d1-8575-0535f23749e2,freight.villas,available,10.92,49.44,high,low,7,dynadot,,,01/10/2026 16:25
 e38ae4f3-b388-4d5b-995a-1154e69eed72,logistics.taxi,available,48.2,48.2,high,low,9,cloudflare,,,05/10/2026 16:16
+8adede8c-9449-4af6-b50e-a5d830fe6e4b,transit.insure,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 15:28
